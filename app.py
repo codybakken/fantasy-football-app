@@ -21,11 +21,3 @@ st.text("if the Player Name is 'nan', it means they probably didn't get any poin
 
 st.markdown('### Draft Order')
 
-def Reverse(lst):
-    lst.reverse()
-    return lst
-
-index = 0
-for owner in Reverse(get_results.owner_name_list):
-    index += 1
-    st.text(str(index)+" - "+owner)
