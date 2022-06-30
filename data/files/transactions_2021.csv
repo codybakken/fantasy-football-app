@@ -1,0 +1,619 @@
+date,player_key,player_id,player,source_type,transaction_type,source_team_key,source_team_name,destination_team_key,destination_team_name
+2022-01-02 10:06:27,406.p.100009,100009,Green Bay,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2022-01-02 10:06:27,406.p.100004,100004,Cincinnati,team,drop,406.l.161660.t.8,Johnny Utah,,
+2022-01-01 20:26:38,406.p.26804,26804,Latavius Murray,team,drop,406.l.161660.t.11,The Moose Knucklers,,
+2022-01-01 09:50:58,406.p.31171,31171,Boston Scott,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2022-01-01 09:50:58,406.p.33422,33422,Elijah Moore,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-12-31 16:14:56,406.p.33706,33706,Jaret Patterson,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-12-31 16:13:44,406.p.100015,100015,Miami,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-12-29 10:59:07,406.p.30860,30860,Dare Ogunbowale,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-12-29 10:59:07,406.p.100009,100009,Green Bay,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-12-29 09:02:38,406.p.100003,100003,Chicago,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-12-29 09:02:18,406.p.33408,33408,Kadarius Toney,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-12-29 09:01:42,406.p.31164,31164,Russell Gage,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-12-29 09:01:33,406.p.100021,100021,Philadelphia,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-12-29 01:21:00,406.p.33422,33422,Elijah Moore,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-12-29 01:21:00,406.p.33138,33138,James Robinson,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-12-26 01:14:40,406.p.100015,100015,Miami,waivers,add,,,406.l.161660.t.10,Spark that Spliff
+2021-12-26 01:14:40,406.p.30197,30197,Chris Godwin,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-12-24 07:25:09,406.p.31366,31366,Michael Badgley,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-12-24 07:25:09,406.p.30346,30346,Harrison Butker,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-12-23 17:09:14,406.p.31008,31008,Ronald Jones II,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-12-23 17:09:14,406.p.30202,30202,D'Onta Foreman,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-12-23 08:53:12,406.p.31394,31394,Jeff Wilson Jr.,freeagents,add,,,406.l.161660.t.1,F.Y.H.
+2021-12-23 08:53:12,406.p.31144,31144,Marquez Valdes-Scantling,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-12-23 08:49:39,406.p.100001,100001,Atlanta,freeagents,add,,,406.l.161660.t.1,F.Y.H.
+2021-12-23 08:49:39,406.p.28839,28839,Taylor Heinicke,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-12-23 07:52:07,406.p.100018,100018,New Orleans,freeagents,add,,,406.l.161660.t.3,Big Ditkas
+2021-12-23 07:52:07,406.p.100015,100015,Miami,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-12-23 07:49:07,406.p.32713,32713,Cole Kmet,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-12-23 07:49:07,406.p.30142,30142,David Njoku,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-12-23 01:25:55,406.p.31221,31221,Justin Jackson,waivers,add,,,406.l.161660.t.6,Greek Magic
+2021-12-23 01:25:55,406.p.25812,25812,Kirk Cousins,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-12-23 01:25:55,406.p.9353,9353,Jared Cook,waivers,add,,,406.l.161660.t.1,F.Y.H.
+2021-12-23 01:25:55,406.p.26650,26650,DeAndre Hopkins,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-12-23 01:25:55,406.p.33500,33500,Amon-Ra St. Brown,waivers,add,,,406.l.161660.t.10,Spark that Spliff
+2021-12-23 01:25:55,406.p.29315,29315,Austin Hooper,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-12-23 01:25:55,406.p.100024,100024,Los Angeles,waivers,add,,,406.l.161660.t.6,Greek Magic
+2021-12-23 01:25:55,406.p.100022,100022,Arizona,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-12-23 01:25:55,406.p.24171,24171,Antonio Brown,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-12-23 01:25:55,406.p.32685,32685,Jerry Jeudy,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-12-20 09:45:11,406.p.30157,30157,Gerald Everett,freeagents,add,,,406.l.161660.t.5,Fuck Yas all
+2021-12-20 09:45:11,406.p.100007,100007,Denver,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-12-18 15:01:47,406.p.32675,32675,Tua Tagovailoa,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-12-18 15:01:47,406.p.24788,24788,Cam Newton,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-12-17 09:28:52,406.p.29269,29269,Hunter Henry,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-12-17 09:28:09,406.p.31840,31840,T.J. Hockenson,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-12-16 22:00:58,406.p.30142,30142,David Njoku,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-12-16 22:00:58,406.p.31969,31969,Foster Moreau,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-12-16 21:59:54,406.p.32846,32846,K.J. Osborn,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-12-16 21:59:54,406.p.24815,24815,Mark Ingram II,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-12-16 20:29:12,406.p.100021,100021,Philadelphia,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-12-15 19:23:28,406.p.30997,30997,Rashaad Penny,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-12-15 19:23:28,406.p.31394,31394,Jeff Wilson Jr.,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-12-15 04:26:12,406.p.33399,33399,Justin Fields,freeagents,add,,,406.l.161660.t.3,Big Ditkas
+2021-12-15 04:26:12,406.p.27560,27560,Teddy Bridgewater,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-12-15 02:11:38,406.p.100017,100017,New England,waivers,add,,,406.l.161660.t.3,Big Ditkas
+2021-12-15 02:11:38,406.p.100029,100029,Carolina,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-12-15 02:11:38,406.p.32798,32798,Gabriel Davis,waivers,add,,,406.l.161660.t.9,Poon Monsoon
+2021-12-15 02:11:38,406.p.100025,100025,San Francisco,waivers,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-12-15 02:11:38,406.p.100013,100013,Las Vegas,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-12-14 14:46:49,406.p.33644,33644,Jermar Jefferson,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-12-14 11:24:00,406.p.100024,100024,Los Angeles,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-12-14 07:11:30,406.p.100018,100018,New Orleans,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-12-13 15:05:35,406.p.32125,32125,Kendall Blanton,freeagents,add,,,406.l.161660.t.5,Fuck Yas all
+2021-12-13 15:05:35,406.p.27564,27564,Derek Carr,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-12-12 13:47:36,406.p.31144,31144,Marquez Valdes-Scantling,freeagents,add,,,406.l.161660.t.1,F.Y.H.
+2021-12-12 13:47:36,406.p.33422,33422,Elijah Moore,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-12-12 13:43:02,406.p.27560,27560,Teddy Bridgewater,freeagents,add,,,406.l.161660.t.3,Big Ditkas
+2021-12-12 13:43:02,406.p.33399,33399,Justin Fields,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-12-12 10:39:21,406.p.33644,33644,Jermar Jefferson,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-12-12 10:39:21,406.p.28514,28514,Mike Davis,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-12-12 09:16:22,406.p.100012,100012,Kansas City,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-12-12 09:16:22,406.p.100019,100019,New York,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-12-12 08:29:00,406.p.29315,29315,Austin Hooper,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-12-12 08:29:00,406.p.30494,30494,Ricky Seals-Jones,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-12-11 10:15:17,406.p.31394,31394,Jeff Wilson Jr.,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-12-11 10:15:17,406.p.31171,31171,Boston Scott,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-12-11 01:47:42,406.p.30202,30202,D'Onta Foreman,waivers,add,,,406.l.161660.t.10,Spark that Spliff
+2021-12-11 01:47:42,406.p.28461,28461,Tevin Coleman,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-12-09 21:21:07,406.p.100033,100033,Baltimore,freeagents,add,,,406.l.161660.t.11,The Moose Knucklers
+2021-12-09 21:21:07,406.p.100017,100017,New England,team,drop,406.l.161660.t.11,The Moose Knucklers,,
+2021-12-09 14:36:31,406.p.26800,26800,Dustin Hopkins,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-12-09 14:36:31,406.p.30266,30266,Jake Elliott,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-12-09 14:35:23,406.p.100004,100004,Cincinnati,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-12-09 14:35:23,406.p.100003,100003,Chicago,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-12-08 18:25:08,406.p.100018,100018,New Orleans,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-12-08 18:25:08,406.p.31074,31074,Nyheim Hines,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-12-08 18:24:30,406.p.27120,27120,Brandon McManus,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-12-08 18:24:30,406.p.30552,30552,Matt Breida,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-12-08 18:23:33,406.p.30494,30494,Ricky Seals-Jones,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-12-08 14:25:03,406.p.100005,100005,Cleveland,freeagents,add,,,406.l.161660.t.1,F.Y.H.
+2021-12-08 14:25:03,406.p.100012,100012,Kansas City,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-12-08 09:51:23,406.p.28514,28514,Mike Davis,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-12-08 08:01:20,406.p.100029,100029,Carolina,freeagents,add,,,406.l.161660.t.3,Big Ditkas
+2021-12-08 08:01:20,406.p.32675,32675,Tua Tagovailoa,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-12-08 07:35:47,406.p.100024,100024,Los Angeles,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-12-08 07:35:47,406.p.30202,30202,D'Onta Foreman,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-12-08 01:23:35,406.p.8565,8565,Matt Prater,waivers,add,,,406.l.161660.t.1,F.Y.H.
+2021-12-08 01:23:35,406.p.31366,31366,Michael Badgley,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-12-08 01:23:35,406.p.100007,100007,Denver,waivers,add,,,406.l.161660.t.5,Fuck Yas all
+2021-12-08 01:23:35,406.p.100021,100021,Philadelphia,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-12-08 01:23:35,406.p.100010,100010,Tennessee,waivers,add,,,406.l.161660.t.6,Greek Magic
+2021-12-08 01:23:35,406.p.100016,100016,Minnesota,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-12-08 01:23:35,406.p.100009,100009,Green Bay,waivers,add,,,406.l.161660.t.12,WARREN MOON
+2021-12-08 01:23:35,406.p.31394,31394,Jeff Wilson Jr.,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-12-08 01:23:35,406.p.31164,31164,Russell Gage,waivers,add,,,406.l.161660.t.9,Poon Monsoon
+2021-12-08 01:23:35,406.p.31127,31127,Tyler Conklin,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-12-08 01:23:35,406.p.24171,24171,Antonio Brown,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-12-08 01:23:35,406.p.31457,31457,Dontrell Hilliard,waivers,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-12-07 14:29:57,406.p.100025,100025,San Francisco,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-12-07 14:29:26,406.p.29307,29307,Kenyan Drake,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-12-07 05:24:56,406.p.27648,27648,Logan Thomas,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-12-05 09:35:42,406.p.26060,26060,Cole Beasley,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-12-05 09:35:42,406.p.30230,30230,Josh Reynolds,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-12-05 09:21:46,406.p.30346,30346,Harrison Butker,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-12-05 09:21:46,406.p.27120,27120,Brandon McManus,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-12-05 08:14:59,406.p.32675,32675,Tua Tagovailoa,freeagents,add,,,406.l.161660.t.3,Big Ditkas
+2021-12-05 08:14:59,406.p.100033,100033,Baltimore,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-12-05 07:51:54,406.p.31001,31001,Sony Michel,freeagents,add,,,406.l.161660.t.1,F.Y.H.
+2021-12-05 07:51:54,406.p.100005,100005,Cleveland,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-12-05 01:25:05,406.p.100003,100003,Chicago,waivers,add,,,406.l.161660.t.8,Johnny Utah
+2021-12-05 01:25:05,406.p.100004,100004,Cincinnati,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-12-04 01:20:04,406.p.29307,29307,Kenyan Drake,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-12-04 01:15:35,406.p.28839,28839,Taylor Heinicke,waivers,add,,,406.l.161660.t.1,F.Y.H.
+2021-12-04 01:15:35,406.p.30136,30136,Evan Engram,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-12-02 18:57:09,406.p.100019,100019,New York,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-12-02 18:57:09,406.p.100003,100003,Chicago,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-12-02 16:58:27,406.p.100013,100013,Las Vegas,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-12-02 16:58:27,406.p.100010,100010,Tennessee,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-12-02 16:13:49,406.p.28402,28402,DeVante Parker,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-12-02 16:13:49,406.p.31178,31178,Cedrick Wilson,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-12-02 15:06:18,406.p.26813,26813,Rex Burkhead,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-12-02 15:06:18,406.p.32756,32756,Zack Moss,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-12-02 14:54:25,406.p.30230,30230,Josh Reynolds,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-12-02 14:54:25,406.p.32040,32040,Scotty Miller,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-12-02 14:51:29,406.p.32040,32040,Scotty Miller,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-12-02 14:51:29,406.p.31127,31127,Tyler Conklin,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-12-01 11:53:50,406.p.100015,100015,Miami,freeagents,add,,,406.l.161660.t.3,Big Ditkas
+2021-12-01 11:53:50,406.p.100029,100029,Carolina,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-12-01 08:34:16,406.p.100012,100012,Kansas City,freeagents,add,,,406.l.161660.t.1,F.Y.H.
+2021-12-01 08:34:16,406.p.29307,29307,Kenyan Drake,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-12-01 08:18:55,406.p.32727,32727,Van Jefferson,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-12-01 08:18:55,406.p.26060,26060,Cole Beasley,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-12-01 08:16:55,406.p.30552,30552,Matt Breida,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-12-01 02:39:50,406.p.27564,27564,Derek Carr,waivers,add,,,406.l.161660.t.5,Fuck Yas all
+2021-12-01 02:39:50,406.p.9353,9353,Jared Cook,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-12-01 02:39:50,406.p.30614,30614,Taysom Hill,waivers,add,,,406.l.161660.t.5,Fuck Yas all
+2021-12-01 02:39:50,406.p.30971,30971,Baker Mayfield,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-12-01 02:39:50,406.p.28461,28461,Tevin Coleman,waivers,add,,,406.l.161660.t.10,Spark that Spliff
+2021-12-01 02:39:50,406.p.33408,33408,Kadarius Toney,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-12-01 02:39:50,406.p.100016,100016,Minnesota,waivers,add,,,406.l.161660.t.6,Greek Magic
+2021-12-01 02:39:50,406.p.100034,100034,Houston,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-12-01 02:39:50,406.p.30247,30247,Jamaal Williams,waivers,add,,,406.l.161660.t.12,WARREN MOON
+2021-12-01 02:39:50,406.p.28839,28839,Taylor Heinicke,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-12-01 02:39:50,406.p.31969,31969,Foster Moreau,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-12-01 02:39:50,406.p.33114,33114,Tony Jones Jr.,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-30 08:46:17,406.p.30891,30891,Dan Arnold,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-28 10:12:05,406.p.27540,27540,Odell Beckham Jr.,freeagents,add,,,406.l.161660.t.11,The Moose Knucklers
+2021-11-28 10:12:05,406.p.32608,32608,D'Ernest Johnson,team,drop,406.l.161660.t.11,The Moose Knucklers,,
+2021-11-28 08:13:16,406.p.27120,27120,Brandon McManus,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-11-28 08:13:16,406.p.8447,8447,Mason Crosby,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-11-27 15:48:56,406.p.28474,28474,David Johnson,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-11-27 09:40:07,406.p.27648,27648,Logan Thomas,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-11-25 17:23:00,406.p.31977,31977,Matt Gay,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-25 09:48:04,406.p.33114,33114,Tony Jones Jr.,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-25 09:48:04,406.p.7520,7520,Robbie Gould,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-25 09:15:17,406.p.31888,31888,Mecole Hardman,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-11-25 09:10:45,406.p.100026,100026,Seattle,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-11-25 09:10:45,406.p.100016,100016,Minnesota,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-11-25 09:06:32,406.p.25812,25812,Kirk Cousins,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-11-25 09:06:32,406.p.32675,32675,Tua Tagovailoa,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-11-25 03:48:56,406.p.9520,9520,Ryan Succop,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-11-25 03:48:56,406.p.8565,8565,Matt Prater,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-11-24 14:57:11,406.p.100004,100004,Cincinnati,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-11-24 14:57:11,406.p.100009,100009,Green Bay,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-11-24 14:56:07,406.p.30266,30266,Jake Elliott,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-11-24 14:56:07,406.p.30346,30346,Harrison Butker,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-11-24 07:31:35,406.p.31178,31178,Cedrick Wilson,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-11-24 01:56:42,406.p.28839,28839,Taylor Heinicke,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-11-24 01:28:05,406.p.100034,100034,Houston,waivers,add,,,406.l.161660.t.6,Greek Magic
+2021-11-24 01:28:05,406.p.100018,100018,New Orleans,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-11-24 01:28:05,406.p.25881,25881,Greg Zuerlein,waivers,add,,,406.l.161660.t.9,Poon Monsoon
+2021-11-24 01:28:05,406.p.100006,100006,Dallas,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-24 01:28:05,406.p.100015,100015,Miami,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-24 01:28:05,406.p.100016,100016,Minnesota,waivers,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-11-23 15:14:22,406.p.8261,8261,Adrian Peterson,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-11-23 12:48:31,406.p.27564,27564,Derek Carr,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-11-23 08:44:00,406.p.28267,28267,Cameron Brate,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-11-23 07:52:50,406.p.29269,29269,Hunter Henry,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-23 06:23:09,406.p.25871,25871,Randy Bullock,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-11-23 04:59:16,406.p.30275,30275,Jeremy McNichols,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-11-23 04:53:13,406.p.100024,100024,Los Angeles,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-11-22 10:26:05,406.p.32685,32685,Jerry Jeudy,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-22 10:26:05,406.p.30118,30118,Corey Davis,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-21 20:07:50,406.p.28267,28267,Cameron Brate,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-11-21 20:07:50,406.p.33538,33538,Kenneth Gainwell,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-11-21 11:36:43,406.p.29678,29678,Marcus Johnson,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-11-21 10:51:19,406.p.32675,32675,Tua Tagovailoa,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-11-21 10:51:19,406.p.25812,25812,Kirk Cousins,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-11-21 10:34:09,406.p.100003,100003,Chicago,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-11-21 10:34:09,406.p.100006,100006,Dallas,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-11-20 21:30:03,406.p.31888,31888,Mecole Hardman,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-11-20 21:27:54,406.p.30362,30362,Chris Carson,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-11-20 10:43:13,406.p.30118,30118,Corey Davis,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-20 10:25:20,406.p.29370,29370,Devontae Booker,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-11-20 10:25:20,406.p.27540,27540,Odell Beckham Jr.,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-11-18 15:27:22,406.p.27564,27564,Derek Carr,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-11-18 15:27:22,406.p.32713,32713,Cole Kmet,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-11-17 18:20:21,406.p.100021,100021,Philadelphia,freeagents,add,,,406.l.161660.t.5,Fuck Yas all
+2021-11-17 18:20:21,406.p.33265,33265,Salvon Ahmed,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-11-17 18:19:31,406.p.9353,9353,Jared Cook,freeagents,add,,,406.l.161660.t.5,Fuck Yas all
+2021-11-17 18:19:31,406.p.28402,28402,DeVante Parker,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-11-17 11:55:09,406.p.100024,100024,Los Angeles,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-11-17 11:55:09,406.p.100020,100020,New York,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-11-17 11:53:51,406.p.100020,100020,New York,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-11-17 11:53:51,406.p.32630,32630,Derrick Gore,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-11-17 11:46:55,406.p.29678,29678,Marcus Johnson,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-11-17 11:46:55,406.p.28514,28514,Mike Davis,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-11-17 07:46:47,406.p.29269,29269,Hunter Henry,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-17 07:46:47,406.p.31977,31977,Matt Gay,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-17 07:23:50,406.p.100029,100029,Carolina,freeagents,add,,,406.l.161660.t.3,Big Ditkas
+2021-11-17 07:23:50,406.p.25881,25881,Greg Zuerlein,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-11-17 06:28:47,406.p.25871,25871,Randy Bullock,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-11-17 06:28:47,406.p.9526,9526,Graham Gano,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-11-17 06:27:47,406.p.30202,30202,D'Onta Foreman,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-11-17 06:27:47,406.p.32685,32685,Jerry Jeudy,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-11-17 01:50:58,406.p.33408,33408,Kadarius Toney,waivers,add,,,406.l.161660.t.10,Spark that Spliff
+2021-11-17 01:50:58,406.p.26389,26389,Brandon Bolden,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-11-17 01:50:58,406.p.100025,100025,San Francisco,waivers,add,,,406.l.161660.t.9,Poon Monsoon
+2021-11-17 01:50:58,406.p.9520,9520,Ryan Succop,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-11-17 01:50:58,406.p.24788,24788,Cam Newton,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-17 01:50:58,406.p.32727,32727,Van Jefferson,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-16 07:43:50,406.p.30614,30614,Taysom Hill,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-15 09:13:42,406.p.7520,7520,Robbie Gould,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-15 09:13:42,406.p.31164,31164,Russell Gage,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-14 13:17:23,406.p.25812,25812,Kirk Cousins,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-11-14 13:17:23,406.p.27590,27590,Jimmy Garoppolo,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-11-14 12:28:15,406.p.29281,29281,Michael Thomas,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-11-14 09:04:55,406.p.100010,100010,Tennessee,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-11-14 09:04:55,406.p.100004,100004,Cincinnati,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-11-14 08:32:01,406.p.100006,100006,Dallas,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-11-14 08:32:01,406.p.100013,100013,Las Vegas,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-11-14 08:31:02,406.p.33508,33508,Rhamondre Stevenson,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-11-14 08:31:02,406.p.25802,25802,T.Y. Hilton,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-11-13 20:02:20,406.p.29405,29405,Alex Collins,freeagents,add,,,406.l.161660.t.11,The Moose Knucklers
+2021-11-13 20:02:20,406.p.31001,31001,Sony Michel,team,drop,406.l.161660.t.11,The Moose Knucklers,,
+2021-11-13 19:33:26,406.p.100009,100009,Green Bay,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-11-13 19:33:26,406.p.100003,100003,Chicago,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-11-13 13:19:36,406.p.32727,32727,Van Jefferson,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-13 13:19:36,406.p.29384,29384,Jordan Howard,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-12 17:44:46,406.p.31366,31366,Michael Badgley,freeagents,add,,,406.l.161660.t.1,F.Y.H.
+2021-11-12 17:44:46,406.p.33537,33537,Evan McPherson,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-11-12 11:17:59,406.p.29384,29384,Jordan Howard,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-12 06:58:07,406.p.28514,28514,Mike Davis,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-11-12 06:58:07,406.p.29370,29370,Devontae Booker,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-11-12 06:57:49,406.p.26389,26389,Brandon Bolden,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-11-11 13:57:25,406.p.31538,31538,Greg Joseph,freeagents,add,,,406.l.161660.t.3,Big Ditkas
+2021-11-11 13:57:25,406.p.100006,100006,Dallas,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-11-10 21:13:21,406.p.9353,9353,Jared Cook,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-11-10 15:26:27,406.p.24815,24815,Mark Ingram II,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-10 15:26:27,406.p.27589,27589,Allen Robinson II,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-10 08:39:03,406.p.27631,27631,Devonta Freeman,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-11-10 08:39:03,406.p.31888,31888,Mecole Hardman,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-11-10 07:39:07,406.p.100027,100027,Tampa Bay,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-10 07:39:07,406.p.100029,100029,Carolina,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-10 07:37:39,406.p.31164,31164,Russell Gage,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-10 07:37:39,406.p.33408,33408,Kadarius Toney,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-10 07:34:57,406.p.30891,30891,Dan Arnold,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-10 07:34:57,406.p.28545,28545,C.J. Uzomah,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-10 07:33:19,406.p.32675,32675,Tua Tagovailoa,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-10 01:28:57,406.p.33422,33422,Elijah Moore,waivers,add,,,406.l.161660.t.1,F.Y.H.
+2021-11-10 01:28:57,406.p.100009,100009,Green Bay,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-11-10 01:28:57,406.p.31074,31074,Nyheim Hines,waivers,add,,,406.l.161660.t.10,Spark that Spliff
+2021-11-10 01:28:57,406.p.29405,29405,Alex Collins,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-11-10 01:28:57,406.p.33399,33399,Justin Fields,waivers,add,,,406.l.161660.t.3,Big Ditkas
+2021-11-10 01:28:57,406.p.27564,27564,Derek Carr,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-11-10 01:28:57,406.p.9520,9520,Ryan Succop,waivers,add,,,406.l.161660.t.9,Poon Monsoon
+2021-11-09 11:20:32,406.p.28514,28514,Mike Davis,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-11-09 06:33:51,406.p.31838,31838,Daniel Jones,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-11-07 13:52:51,406.p.100003,100003,Chicago,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-11-07 13:52:51,406.p.100025,100025,San Francisco,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-11-07 13:33:20,406.p.27590,27590,Jimmy Garoppolo,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-11-07 13:33:20,406.p.29274,29274,Sterling Shepard,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-11-07 08:54:10,406.p.100004,100004,Cincinnati,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-11-07 08:54:10,406.p.100001,100001,Atlanta,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-11-07 07:31:08,406.p.31137,31137,Daniel Carlson,freeagents,add,,,406.l.161660.t.11,The Moose Knucklers
+2021-11-07 07:30:59,406.p.27120,27120,Brandon McManus,team,drop,406.l.161660.t.11,The Moose Knucklers,,
+2021-11-07 07:28:47,406.p.32695,32695,Brandon Aiyuk,freeagents,add,,,406.l.161660.t.5,Fuck Yas all
+2021-11-07 07:27:04,406.p.33265,33265,Salvon Ahmed,freeagents,add,,,406.l.161660.t.5,Fuck Yas all
+2021-11-07 07:27:04,406.p.29269,29269,Hunter Henry,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-11-06 20:53:18,406.p.31394,31394,Jeff Wilson Jr.,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-11-06 01:21:09,406.p.100018,100018,New Orleans,waivers,add,,,406.l.161660.t.6,Greek Magic
+2021-11-06 01:21:09,406.p.100007,100007,Denver,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-11-05 14:07:16,406.p.32675,32675,Tua Tagovailoa,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-05 14:07:16,406.p.25812,25812,Kirk Cousins,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-05 06:06:49,406.p.100013,100013,Las Vegas,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-11-05 06:06:49,406.p.100027,100027,Tampa Bay,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-11-04 21:48:30,406.p.31838,31838,Daniel Jones,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-11-04 15:23:48,406.p.30997,30997,Rashaad Penny,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-11-04 08:17:16,406.p.32630,32630,Derrick Gore,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-11-03 15:30:58,406.p.32018,32018,Ty Johnson,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-11-03 15:30:58,406.p.26561,26561,Josh Gordon,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-11-03 15:28:39,406.p.32417,32417,Chase McLaughlin,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-11-03 12:51:13,406.p.30971,30971,Baker Mayfield,freeagents,add,,,406.l.161660.t.5,Fuck Yas all
+2021-11-03 12:51:13,406.p.100018,100018,New Orleans,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-11-03 08:33:07,406.p.8432,8432,Nick Folk,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-11-03 08:33:07,406.p.30426,30426,Younghoe Koo,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-11-03 06:58:46,406.p.30256,30256,Marlon Mack,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-11-03 06:55:47,406.p.31171,31171,Boston Scott,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-11-03 02:48:32,406.p.31127,31127,Tyler Conklin,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-11-03 02:45:38,406.p.8261,8261,Adrian Peterson,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-11-03 02:45:38,406.p.24851,24851,Randall Cobb,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-11-03 01:37:58,406.p.100018,100018,New Orleans,waivers,add,,,406.l.161660.t.5,Fuck Yas all
+2021-11-03 01:37:58,406.p.27648,27648,Logan Thomas,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-11-03 01:37:58,406.p.9353,9353,Jared Cook,waivers,add,,,406.l.161660.t.9,Poon Monsoon
+2021-11-03 01:37:58,406.p.33500,33500,Amon-Ra St. Brown,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-11-03 01:37:58,406.p.100015,100015,Miami,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-03 01:37:58,406.p.100004,100004,Cincinnati,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-03 01:37:58,406.p.30275,30275,Jeremy McNichols,waivers,add,,,406.l.161660.t.12,WARREN MOON
+2021-11-03 01:37:58,406.p.28474,28474,David Johnson,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-11-03 01:37:58,406.p.28188,28188,Chris Boswell,waivers,add,,,406.l.161660.t.5,Fuck Yas all
+2021-11-03 01:37:58,406.p.9520,9520,Ryan Succop,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-11-03 01:37:58,406.p.27564,27564,Derek Carr,waivers,add,,,406.l.161660.t.3,Big Ditkas
+2021-11-03 01:37:58,406.p.33109,33109,Marquez Callaway,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-11-03 01:37:58,406.p.32685,32685,Jerry Jeudy,waivers,add,,,406.l.161660.t.9,Poon Monsoon
+2021-11-03 01:37:58,406.p.30614,30614,Taysom Hill,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-11-03 01:37:58,406.p.8780,8780,Matt Ryan,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-11-02 18:09:10,406.p.100026,100026,Seattle,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-11-02 07:37:20,406.p.30494,30494,Ricky Seals-Jones,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-11-02 07:37:04,406.p.31538,31538,Greg Joseph,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-10-31 18:10:33,406.p.31164,31164,Russell Gage,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-10-30 21:51:25,406.p.30777,30777,Robert Tonyan,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-10-30 15:24:54,406.p.30118,30118,Corey Davis,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-10-30 14:26:24,406.p.25802,25802,T.Y. Hilton,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-10-30 14:26:08,406.p.27564,27564,Derek Carr,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-10-30 14:25:42,406.p.29236,29236,Carson Wentz,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-10-30 14:25:42,406.p.29315,29315,Austin Hooper,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-10-30 14:24:59,406.p.32685,32685,Jerry Jeudy,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-10-30 14:24:49,406.p.24815,24815,Mark Ingram II,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-10-30 09:48:20,406.p.29405,29405,Alex Collins,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-10-30 09:48:20,406.p.31074,31074,Nyheim Hines,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-10-30 08:31:06,406.p.29370,29370,Devontae Booker,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-10-30 08:31:06,406.p.31171,31171,Boston Scott,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-10-30 01:18:15,406.p.32608,32608,D'Ernest Johnson,waivers,add,,,406.l.161660.t.11,The Moose Knucklers
+2021-10-30 01:18:15,406.p.31008,31008,Ronald Jones II,team,drop,406.l.161660.t.11,The Moose Knucklers,,
+2021-10-29 09:05:36,406.p.28474,28474,David Johnson,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-10-29 09:05:36,406.p.28493,28493,Jamison Crowder,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-10-28 17:45:25,406.p.24851,24851,Randall Cobb,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-10-28 17:45:25,406.p.31144,31144,Marquez Valdes-Scantling,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-10-27 07:51:50,406.p.31164,31164,Russell Gage,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-10-27 07:51:50,406.p.29370,29370,Devontae Booker,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-10-27 07:50:44,406.p.26060,26060,Cole Beasley,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-10-27 07:48:04,406.p.31171,31171,Boston Scott,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-10-27 07:47:16,406.p.32675,32675,Tua Tagovailoa,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-10-27 07:46:56,406.p.100013,100013,Las Vegas,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-10-27 06:59:38,406.p.100006,100006,Dallas,freeagents,add,,,406.l.161660.t.3,Big Ditkas
+2021-10-27 06:59:38,406.p.8432,8432,Nick Folk,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-10-27 06:40:34,406.p.33537,33537,Evan McPherson,freeagents,add,,,406.l.161660.t.1,F.Y.H.
+2021-10-27 06:40:34,406.p.31137,31137,Daniel Carlson,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-10-27 06:25:15,406.p.100026,100026,Seattle,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-10-27 06:25:15,406.p.26660,26660,Giovani Bernard,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-10-27 04:45:21,406.p.31144,31144,Marquez Valdes-Scantling,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-10-27 04:45:21,406.p.30247,30247,Jamaal Williams,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-10-27 02:24:44,406.p.33408,33408,Kadarius Toney,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-27 02:24:44,406.p.32682,32682,Henry Ruggs III,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-27 01:32:40,406.p.30118,30118,Corey Davis,waivers,add,,,406.l.161660.t.9,Poon Monsoon
+2021-10-27 01:32:40,406.p.25812,25812,Kirk Cousins,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-27 01:32:40,406.p.29405,29405,Alex Collins,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-27 01:32:40,406.p.9526,9526,Graham Gano,waivers,add,,,406.l.161660.t.9,Poon Monsoon
+2021-10-27 01:32:40,406.p.100004,100004,Cincinnati,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-27 01:32:40,406.p.32608,32608,D'Ernest Johnson,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-26 10:40:05,406.p.33599,33599,Demetric Felton,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-10-26 10:39:09,406.p.32384,32384,Joey Slye,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-10-26 10:38:25,406.p.100018,100018,New Orleans,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-10-25 07:55:25,406.p.31538,31538,Greg Joseph,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-10-25 07:50:36,406.p.25881,25881,Greg Zuerlein,freeagents,add,,,406.l.161660.t.3,Big Ditkas
+2021-10-25 07:50:36,406.p.33399,33399,Justin Fields,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-10-25 07:48:47,406.p.33109,33109,Marquez Callaway,freeagents,add,,,406.l.161660.t.3,Big Ditkas
+2021-10-25 07:48:47,406.p.32695,32695,Brandon Aiyuk,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-10-22 11:04:24,406.p.32682,32682,Henry Ruggs III,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-22 11:04:24,406.p.33408,33408,Kadarius Toney,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-22 01:13:30,406.p.30136,30136,Evan Engram,waivers,add,,,406.l.161660.t.1,F.Y.H.
+2021-10-22 01:13:30,406.p.31127,31127,Tyler Conklin,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-10-21 18:52:27,406.p.27564,27564,Derek Carr,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-10-21 18:52:27,406.p.25812,25812,Kirk Cousins,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-10-21 18:51:53,406.p.33437,33437,Rondale Moore,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-10-21 18:51:53,406.p.30227,30227,Samaje Perine,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-10-21 12:01:03,406.p.33599,33599,Demetric Felton,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-10-21 11:49:14,406.p.32417,32417,Chase McLaughlin,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-10-21 11:49:14,406.p.24851,24851,Randall Cobb,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-10-21 11:46:20,406.p.100001,100001,Atlanta,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-10-21 11:46:20,406.p.100004,100004,Cincinnati,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-10-21 11:39:52,406.p.32713,32713,Cole Kmet,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-10-20 13:55:40,406.p.30426,30426,Younghoe Koo,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-10-20 13:55:40,406.p.31538,31538,Greg Joseph,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-10-20 13:55:13,406.p.100013,100013,Las Vegas,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-10-20 13:55:13,406.p.30118,30118,Corey Davis,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-10-20 07:56:29,406.p.28545,28545,C.J. Uzomah,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-20 07:56:29,406.p.30142,30142,David Njoku,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-20 07:53:52,406.p.8780,8780,Matt Ryan,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-20 07:53:52,406.p.30973,30973,Sam Darnold,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-20 07:52:53,406.p.100029,100029,Carolina,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-20 07:52:53,406.p.100015,100015,Miami,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-20 05:19:18,406.p.100025,100025,San Francisco,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-10-20 05:19:18,406.p.100016,100016,Minnesota,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-10-20 05:18:18,406.p.30777,30777,Robert Tonyan,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-10-20 05:18:18,406.p.33476,33476,Trey Sermon,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-10-20 01:33:37,406.p.32384,32384,Joey Slye,waivers,add,,,406.l.161660.t.9,Poon Monsoon
+2021-10-20 01:33:37,406.p.25881,25881,Greg Zuerlein,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-10-20 01:33:37,406.p.100018,100018,New Orleans,waivers,add,,,406.l.161660.t.9,Poon Monsoon
+2021-10-20 01:33:37,406.p.100003,100003,Chicago,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-10-20 01:33:37,406.p.30997,30997,Rashaad Penny,waivers,add,,,406.l.161660.t.6,Greek Magic
+2021-10-20 01:33:37,406.p.32675,32675,Tua Tagovailoa,waivers,add,,,406.l.161660.t.10,Spark that Spliff
+2021-10-20 01:33:37,406.p.26060,26060,Cole Beasley,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-10-20 01:33:37,406.p.26660,26660,Giovani Bernard,waivers,add,,,406.l.161660.t.9,Poon Monsoon
+2021-10-20 01:33:37,406.p.27532,27532,Sammy Watkins,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-10-20 01:33:37,406.p.31905,31905,David Montgomery,waivers,add,,,406.l.161660.t.3,Big Ditkas
+2021-10-20 01:33:37,406.p.100006,100006,Dallas,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-10-20 01:33:37,406.p.32608,32608,D'Ernest Johnson,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-20 01:33:37,406.p.28115,28115,Damien Williams,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-19 09:35:32,406.p.30136,30136,Evan Engram,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-10-17 09:02:42,406.p.31905,31905,David Montgomery,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-10-17 01:14:32,406.p.29785,29785,Robbie Anderson,waivers,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-10-16 21:26:24,406.p.100022,100022,Arizona,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-10-16 21:26:24,406.p.30891,30891,Dan Arnold,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-10-16 21:25:10,406.p.30891,30891,Dan Arnold,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-10-16 21:25:10,406.p.32682,32682,Henry Ruggs III,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-10-16 15:12:59,406.p.31906,31906,Devin Singletary,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-10-16 15:12:59,406.p.33599,33599,Demetric Felton,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-10-16 12:47:59,406.p.33500,33500,Amon-Ra St. Brown,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-10-15 18:35:43,406.p.29405,29405,Alex Collins,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-15 18:35:43,406.p.9353,9353,Jared Cook,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-15 15:07:42,406.p.33599,33599,Demetric Felton,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-10-15 15:07:42,406.p.33006,33006,Ty'Son Williams,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-10-14 18:24:45,406.p.100004,100004,Cincinnati,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-10-14 18:24:45,406.p.100001,100001,Atlanta,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-10-14 16:46:38,406.p.30136,30136,Evan Engram,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-10-14 16:46:38,406.p.29785,29785,Robbie Anderson,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-10-14 06:26:37,406.p.30256,30256,Marlon Mack,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-10-13 11:16:54,406.p.100009,100009,Green Bay,freeagents,add,,,406.l.161660.t.1,F.Y.H.
+2021-10-13 11:16:54,406.p.33422,33422,Elijah Moore,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-10-13 08:38:21,406.p.30494,30494,Ricky Seals-Jones,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-10-13 08:37:01,406.p.30142,30142,David Njoku,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-13 08:37:01,406.p.31906,31906,Devin Singletary,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-13 05:56:40,406.p.29370,29370,Devontae Booker,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-10-13 05:56:40,406.p.100022,100022,Arizona,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-10-13 01:39:47,406.p.8432,8432,Nick Folk,waivers,add,,,406.l.161660.t.3,Big Ditkas
+2021-10-13 01:39:47,406.p.30426,30426,Younghoe Koo,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-10-13 01:39:47,406.p.100015,100015,Miami,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-13 01:39:47,406.p.100013,100013,Las Vegas,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-13 01:39:47,406.p.29315,29315,Austin Hooper,waivers,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-10-13 01:39:47,406.p.26660,26660,Giovani Bernard,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-10-13 01:39:47,406.p.100011,100011,Indianapolis,waivers,add,,,406.l.161660.t.5,Fuck Yas all
+2021-10-13 01:39:47,406.p.100018,100018,New Orleans,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-10-13 01:39:47,406.p.31500,31500,Darrel Williams,waivers,add,,,406.l.161660.t.8,Johnny Utah
+2021-10-13 01:39:47,406.p.32751,32751,Bryan Edwards,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-10-13 01:39:47,406.p.100006,100006,Dallas,waivers,add,,,406.l.161660.t.3,Big Ditkas
+2021-10-13 01:39:47,406.p.31329,31329,Ross Dwelley,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-10-13 01:39:47,406.p.33408,33408,Kadarius Toney,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-12 18:52:20,406.p.28392,28392,Amari Cooper,team,trade,406.l.161660.t.8,Johnny Utah,406.l.161660.t.3,Big Ditkas
+2021-10-12 18:52:20,406.p.31329,31329,Ross Dwelley,team,trade,406.l.161660.t.8,Johnny Utah,406.l.161660.t.3,Big Ditkas
+2021-10-12 18:52:20,406.p.30259,30259,George Kittle,team,trade,406.l.161660.t.8,Johnny Utah,406.l.161660.t.3,Big Ditkas
+2021-10-12 18:52:20,406.p.29288,29288,Tyler Boyd,team,trade,406.l.161660.t.3,Big Ditkas,406.l.161660.t.8,Johnny Utah
+2021-10-12 18:52:20,406.p.31107,31107,Dalton Schultz,team,trade,406.l.161660.t.3,Big Ditkas,406.l.161660.t.8,Johnny Utah
+2021-10-12 18:52:20,406.p.33582,33582,Eli Mitchell,team,trade,406.l.161660.t.3,Big Ditkas,406.l.161660.t.8,Johnny Utah
+2021-10-11 18:30:05,406.p.32836,32836,Quintez Cephus,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-10-11 08:06:05,406.p.30175,30175,JuJu Smith-Schuster,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-10-10 10:16:16,406.p.27658,27658,James White,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-10-10 08:09:11,406.p.33605,33605,Khalil Herbert,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-10-10 08:09:11,406.p.29560,29560,Peyton Barber,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-10-09 15:16:16,406.p.31329,31329,Ross Dwelley,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-10-09 15:16:16,406.p.32691,32691,Jalen Reagor,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-10-09 08:14:50,406.p.8447,8447,Mason Crosby,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-10-09 01:21:16,406.p.33514,33514,Chuba Hubbard,waivers,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-10-09 01:21:16,406.p.31041,31041,Royce Freeman,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-10-08 14:37:24,406.p.100022,100022,Arizona,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-10-08 14:37:24,406.p.30153,30153,Curtis Samuel,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-10-08 12:08:26,406.p.30973,30973,Sam Darnold,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-08 12:08:26,406.p.33437,33437,Rondale Moore,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-08 08:08:31,406.p.31012,31012,Mike Gesicki,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-10-08 08:08:31,406.p.30777,30777,Robert Tonyan,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-10-08 06:27:00,406.p.30227,30227,Samaje Perine,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-10-08 06:27:00,406.p.26671,26671,Le'Veon Bell,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-10-07 13:51:46,406.p.100001,100001,Atlanta,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-10-07 13:51:46,406.p.100004,100004,Cincinnati,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-10-07 13:44:16,406.p.24791,24791,A.J. Green,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-10-07 08:29:14,406.p.100016,100016,Minnesota,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-10-07 08:29:14,406.p.100025,100025,San Francisco,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-10-06 09:33:57,406.p.28408,28408,Nelson Agholor,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-10-06 09:26:46,406.p.27532,27532,Sammy Watkins,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-10-06 09:26:46,406.p.32798,32798,Gabriel Davis,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-10-06 06:04:07,406.p.31981,31981,Hunter Renfrow,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-10-06 06:04:07,406.p.30502,30502,Zach Pascal,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-10-06 04:11:26,406.p.31107,31107,Dalton Schultz,freeagents,add,,,406.l.161660.t.3,Big Ditkas
+2021-10-06 04:11:26,406.p.33514,33514,Chuba Hubbard,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-10-06 01:34:38,406.p.28493,28493,Jamison Crowder,waivers,add,,,406.l.161660.t.12,WARREN MOON
+2021-10-06 01:34:38,406.p.30157,30157,Gerald Everett,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-10-06 01:34:38,406.p.28115,28115,Damien Williams,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-06 01:34:38,406.p.28267,28267,Cameron Brate,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-05 20:57:29,406.p.7520,7520,Robbie Gould,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-10-05 08:01:24,406.p.100010,100010,Tennessee,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-03 17:53:16,406.p.100013,100013,Las Vegas,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-03 17:53:16,406.p.30136,30136,Evan Engram,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-10-03 09:25:27,406.p.31424,31424,Gus Edwards,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-10-03 08:18:41,406.p.32682,32682,Henry Ruggs III,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-10-02 16:39:09,406.p.26671,26671,Le'Veon Bell,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-10-02 16:39:09,406.p.33109,33109,Marquez Callaway,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-10-02 11:49:42,406.p.28267,28267,Cameron Brate,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-10-02 06:28:20,406.p.31538,31538,Greg Joseph,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-10-02 06:28:20,406.p.28378,28378,Jason Myers,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-10-01 06:52:10,406.p.31031,31031,DJ Chark Jr.,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-09-29 20:20:22,406.p.100018,100018,New Orleans,freeagents,add,,,406.l.161660.t.5,Fuck Yas all
+2021-09-29 20:20:22,406.p.100006,100006,Dallas,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-09-29 05:31:20,406.p.29560,29560,Peyton Barber,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-09-29 05:31:20,406.p.31164,31164,Russell Gage,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-09-29 05:26:02,406.p.31041,31041,Royce Freeman,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-09-29 05:26:02,406.p.100028,100028,Washington,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-09-29 01:34:44,406.p.24057,24057,Emmanuel Sanders,waivers,add,,,406.l.161660.t.9,Poon Monsoon
+2021-09-29 01:34:44,406.p.29255,29255,Will Fuller V,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-09-29 01:34:44,406.p.30502,30502,Zach Pascal,waivers,add,,,406.l.161660.t.12,WARREN MOON
+2021-09-29 01:34:44,406.p.100013,100013,Las Vegas,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-09-29 01:34:44,406.p.100003,100003,Chicago,waivers,add,,,406.l.161660.t.9,Poon Monsoon
+2021-09-29 01:34:44,406.p.100029,100029,Carolina,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-09-29 01:34:44,406.p.26561,26561,Josh Gordon,waivers,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-09-29 01:34:44,406.p.32713,32713,Cole Kmet,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-09-29 01:34:44,406.p.100010,100010,Tennessee,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-09-29 01:34:44,406.p.100022,100022,Arizona,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-09-29 01:34:44,406.p.33514,33514,Chuba Hubbard,waivers,add,,,406.l.161660.t.3,Big Ditkas
+2021-09-29 01:34:44,406.p.30213,30213,Jonnu Smith,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-09-28 08:07:37,406.p.32846,32846,K.J. Osborn,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-09-26 13:49:02,406.p.26660,26660,Giovani Bernard,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-09-26 13:49:02,406.p.31013,31013,Kerryon Johnson,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-09-26 01:20:04,406.p.31013,31013,Kerryon Johnson,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-09-26 01:20:04,406.p.28461,28461,Tevin Coleman,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-09-24 11:02:30,406.p.32751,32751,Bryan Edwards,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-09-24 11:02:30,406.p.33643,33643,Kylin Hill,team,drop,406.l.161660.t.8,Johnny Utah,,
+2021-09-23 19:02:34,406.p.32836,32836,Quintez Cephus,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-09-23 19:02:19,406.p.28691,28691,Tyrell Williams,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-09-23 10:02:01,406.p.100006,100006,Dallas,freeagents,add,,,406.l.161660.t.5,Fuck Yas all
+2021-09-23 10:02:01,406.p.100003,100003,Chicago,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-09-22 16:10:37,406.p.100004,100004,Cincinnati,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-09-22 16:10:37,406.p.29370,29370,Devontae Booker,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-09-22 16:06:39,406.p.31928,31928,Dawson Knox,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-09-22 16:06:39,406.p.31012,31012,Mike Gesicki,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-09-22 11:10:14,406.p.32846,32846,K.J. Osborn,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-09-22 11:01:10,406.p.27120,27120,Brandon McManus,freeagents,add,,,406.l.161660.t.11,The Moose Knucklers
+2021-09-22 09:44:48,406.p.100013,100013,Las Vegas,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-09-22 01:30:46,406.p.26652,26652,Cordarrelle Patterson,waivers,add,,,406.l.161660.t.3,Big Ditkas
+2021-09-22 01:30:46,406.p.100026,100026,Seattle,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-09-22 01:30:46,406.p.30136,30136,Evan Engram,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-09-22 01:30:46,406.p.33114,33114,Tony Jones Jr.,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-09-21 11:59:31,406.p.33113,33113,Juwan Johnson,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-09-21 10:18:09,406.p.31199,31199,Jason Sanders,team,drop,406.l.161660.t.11,The Moose Knucklers,,
+2021-09-19 10:31:10,406.p.100003,100003,Chicago,freeagents,add,,,406.l.161660.t.5,Fuck Yas all
+2021-09-19 10:31:10,406.p.100011,100011,Indianapolis,team,drop,406.l.161660.t.5,Fuck Yas all,,
+2021-09-19 07:41:21,406.p.33437,33437,Rondale Moore,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-09-19 07:41:21,406.p.100012,100012,Kansas City,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-09-17 10:37:45,406.p.100026,100026,Seattle,freeagents,add,,,406.l.161660.t.3,Big Ditkas
+2021-09-17 10:37:45,406.p.32751,32751,Bryan Edwards,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-09-17 06:53:58,406.p.28378,28378,Jason Myers,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-09-17 06:53:58,406.p.33211,33211,Rodrigo Blankenship,team,drop,406.l.161660.t.10,Spark that Spliff,,
+2021-09-16 06:15:36,406.p.33109,33109,Marquez Callaway,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-09-15 23:25:12,406.p.33538,33538,Kenneth Gainwell,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-09-15 23:25:12,406.p.32682,32682,Henry Ruggs III,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-09-15 11:13:59,406.p.33113,33113,Juwan Johnson,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-09-15 11:13:59,406.p.31379,31379,Phillip Lindsay,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-09-15 10:36:28,406.p.31017,31017,Christian Kirk,freeagents,add,,,406.l.161660.t.11,The Moose Knucklers
+2021-09-15 08:08:49,406.p.100022,100022,Arizona,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-09-15 08:08:49,406.p.27532,27532,Sammy Watkins,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-09-15 01:32:16,406.p.28461,28461,Tevin Coleman,waivers,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-09-15 01:32:16,406.p.26671,26671,Le'Veon Bell,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-09-15 01:32:16,406.p.29274,29274,Sterling Shepard,waivers,add,,,406.l.161660.t.6,Greek Magic
+2021-09-15 01:32:16,406.p.28474,28474,David Johnson,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-09-15 01:32:16,406.p.32713,32713,Cole Kmet,waivers,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-09-15 01:32:16,406.p.100009,100009,Green Bay,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-09-15 01:32:16,406.p.24815,24815,Mark Ingram II,waivers,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-09-15 01:32:16,406.p.28654,28654,Raheem Mostert,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-09-15 01:32:16,406.p.9353,9353,Jared Cook,waivers,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-09-15 01:32:16,406.p.29315,29315,Austin Hooper,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-09-15 01:32:16,406.p.33582,33582,Eli Mitchell,waivers,add,,,406.l.161660.t.3,Big Ditkas
+2021-09-15 01:32:16,406.p.33390,33390,Zach Wilson,team,drop,406.l.161660.t.3,Big Ditkas,,
+2021-09-13 12:13:34,406.p.27532,27532,Sammy Watkins,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-09-13 12:13:34,406.p.33109,33109,Marquez Callaway,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-09-12 16:47:20,406.p.32751,32751,Bryan Edwards,freeagents,add,,,406.l.161660.t.3,Big Ditkas
+2021-09-12 08:54:19,406.p.8565,8565,Matt Prater,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-09-12 08:54:19,406.p.32417,32417,Chase McLaughlin,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-09-10 14:03:31,406.p.26060,26060,Cole Beasley,freeagents,add,,,406.l.161660.t.10,Spark that Spliff
+2021-09-10 09:49:20,406.p.27658,27658,James White,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-09-09 14:09:28,406.p.32725,32725,J.K. Dobbins,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-09-09 13:58:56,406.p.26671,26671,Le'Veon Bell,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-09-09 13:58:56,406.p.33408,33408,Kadarius Toney,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-09-07 18:31:42,406.p.33114,33114,Tony Jones Jr.,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-09-07 18:31:42,406.p.33391,33391,Trey Lance,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-09-07 15:17:00,406.p.32417,32417,Chase McLaughlin,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-09-07 15:17:00,406.p.8432,8432,Nick Folk,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-09-06 19:51:45,406.p.28691,28691,Tyrell Williams,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-09-06 19:51:45,406.p.33447,33447,Terrace Marshall Jr.,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-09-06 10:31:36,406.p.7520,7520,Robbie Gould,freeagents,add,,,406.l.161660.t.6,Greek Magic
+2021-09-06 10:31:36,406.p.8780,8780,Matt Ryan,team,drop,406.l.161660.t.6,Greek Magic,,
+2021-09-01 15:20:31,406.p.31127,31127,Tyler Conklin,freeagents,add,,,406.l.161660.t.1,F.Y.H.
+2021-09-01 15:19:56,406.p.31882,31882,Irv Smith Jr.,team,drop,406.l.161660.t.1,F.Y.H.,,
+2021-09-01 09:31:56,406.p.29315,29315,Austin Hooper,freeagents,add,,,406.l.161660.t.4,DerricksSexualFavors
+2021-09-01 09:31:56,406.p.30136,30136,Evan Engram,team,drop,406.l.161660.t.4,DerricksSexualFavors,,
+2021-09-01 08:19:12,406.p.33643,33643,Kylin Hill,freeagents,add,,,406.l.161660.t.8,Johnny Utah
+2021-08-31 11:54:28,406.p.33006,33006,Ty'Son Williams,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-08-31 11:54:28,406.p.31945,31945,Justice Hill,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-08-30 16:07:51,406.p.100009,100009,Green Bay,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-08-29 19:05:53,406.p.30157,30157,Gerald Everett,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-08-29 10:17:59,406.p.100029,100029,Carolina,freeagents,add,,,406.l.161660.t.9,Poon Monsoon
+2021-08-29 10:17:59,406.p.33514,33514,Chuba Hubbard,team,drop,406.l.161660.t.9,Poon Monsoon,,
+2021-08-29 08:52:47,406.p.25802,25802,T.Y. Hilton,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-08-29 08:42:00,406.p.29370,29370,Devontae Booker,freeagents,add,,,406.l.161660.t.2,Bang Bang!!!
+2021-08-29 08:42:00,406.p.29315,29315,Austin Hooper,team,drop,406.l.161660.t.2,Bang Bang!!!,,
+2021-08-28 21:51:01,406.p.8432,8432,Nick Folk,freeagents,add,,,406.l.161660.t.7,The Hebrew Hammer
+2021-08-28 21:51:01,406.p.32775,32775,Adam Trautman,team,drop,406.l.161660.t.7,The Hebrew Hammer,,
+2021-08-28 20:51:47,406.p.31945,31945,Justice Hill,freeagents,add,,,406.l.161660.t.12,WARREN MOON
+2021-08-28 20:51:47,406.p.32751,32751,Bryan Edwards,team,drop,406.l.161660.t.12,WARREN MOON,,
+2021-08-28 00:27:29,406.p.100005,100005,Cleveland,freeagents,add,,,406.l.161660.t.1,F.Y.H.
+2021-08-28 00:27:29,406.p.32922,32922,Tyrie Cleveland,team,drop,406.l.161660.t.1,F.Y.H.,,
