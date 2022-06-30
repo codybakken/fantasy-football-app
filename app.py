@@ -17,3 +17,15 @@ keeper_df = get_results.owner_keepers(get_results.keeper_eval,select_owner)
 
 st.dataframe(keeper_df,750,600)
 st.text("if the Player Name is 'nan', it means they probably didn't get any points at all.\nI only pulled in the top 700 players")
+
+
+st.markdown('### Draft Order')
+
+def Reverse(lst):
+    lst.reverse()
+    return lst
+
+index = 0
+for owner in Reverse(get_results.owner_name_list):
+    index += 1
+    st.text(str(index)+" - "+owner)
