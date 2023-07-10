@@ -1,5 +1,8 @@
 import streamlit as st
 import get_results
+from ui import float_to_ordinal as fto
+
+
 
 
 st.title("Keeper List")
@@ -10,14 +13,29 @@ with st.sidebar:
 
 owner = get_results.filter_df(get_results.owner_df,'manager_name',select_owner).values.tolist()
 grade = owner[0][7]
-st.markdown(f"### {select_owner}'s Draft Grade last year was {grade}")
-
+st.markdown(f"# {select_owner}'s Keeper List")
 
 keeper_df = get_results.owner_keepers(get_results.keeper_eval,select_owner)
 
-st.dataframe(keeper_df,750,600)
-st.text("if the Player Name is 'nan', it means they probably didn't get any points at all.\nI only pulled in the top 700 players")
 
+st.markdown('### Eligible Keepers')
+for k in keeper_df.values.tolist():
+    round_value = fto(k[6])
+    if k[5] == "eligible": 
+        st.markdown(f"**{k[2]}** ({k[4]} - {k[3]}): {round_value}")
 
-st.markdown('### Draft Order')
+st.markdown('### Other Players')
+for k in keeper_df.values.tolist():
+    round_value = fto(k[6])
+    if k[5] == "ineligible": 
+        if k[0] == 1 or k[0] == 2:
+            reason = "drafted in the first two rounds"
+        elif k[7]:
+            reason = "you dropped this player"
+        elif k[8] == 1:
+            reason = "you kept them last year"
+        else:
+            reason = "no reason"
+        st.markdown(f"**{k[2]}** ({k[4]} - {k[3]}) - {reason}")
+
 
