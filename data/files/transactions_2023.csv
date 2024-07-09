@@ -1,0 +1,667 @@
+date,player_key,player_id,player,source_type,transaction_type,source_team_key,source_team_name,destination_team_key,destination_team_name
+2024-01-03 08:09:22,423.p.34112,34112,Jerome Ford,waivers,add,,,423.l.129200.t.12,Yordong
+2024-01-03 08:09:22,423.p.34100,34100,Sam Howell,team,drop,423.l.129200.t.12,Yordong,,
+2023-12-31 08:09:24,423.p.31965,31965,Jarrett Stidham,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-12-31 00:31:56,423.p.33465,33465,Joshua Palmer,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-12-29 00:04:32,423.p.30563,30563,Nick Mullens,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-12-28 18:44:50,423.p.40185,40185,Jaren Hall,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-12-28 18:44:50,423.p.31965,31965,Jarrett Stidham,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-12-28 18:09:34,423.p.29325,29325,Jacoby Brissett,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-12-28 18:09:34,423.p.25718,25718,Ryan Tannehill,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-12-27 18:01:54,423.p.40048,40048,Dalton Kincaid,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-12-27 18:01:54,423.p.31257,31257,Tanner Hudson,team,drop,423.l.129200.t.12,Yordong,,
+2023-12-27 17:56:17,423.p.100027,100027,Tampa Bay,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-12-27 17:56:17,423.p.25785,25785,Russell Wilson,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-12-27 17:50:41,423.p.34659,34659,Rashid Shaheed,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-12-27 17:50:41,423.p.26483,26483,Case Keenum,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-12-27 17:49:35,423.p.34007,34007,George Pickens,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-12-27 17:49:35,423.p.100028,100028,Washington,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-12-27 17:49:03,423.p.32417,32417,Chase McLaughlin,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-12-27 17:49:03,423.p.33537,33537,Evan McPherson,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-12-27 17:11:27,423.p.24967,24967,Tyrod Taylor,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-12-27 17:11:27,423.p.34112,34112,Jerome Ford,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-12-27 17:08:11,423.p.31965,31965,Jarrett Stidham,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-12-27 17:08:11,423.p.40504,40504,Tyson Bagent,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-12-27 08:10:32,423.p.100033,100033,Baltimore,waivers,add,,,423.l.129200.t.2,Big Ditkas
+2023-12-27 08:10:32,423.p.100020,100020,New York,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-12-27 08:10:32,423.p.100014,100014,Los Angeles,waivers,add,,,423.l.129200.t.12,Yordong
+2023-12-27 08:10:32,423.p.40126,40126,Josh Downs,team,drop,423.l.129200.t.12,Yordong,,
+2023-12-26 15:38:41,423.p.28638,28638,Trevor Siemian,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-12-24 17:17:46,423.p.27548,27548,Brandin Cooks,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-12-24 17:17:46,423.p.34008,34008,Alec Pierce,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-12-24 15:41:15,423.p.34008,34008,Alec Pierce,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-12-24 15:41:15,423.p.100009,100009,Green Bay,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-12-23 08:05:34,423.p.25718,25718,Ryan Tannehill,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-12-23 08:05:34,423.p.33390,33390,Zach Wilson,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-12-22 22:18:19,423.p.28638,28638,Trevor Siemian,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-12-22 01:38:29,423.p.34078,34078,Zamir White,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-12-22 01:38:29,423.p.32702,32702,Clyde Edwards-Helaire,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-12-22 01:33:22,423.p.100001,100001,Atlanta,freeagents,add,,,423.l.129200.t.3,Fuck Yas all
+2023-12-22 01:33:22,423.p.30248,30248,Joshua Dobbs,team,drop,423.l.129200.t.3,Fuck Yas all,,
+2023-12-21 21:56:52,423.p.100026,100026,Seattle,freeagents,add,,,423.l.129200.t.8,Spark that Spliff
+2023-12-21 21:56:52,423.p.100014,100014,Los Angeles,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-12-21 19:00:44,423.p.31257,31257,Tanner Hudson,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-12-21 19:00:44,423.p.27548,27548,Brandin Cooks,team,drop,423.l.129200.t.12,Yordong,,
+2023-12-21 16:41:22,423.p.40504,40504,Tyson Bagent,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-12-21 16:40:19,423.p.32671,32671,Joe Burrow,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-12-21 16:40:19,423.p.100033,100033,Baltimore,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-12-20 12:59:29,423.p.34447,34447,Jaylen Warren,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-12-20 12:59:29,423.p.28390,28390,Marcus Mariota,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-12-20 08:09:38,423.p.31046,31046,Mason Rudolph,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-12-20 08:09:38,423.p.30115,30115,Mitchell Trubisky,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-12-20 08:09:38,423.p.28839,28839,Taylor Heinicke,waivers,add,,,423.l.129200.t.4,Greek Magic
+2023-12-20 08:09:38,423.p.34030,34030,Desmond Ridder,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-12-20 08:09:38,423.p.30563,30563,Nick Mullens,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-12-20 08:09:38,423.p.33443,33443,Pat Freiermuth,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-12-20 08:09:38,423.p.30197,30197,Chris Godwin,waivers,add,,,423.l.129200.t.8,Spark that Spliff
+2023-12-20 08:09:38,423.p.40075,40075,Zach Charbonnet,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-12-20 08:09:38,423.p.32713,32713,Cole Kmet,waivers,add,,,423.l.129200.t.2,Big Ditkas
+2023-12-20 08:09:38,423.p.40048,40048,Dalton Kincaid,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-12-20 08:09:38,423.p.100028,100028,Washington,waivers,add,,,423.l.129200.t.7,Romo-Erotica
+2023-12-20 08:09:38,423.p.100018,100018,New Orleans,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-12-20 08:09:38,423.p.100034,100034,Houston,waivers,add,,,423.l.129200.t.12,Yordong
+2023-12-20 08:09:38,423.p.33535,33535,Brevin Jordan,team,drop,423.l.129200.t.12,Yordong,,
+2023-12-19 22:47:38,423.p.7200,7200,Aaron Rodgers,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-12-19 19:11:34,423.p.40641,40641,Keaton Mitchell,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-12-17 16:08:47,423.p.28390,28390,Marcus Mariota,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-12-17 16:08:47,423.p.34447,34447,Jaylen Warren,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-12-17 00:54:41,423.p.29754,29754,Wil Lutz,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-12-17 00:54:41,423.p.33781,33781,Riley Patterson,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-12-16 21:38:18,423.p.26483,26483,Case Keenum,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-12-16 21:38:18,423.p.30563,30563,Nick Mullens,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-12-16 18:26:50,423.p.100003,100003,Chicago,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-12-16 18:26:50,423.p.33455,33455,Davis Mills,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-12-16 08:09:30,423.p.100009,100009,Green Bay,waivers,add,,,423.l.129200.t.4,Greek Magic
+2023-12-16 08:09:30,423.p.100015,100015,Miami,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-12-15 22:54:31,423.p.32702,32702,Clyde Edwards-Helaire,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-12-15 22:54:31,423.p.34007,34007,George Pickens,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-12-15 22:52:12,423.p.30563,30563,Nick Mullens,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-12-14 04:44:01,423.p.33455,33455,Davis Mills,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-12-14 04:44:01,423.p.100027,100027,Tampa Bay,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-12-14 00:18:11,423.p.33975,33975,Kenny Pickett,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-12-13 23:50:38,423.p.28592,28592,Darren Waller,freeagents,add,,,423.l.129200.t.11,WARREN MOON
+2023-12-13 11:58:50,423.p.33967,33967,Jameson Williams,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-12-13 08:19:20,423.p.100013,100013,Las Vegas,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-12-13 08:19:20,423.p.29281,29281,Michael Thomas,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-12-13 08:12:48,423.p.33781,33781,Riley Patterson,waivers,add,,,423.l.129200.t.5,Johnny Utah
+2023-12-13 08:12:48,423.p.31137,31137,Daniel Carlson,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-12-13 08:12:48,423.p.31998,31998,Easton Stick,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-12-13 08:12:48,423.p.34107,34107,Tyler Allgeier,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-12-13 08:12:48,423.p.100007,100007,Denver,waivers,add,,,423.l.129200.t.4,Greek Magic
+2023-12-13 08:12:48,423.p.30197,30197,Chris Godwin,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-12-13 08:12:48,423.p.100014,100014,Los Angeles,waivers,add,,,423.l.129200.t.8,Spark that Spliff
+2023-12-13 08:12:48,423.p.100009,100009,Green Bay,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-12-13 08:12:48,423.p.27540,27540,Odell Beckham Jr.,waivers,add,,,423.l.129200.t.5,Johnny Utah
+2023-12-13 08:12:48,423.p.30217,30217,C.J. Beathard,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-12-13 08:12:48,423.p.100004,100004,Cincinnati,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-12-13 08:12:48,423.p.100034,100034,Houston,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-12-13 02:10:05,423.p.33538,33538,Kenneth Gainwell,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-12-10 15:40:30,423.p.32713,32713,Cole Kmet,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-12-10 15:37:48,423.p.40102,40102,Tucker Kraft,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-12-10 15:33:32,423.p.29344,29344,Tyler Higbee,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-12-10 04:38:45,423.p.33535,33535,Brevin Jordan,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-12-10 04:38:45,423.p.34659,34659,Rashid Shaheed,team,drop,423.l.129200.t.12,Yordong,,
+2023-12-08 03:41:49,423.p.33537,33537,Evan McPherson,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-12-08 03:41:49,423.p.27120,27120,Brandon McManus,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-12-08 03:39:40,423.p.33390,33390,Zach Wilson,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-12-08 03:39:40,423.p.40195,40195,Dorian Thompson-Robinson,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-12-07 07:29:20,423.p.34093,34093,Bailey Zappe,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-12-07 07:29:20,423.p.31431,31431,Tim Boyle,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-12-07 07:28:07,423.p.100008,100008,Detroit,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-12-07 07:28:07,423.p.100001,100001,Atlanta,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-12-06 13:55:43,423.p.31137,31137,Daniel Carlson,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-12-06 13:55:43,423.p.8432,8432,Nick Folk,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-12-06 13:26:25,423.p.30217,30217,C.J. Beathard,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-12-06 13:26:25,423.p.33975,33975,Kenny Pickett,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-12-06 08:17:56,423.p.29238,29238,Ezekiel Elliott,waivers,add,,,423.l.129200.t.11,WARREN MOON
+2023-12-06 08:17:56,423.p.30227,30227,Samaje Perine,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-12-06 08:17:56,423.p.30115,30115,Mitchell Trubisky,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-12-06 08:17:56,423.p.40051,40051,Quentin Johnston,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-12-06 08:17:56,423.p.32858,32858,Tyler Bass,waivers,add,,,423.l.129200.t.4,Greek Magic
+2023-12-06 08:17:56,423.p.28188,28188,Chris Boswell,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-12-06 08:17:56,423.p.100009,100009,Green Bay,waivers,add,,,423.l.129200.t.8,Spark that Spliff
+2023-12-06 08:17:56,423.p.31977,31977,Matt Gay,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-12-06 08:17:56,423.p.40138,40138,Aidan O'Connell,waivers,add,,,423.l.129200.t.5,Johnny Utah
+2023-12-06 08:17:56,423.p.32138,32138,Jake Browning,waivers,add,,,423.l.129200.t.11,WARREN MOON
+2023-12-06 08:17:56,423.p.31127,31127,Tyler Conklin,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-12-06 08:17:56,423.p.100034,100034,Houston,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-12-06 08:17:56,423.p.100014,100014,Los Angeles,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-12-06 08:17:56,423.p.27548,27548,Brandin Cooks,waivers,add,,,423.l.129200.t.12,Yordong
+2023-12-05 18:44:22,423.p.26658,26658,Zach Ertz,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-12-05 18:41:33,423.p.28592,28592,Darren Waller,team,drop,423.l.129200.t.12,Yordong,,
+2023-12-03 14:58:01,423.p.8432,8432,Nick Folk,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-12-03 14:58:01,423.p.40296,40296,Blake Grupe,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-12-03 14:38:23,423.p.31885,31885,Miles Sanders,freeagents,add,,,423.l.129200.t.1,F.Y.H.
+2023-12-03 14:38:23,423.p.27624,27624,Jerick McKinnon,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-12-02 04:04:15,423.p.33538,33538,Kenneth Gainwell,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-12-01 22:23:18,423.p.40129,40129,Jake Moody,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-12-01 22:23:18,423.p.29754,29754,Wil Lutz,team,drop,423.l.129200.t.12,Yordong,,
+2023-12-01 22:05:17,423.p.8795,8795,Joe Flacco,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-12-01 22:05:17,423.p.34068,34068,Daniel Bellinger,team,drop,423.l.129200.t.12,Yordong,,
+2023-12-01 21:34:01,423.p.34107,34107,Tyler Allgeier,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-12-01 21:34:01,423.p.32523,32523,Greg Dortch,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-12-01 21:33:06,423.p.33967,33967,Jameson Williams,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-12-01 21:31:41,423.p.32523,32523,Greg Dortch,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-12-01 04:23:13,423.p.31977,31977,Matt Gay,freeagents,add,,,423.l.129200.t.8,Spark that Spliff
+2023-12-01 04:23:13,423.p.32138,32138,Jake Browning,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-12-01 01:50:24,423.p.100011,100011,Indianapolis,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-12-01 01:50:24,423.p.100004,100004,Cincinnati,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-12-01 00:41:15,423.p.40119,40119,Tyjae Spears,freeagents,add,,,423.l.129200.t.3,Fuck Yas all
+2023-12-01 00:41:15,423.p.33998,33998,Wan'Dale Robinson,team,drop,423.l.129200.t.3,Fuck Yas all,,
+2023-11-30 22:37:08,423.p.26658,26658,Zach Ertz,freeagents,add,,,423.l.129200.t.11,WARREN MOON
+2023-11-30 22:37:08,423.p.40222,40222,DeMario Douglas,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-11-30 17:26:39,423.p.34099,34099,Chigoziem Okonkwo,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-11-30 17:26:39,423.p.33408,33408,Kadarius Toney,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-11-30 17:25:37,423.p.100001,100001,Atlanta,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-11-30 17:25:37,423.p.100010,100010,Tennessee,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-11-30 14:28:29,423.p.33403,33403,Mac Jones,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-11-29 17:52:11,423.p.32736,32736,Antonio Gibson,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-11-29 17:45:39,423.p.100007,100007,Denver,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-11-29 17:45:08,423.p.100014,100014,Los Angeles,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-11-29 16:02:15,423.p.28188,28188,Chris Boswell,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-11-29 16:02:15,423.p.33537,33537,Evan McPherson,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-11-29 14:47:57,423.p.27120,27120,Brandon McManus,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-11-29 14:47:57,423.p.31137,31137,Daniel Carlson,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-11-29 14:39:50,423.p.8565,8565,Matt Prater,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-11-29 14:39:33,423.p.40296,40296,Blake Grupe,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-11-29 14:38:05,423.p.100027,100027,Tampa Bay,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-11-29 14:38:05,423.p.100026,100026,Seattle,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-11-29 14:24:50,423.p.30227,30227,Samaje Perine,freeagents,add,,,423.l.129200.t.11,WARREN MOON
+2023-11-29 08:24:02,423.p.30157,30157,Gerald Everett,waivers,add,,,423.l.129200.t.5,Johnny Utah
+2023-11-29 08:24:02,423.p.40065,40065,Michael Mayer,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-11-29 08:24:02,423.p.33975,33975,Kenny Pickett,waivers,add,,,423.l.129200.t.5,Johnny Utah
+2023-11-29 08:24:02,423.p.40504,40504,Tyson Bagent,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-11-29 08:24:02,423.p.100020,100020,New York,waivers,add,,,423.l.129200.t.2,Big Ditkas
+2023-11-29 08:24:02,423.p.100017,100017,New England,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-11-29 08:24:02,423.p.32756,32756,Zack Moss,waivers,add,,,423.l.129200.t.5,Johnny Utah
+2023-11-29 08:24:02,423.p.40138,40138,Aidan O'Connell,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-11-29 08:24:02,423.p.29754,29754,Wil Lutz,waivers,add,,,423.l.129200.t.12,Yordong
+2023-11-29 08:24:02,423.p.26800,26800,Dustin Hopkins,team,drop,423.l.129200.t.12,Yordong,,
+2023-11-29 08:24:02,423.p.33465,33465,Joshua Palmer,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-11-29 08:24:02,423.p.33605,33605,Khalil Herbert,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-11-29 08:24:02,423.p.100030,100030,Jacksonville,waivers,add,,,423.l.129200.t.1,F.Y.H.
+2023-11-29 08:24:02,423.p.100016,100016,Minnesota,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-11-28 15:06:32,423.p.27548,27548,Brandin Cooks,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-11-25 08:09:28,423.p.33403,33403,Mac Jones,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-11-25 08:09:28,423.p.33975,33975,Kenny Pickett,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-11-25 08:09:28,423.p.100007,100007,Denver,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-11-25 08:09:28,423.p.100034,100034,Houston,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-11-25 08:09:28,423.p.30614,30614,Taysom Hill,waivers,add,,,423.l.129200.t.12,Yordong
+2023-11-25 08:09:28,423.p.100030,100030,Jacksonville,team,drop,423.l.129200.t.12,Yordong,,
+2023-11-23 17:55:57,423.p.100004,100004,Cincinnati,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-11-23 17:55:57,423.p.100020,100020,New York,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-11-23 15:19:10,423.p.31431,31431,Tim Boyle,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-11-23 15:19:10,423.p.32671,32671,Joe Burrow,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-11-23 08:14:30,423.p.33605,33605,Khalil Herbert,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-11-23 08:14:30,423.p.40162,40162,Roschon Johnson,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-11-22 18:13:41,423.p.100033,100033,Baltimore,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-11-22 18:13:41,423.p.100008,100008,Detroit,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-11-22 18:03:16,423.p.33390,33390,Zach Wilson,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-11-22 18:02:25,423.p.40074,40074,Luke Musgrave,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-11-22 16:41:42,423.p.100016,100016,Minnesota,freeagents,add,,,423.l.129200.t.1,F.Y.H.
+2023-11-22 16:41:42,423.p.100007,100007,Denver,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-11-22 16:41:12,423.p.33515,33515,Kylen Granson,freeagents,add,,,423.l.129200.t.1,F.Y.H.
+2023-11-22 16:41:12,423.p.32456,32456,Donald Parham Jr.,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-11-22 15:55:34,423.p.34030,34030,Desmond Ridder,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-11-22 15:55:34,423.p.33403,33403,Mac Jones,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-11-22 08:16:55,423.p.40075,40075,Zach Charbonnet,waivers,add,,,423.l.129200.t.8,Spark that Spliff
+2023-11-22 08:16:55,423.p.34107,34107,Tyler Allgeier,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-11-22 08:16:55,423.p.33403,33403,Mac Jones,waivers,add,,,423.l.129200.t.4,Greek Magic
+2023-11-22 08:16:55,423.p.28839,28839,Taylor Heinicke,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-11-22 08:16:55,423.p.32138,32138,Jake Browning,waivers,add,,,423.l.129200.t.8,Spark that Spliff
+2023-11-22 08:16:55,423.p.30614,30614,Taysom Hill,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-11-22 08:16:55,423.p.100010,100010,Tennessee,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-11-22 08:16:55,423.p.100028,100028,Washington,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-11-22 08:16:55,423.p.34095,34095,Isaiah Likely,waivers,add,,,423.l.129200.t.11,WARREN MOON
+2023-11-22 08:16:55,423.p.31902,31902,Darrell Henderson Jr.,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-11-22 08:16:55,423.p.40533,40533,Tommy DeVito,waivers,add,,,423.l.129200.t.1,F.Y.H.
+2023-11-21 14:19:36,423.p.33781,33781,Riley Patterson,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-11-20 18:23:28,423.p.100017,100017,New England,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-11-20 18:23:28,423.p.33605,33605,Khalil Herbert,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-11-19 21:17:29,423.p.32736,32736,Antonio Gibson,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-11-19 19:20:28,423.p.34107,34107,Tyler Allgeier,freeagents,add,,,423.l.129200.t.8,Spark that Spliff
+2023-11-19 19:20:28,423.p.40119,40119,Tyjae Spears,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-11-19 17:13:23,423.p.30202,30202,D'Onta Foreman,freeagents,add,,,423.l.129200.t.3,Fuck Yas all
+2023-11-19 17:13:23,423.p.40188,40188,Clayton Tune,team,drop,423.l.129200.t.3,Fuck Yas all,,
+2023-11-19 15:39:59,423.p.30153,30153,Curtis Samuel,freeagents,add,,,423.l.129200.t.1,F.Y.H.
+2023-11-19 15:39:59,423.p.31031,31031,DJ Chark,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-11-19 15:38:50,423.p.30150,30150,Zay Jones,freeagents,add,,,423.l.129200.t.1,F.Y.H.
+2023-11-19 15:38:50,423.p.33403,33403,Mac Jones,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-11-19 15:37:53,423.p.100007,100007,Denver,freeagents,add,,,423.l.129200.t.1,F.Y.H.
+2023-11-19 15:37:53,423.p.100003,100003,Chicago,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-11-19 15:35:59,423.p.32456,32456,Donald Parham Jr.,freeagents,add,,,423.l.129200.t.1,F.Y.H.
+2023-11-19 15:35:59,423.p.29269,29269,Hunter Henry,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-11-19 00:14:04,423.p.27120,27120,Brandon McManus,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-11-18 08:09:33,423.p.28839,28839,Taylor Heinicke,waivers,add,,,423.l.129200.t.4,Greek Magic
+2023-11-18 08:09:33,423.p.34030,34030,Desmond Ridder,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-11-18 08:09:33,423.p.34010,34010,Trey McBride,waivers,add,,,423.l.129200.t.2,Big Ditkas
+2023-11-17 18:44:29,423.p.40063,40063,Jayden Reed,freeagents,add,,,423.l.129200.t.8,Spark that Spliff
+2023-11-17 18:44:29,423.p.40533,40533,Tommy DeVito,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-11-17 13:49:56,423.p.31127,31127,Tyler Conklin,freeagents,add,,,423.l.129200.t.11,WARREN MOON
+2023-11-17 13:49:56,423.p.32756,32756,Zack Moss,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-11-17 08:09:31,423.p.33781,33781,Riley Patterson,waivers,add,,,423.l.129200.t.1,F.Y.H.
+2023-11-17 08:09:31,423.p.26658,26658,Zach Ertz,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-11-16 03:18:41,423.p.100012,100012,Kansas City,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-11-16 03:18:41,423.p.100033,100033,Baltimore,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-11-16 02:52:34,423.p.34030,34030,Desmond Ridder,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-11-16 02:50:00,423.p.7200,7200,Aaron Rodgers,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-11-16 02:50:00,423.p.30538,30538,P.J. Walker,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-11-16 00:13:28,423.p.31902,31902,Darrell Henderson Jr.,freeagents,add,,,423.l.129200.t.11,WARREN MOON
+2023-11-15 23:00:39,423.p.27548,27548,Brandin Cooks,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-11-15 22:58:15,423.p.40195,40195,Dorian Thompson-Robinson,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-11-15 22:58:15,423.p.34010,34010,Trey McBride,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-11-15 21:06:27,423.p.28839,28839,Taylor Heinicke,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-11-15 18:45:34,423.p.100034,100034,Houston,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-11-15 18:45:34,423.p.100027,100027,Tampa Bay,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-11-15 18:44:44,423.p.31199,31199,Jason Sanders,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-11-15 18:44:44,423.p.31977,31977,Matt Gay,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-11-15 14:27:54,423.p.30538,30538,P.J. Walker,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-11-15 14:27:54,423.p.30125,30125,Deshaun Watson,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-11-15 12:52:19,423.p.100008,100008,Detroit,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-11-15 12:52:19,423.p.100011,100011,Indianapolis,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-11-15 12:44:42,423.p.8565,8565,Matt Prater,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-11-15 12:43:29,423.p.40296,40296,Blake Grupe,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-11-15 08:11:07,423.p.31137,31137,Daniel Carlson,waivers,add,,,423.l.129200.t.7,Romo-Erotica
+2023-11-15 08:11:07,423.p.40074,40074,Luke Musgrave,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-11-15 08:11:07,423.p.100028,100028,Washington,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-11-15 08:11:07,423.p.100016,100016,Minnesota,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-11-15 08:11:07,423.p.34125,34125,Ty Chandler,waivers,add,,,423.l.129200.t.1,F.Y.H.
+2023-11-15 08:11:07,423.p.34157,34157,Keaontay Ingram,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-11-15 08:11:07,423.p.33100,33100,Rico Dowdle,waivers,add,,,423.l.129200.t.5,Johnny Utah
+2023-11-15 08:11:07,423.p.32596,32596,Craig Reynolds,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-11-15 08:11:07,423.p.100030,100030,Jacksonville,waivers,add,,,423.l.129200.t.12,Yordong
+2023-11-15 08:11:07,423.p.40075,40075,Zach Charbonnet,team,drop,423.l.129200.t.12,Yordong,,
+2023-11-14 18:52:50,423.p.32858,32858,Tyler Bass,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-11-14 17:31:27,423.p.34107,34107,Tyler Allgeier,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-11-14 11:13:40,423.p.33781,33781,Riley Patterson,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-11-12 16:33:15,423.p.28378,28378,Jason Myers,freeagents,add,,,423.l.129200.t.3,Fuck Yas all
+2023-11-12 16:33:15,423.p.31199,31199,Jason Sanders,team,drop,423.l.129200.t.3,Fuck Yas all,,
+2023-11-11 14:44:34,423.p.29369,29369,Dak Prescott,team,trade,423.l.129200.t.7,Romo-Erotica,423.l.129200.t.5,Johnny Utah
+2023-11-11 14:44:34,423.p.31856,31856,Josh Jacobs,team,trade,423.l.129200.t.5,Johnny Utah,423.l.129200.t.7,Romo-Erotica
+2023-11-10 21:24:39,423.p.33443,33443,Pat Freiermuth,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-11-10 21:22:39,423.p.100013,100013,Las Vegas,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-11-10 19:19:22,423.p.40641,40641,Keaton Mitchell,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-11-10 02:13:46,423.p.31838,31838,Daniel Jones,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-11-09 02:06:47,423.p.100027,100027,Tampa Bay,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-11-09 02:06:47,423.p.26804,26804,Latavius Murray,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-11-08 22:43:30,423.p.40533,40533,Tommy DeVito,freeagents,add,,,423.l.129200.t.8,Spark that Spliff
+2023-11-08 22:43:30,423.p.31885,31885,Miles Sanders,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-11-08 20:19:59,423.p.27120,27120,Brandon McManus,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-11-08 20:19:59,423.p.100001,100001,Atlanta,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-11-08 19:58:27,423.p.31885,31885,Miles Sanders,freeagents,add,,,423.l.129200.t.8,Spark that Spliff
+2023-11-08 19:54:43,423.p.100019,100019,New York,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-11-08 19:15:24,423.p.33781,33781,Riley Patterson,freeagents,add,,,423.l.129200.t.11,WARREN MOON
+2023-11-08 19:15:24,423.p.32782,32782,Joshua Kelley,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-11-08 13:12:24,423.p.100011,100011,Indianapolis,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-11-08 13:12:24,423.p.100017,100017,New England,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-11-08 08:12:13,423.p.100015,100015,Miami,waivers,add,,,423.l.129200.t.4,Greek Magic
+2023-11-08 08:12:13,423.p.31902,31902,Darrell Henderson Jr.,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-11-08 08:12:13,423.p.40051,40051,Quentin Johnston,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-11-08 08:12:13,423.p.40504,40504,Tyson Bagent,waivers,add,,,423.l.129200.t.5,Johnny Utah
+2023-11-08 08:12:13,423.p.40185,40185,Jaren Hall,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-11-08 08:12:13,423.p.32736,32736,Antonio Gibson,waivers,add,,,423.l.129200.t.11,WARREN MOON
+2023-11-08 08:12:13,423.p.27548,27548,Brandin Cooks,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-11-08 08:12:13,423.p.34062,34062,Cade Otton,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-11-08 08:12:13,423.p.30150,30150,Zay Jones,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-11-08 08:12:13,423.p.100003,100003,Chicago,waivers,add,,,423.l.129200.t.1,F.Y.H.
+2023-11-08 08:12:13,423.p.100012,100012,Kansas City,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-11-08 08:12:13,423.p.30352,30352,Noah Brown,waivers,add,,,423.l.129200.t.12,Yordong
+2023-11-08 08:12:13,423.p.40063,40063,Jayden Reed,team,drop,423.l.129200.t.12,Yordong,,
+2023-11-07 19:37:21,423.p.30202,30202,D'Onta Foreman,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-11-07 04:53:20,423.p.33465,33465,Joshua Palmer,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-11-06 19:21:48,423.p.100020,100020,New York,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-11-05 16:28:05,423.p.40188,40188,Clayton Tune,freeagents,add,,,423.l.129200.t.3,Fuck Yas all
+2023-11-05 16:28:05,423.p.32736,32736,Antonio Gibson,team,drop,423.l.129200.t.3,Fuck Yas all,,
+2023-11-05 16:27:31,423.p.100019,100019,New York,freeagents,add,,,423.l.129200.t.8,Spark that Spliff
+2023-11-05 16:27:31,423.p.40051,40051,Quentin Johnston,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-11-05 16:09:38,423.p.40051,40051,Quentin Johnston,freeagents,add,,,423.l.129200.t.8,Spark that Spliff
+2023-11-05 15:28:30,423.p.40063,40063,Jayden Reed,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-11-05 15:26:26,423.p.40040,40040,Anthony Richardson,team,drop,423.l.129200.t.12,Yordong,,
+2023-11-04 07:09:48,423.p.34344,34344,Cameron Dicker,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-11-04 07:09:48,423.p.33781,33781,Riley Patterson,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-11-03 21:05:11,423.p.31906,31906,Devin Singletary,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-11-03 21:05:11,423.p.100020,100020,New York,team,drop,423.l.129200.t.12,Yordong,,
+2023-11-03 02:42:58,423.p.33514,33514,Chuba Hubbard,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-11-03 02:42:58,423.p.40430,40430,Emari Demercado,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-11-03 00:53:26,423.p.32231,32231,Jakobi Meyers,team,trade,423.l.129200.t.4,Greek Magic,423.l.129200.t.3,Fuck Yas all
+2023-11-03 00:53:26,423.p.40064,40064,Sam LaPorta,team,trade,423.l.129200.t.3,Fuck Yas all,423.l.129200.t.4,Greek Magic
+2023-11-02 17:20:47,423.p.26800,26800,Dustin Hopkins,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-11-02 17:20:47,423.p.40129,40129,Jake Moody,team,drop,423.l.129200.t.12,Yordong,,
+2023-11-02 01:57:44,423.p.27648,27648,Logan Thomas,freeagents,add,,,423.l.129200.t.3,Fuck Yas all
+2023-11-02 01:57:44,423.p.30247,30247,Jamaal Williams,team,drop,423.l.129200.t.3,Fuck Yas all,,
+2023-11-02 01:55:26,423.p.25718,25718,Ryan Tannehill,team,drop,423.l.129200.t.3,Fuck Yas all,,
+2023-11-02 01:48:34,423.p.34107,34107,Tyler Allgeier,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-11-02 01:48:34,423.p.31394,31394,Jeff Wilson Jr.,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-11-02 01:47:53,423.p.34010,34010,Trey McBride,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-11-02 01:38:26,423.p.100013,100013,Las Vegas,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-11-02 01:38:26,423.p.27540,27540,Odell Beckham Jr.,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-11-01 16:19:25,423.p.28839,28839,Taylor Heinicke,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-11-01 16:19:25,423.p.40504,40504,Tyson Bagent,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-11-01 15:35:04,423.p.40138,40138,Aidan O'Connell,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-11-01 15:35:04,423.p.27590,27590,Jimmy Garoppolo,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-11-01 10:52:47,423.p.33537,33537,Evan McPherson,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-11-01 10:52:47,423.p.34344,34344,Cameron Dicker,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-11-01 10:45:54,423.p.31902,31902,Darrell Henderson Jr.,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-11-01 10:45:54,423.p.100015,100015,Miami,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-11-01 10:45:36,423.p.40074,40074,Luke Musgrave,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-11-01 07:10:11,423.p.33971,33971,Jahan Dotson,waivers,add,,,423.l.129200.t.5,Johnny Utah
+2023-11-01 07:10:11,423.p.30538,30538,P.J. Walker,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-11-01 07:10:11,423.p.30614,30614,Taysom Hill,waivers,add,,,423.l.129200.t.8,Spark that Spliff
+2023-11-01 07:10:11,423.p.100017,100017,New England,waivers,add,,,423.l.129200.t.2,Big Ditkas
+2023-11-01 07:10:11,423.p.100008,100008,Detroit,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-11-01 07:10:11,423.p.40222,40222,DeMario Douglas,waivers,add,,,423.l.129200.t.11,WARREN MOON
+2023-11-01 07:10:11,423.p.40185,40185,Jaren Hall,waivers,add,,,423.l.129200.t.5,Johnny Utah
+2023-11-01 07:10:11,423.p.24967,24967,Tyrod Taylor,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-11-01 07:10:11,423.p.34068,34068,Daniel Bellinger,waivers,add,,,423.l.129200.t.12,Yordong
+2023-11-01 07:10:11,423.p.30153,30153,Curtis Samuel,team,drop,423.l.129200.t.12,Yordong,,
+2023-10-31 21:07:20,423.p.25812,25812,Kirk Cousins,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-10-30 23:52:38,423.p.34030,34030,Desmond Ridder,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-10-30 17:45:53,423.p.30551,30551,Kendrick Bourne,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-10-29 23:17:13,423.p.31885,31885,Miles Sanders,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-10-29 18:18:44,423.p.34042,34042,Malik Willis,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-10-29 16:41:23,423.p.27548,27548,Brandin Cooks,freeagents,add,,,423.l.129200.t.11,WARREN MOON
+2023-10-29 16:41:23,423.p.31888,31888,Mecole Hardman,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-10-29 16:38:48,423.p.32782,32782,Joshua Kelley,freeagents,add,,,423.l.129200.t.11,WARREN MOON
+2023-10-29 16:38:48,423.p.40641,40641,Keaton Mitchell,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-10-29 16:36:28,423.p.34344,34344,Cameron Dicker,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-10-29 16:36:28,423.p.27120,27120,Brandon McManus,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-10-29 16:24:51,423.p.100024,100024,Los Angeles,freeagents,add,,,423.l.129200.t.3,Fuck Yas all
+2023-10-29 16:24:51,423.p.100007,100007,Denver,team,drop,423.l.129200.t.3,Fuck Yas all,,
+2023-10-29 15:44:34,423.p.40296,40296,Blake Grupe,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-10-29 15:44:34,423.p.31137,31137,Daniel Carlson,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-10-29 14:51:47,423.p.30538,30538,P.J. Walker,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-10-29 14:51:47,423.p.30973,30973,Sam Darnold,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-10-29 07:09:33,423.p.34112,34112,Jerome Ford,waivers,add,,,423.l.129200.t.2,Big Ditkas
+2023-10-29 07:09:33,423.p.33514,33514,Chuba Hubbard,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-10-29 03:39:40,423.p.40430,40430,Emari Demercado,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-10-29 03:34:36,423.p.100001,100001,Atlanta,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-10-29 03:34:27,423.p.100009,100009,Green Bay,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-10-29 03:34:23,423.p.100013,100013,Las Vegas,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-10-29 03:32:28,423.p.30551,30551,Kendrick Bourne,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-10-29 03:32:28,423.p.40051,40051,Quentin Johnston,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-10-27 01:52:26,423.p.100028,100028,Washington,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-10-26 12:48:52,423.p.30150,30150,Zay Jones,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-10-26 12:48:52,423.p.34112,34112,Jerome Ford,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-10-26 04:06:45,423.p.30973,30973,Sam Darnold,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-10-26 04:06:45,423.p.9547,9547,Brian Hoyer,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-10-26 00:00:48,423.p.33514,33514,Chuba Hubbard,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-10-26 00:00:48,423.p.30213,30213,Jonnu Smith,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-10-25 23:56:41,423.p.33965,33965,Garrett Wilson,team,trade,423.l.129200.t.9,The Hebrew Hammer,423.l.129200.t.2,Big Ditkas
+2023-10-25 23:56:41,423.p.30213,30213,Jonnu Smith,team,trade,423.l.129200.t.9,The Hebrew Hammer,423.l.129200.t.2,Big Ditkas
+2023-10-25 23:56:41,423.p.31934,31934,Alexander Mattison,team,trade,423.l.129200.t.2,Big Ditkas,423.l.129200.t.9,The Hebrew Hammer
+2023-10-25 23:56:41,423.p.31019,31019,Dallas Goedert,team,trade,423.l.129200.t.2,Big Ditkas,423.l.129200.t.9,The Hebrew Hammer
+2023-10-25 14:45:36,423.p.40068,40068,Will Levis,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-10-25 14:45:36,423.p.30551,30551,Kendrick Bourne,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-10-25 13:00:08,423.p.40162,40162,Roschon Johnson,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-10-25 12:58:39,423.p.100014,100014,Los Angeles,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-10-25 09:59:09,423.p.100008,100008,Detroit,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-10-25 09:59:09,423.p.100034,100034,Houston,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-10-25 07:10:04,423.p.100034,100034,Houston,waivers,add,,,423.l.129200.t.2,Big Ditkas
+2023-10-25 07:10:04,423.p.100027,100027,Tampa Bay,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-10-25 07:10:04,423.p.40048,40048,Dalton Kincaid,waivers,add,,,423.l.129200.t.2,Big Ditkas
+2023-10-25 07:10:04,423.p.28378,28378,Jason Myers,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-10-25 07:10:04,423.p.31424,31424,Gus Edwards,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-10-25 07:10:04,423.p.40243,40243,Zach Evans,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-10-22 23:21:10,423.p.34042,34042,Malik Willis,freeagents,add,,,423.l.129200.t.8,Spark that Spliff
+2023-10-22 15:56:21,423.p.24967,24967,Tyrod Taylor,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-10-22 15:56:21,423.p.40162,40162,Roschon Johnson,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-10-22 14:52:11,423.p.34157,34157,Keaontay Ingram,freeagents,add,,,423.l.129200.t.1,F.Y.H.
+2023-10-22 14:52:11,423.p.30552,30552,Matt Breida,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-10-22 14:04:24,423.p.31885,31885,Miles Sanders,freeagents,add,,,423.l.129200.t.8,Spark that Spliff
+2023-10-22 14:04:24,423.p.31424,31424,Gus Edwards,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-10-22 06:27:04,423.p.30202,30202,D'Onta Foreman,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-10-22 06:27:04,423.p.33443,33443,Pat Freiermuth,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-10-21 16:34:26,423.p.34009,34009,Skyy Moore,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-10-21 07:09:47,423.p.100027,100027,Tampa Bay,waivers,add,,,423.l.129200.t.2,Big Ditkas
+2023-10-21 07:09:47,423.p.100008,100008,Detroit,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-10-20 23:51:19,423.p.30551,30551,Kendrick Bourne,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-10-20 23:51:19,423.p.34320,34320,Jordan Mason,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-10-20 18:55:27,423.p.40065,40065,Michael Mayer,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-10-20 18:55:27,423.p.40048,40048,Dalton Kincaid,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-10-19 21:31:48,423.p.9547,9547,Brian Hoyer,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-10-19 21:31:48,423.p.24967,24967,Tyrod Taylor,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-10-19 19:50:49,423.p.31888,31888,Mecole Hardman,freeagents,add,,,423.l.129200.t.11,WARREN MOON
+2023-10-19 19:50:49,423.p.40696,40696,Jaleel McLaughlin,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-10-19 13:46:49,423.p.100014,100014,Los Angeles,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-10-19 13:46:49,423.p.100030,100030,Jacksonville,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-10-18 21:44:20,423.p.31908,31908,Terry McLaurin,team,trade,423.l.129200.t.2,Big Ditkas,423.l.129200.t.7,Romo-Erotica
+2023-10-18 21:44:20,423.p.31934,31934,Alexander Mattison,team,trade,423.l.129200.t.7,Romo-Erotica,423.l.129200.t.2,Big Ditkas
+2023-10-18 18:50:52,423.p.100020,100020,New York,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-10-18 18:50:52,423.p.100001,100001,Atlanta,team,drop,423.l.129200.t.12,Yordong,,
+2023-10-18 14:14:02,423.p.34320,34320,Jordan Mason,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-10-18 14:14:02,423.p.100027,100027,Tampa Bay,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-10-18 13:48:53,423.p.31137,31137,Daniel Carlson,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-10-18 13:48:53,423.p.33537,33537,Evan McPherson,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-10-18 12:00:43,423.p.28378,28378,Jason Myers,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-10-18 12:00:43,423.p.34107,34107,Tyler Allgeier,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-10-18 07:10:08,423.p.24967,24967,Tyrod Taylor,waivers,add,,,423.l.129200.t.5,Johnny Utah
+2023-10-18 07:10:08,423.p.100004,100004,Cincinnati,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-10-18 07:10:08,423.p.30199,30199,Kareem Hunt,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-10-18 07:10:08,423.p.30154,30154,Dalvin Cook,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-10-18 07:10:08,423.p.40074,40074,Luke Musgrave,waivers,add,,,423.l.129200.t.4,Greek Magic
+2023-10-18 07:10:08,423.p.100028,100028,Washington,waivers,add,,,423.l.129200.t.8,Spark that Spliff
+2023-10-18 07:10:08,423.p.27648,27648,Logan Thomas,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-10-18 07:10:08,423.p.40504,40504,Tyson Bagent,waivers,add,,,423.l.129200.t.2,Big Ditkas
+2023-10-18 07:10:08,423.p.40430,40430,Emari Demercado,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-10-18 07:10:08,423.p.32596,32596,Craig Reynolds,waivers,add,,,423.l.129200.t.5,Johnny Utah
+2023-10-18 07:10:08,423.p.33538,33538,Kenneth Gainwell,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-10-18 07:10:08,423.p.100030,100030,Jacksonville,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-10-18 07:10:08,423.p.100005,100005,Cleveland,waivers,add,,,423.l.129200.t.7,Romo-Erotica
+2023-10-18 07:10:08,423.p.30153,30153,Curtis Samuel,waivers,add,,,423.l.129200.t.12,Yordong
+2023-10-18 07:10:08,423.p.40243,40243,Zach Evans,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-10-18 07:10:08,423.p.31885,31885,Miles Sanders,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-10-17 19:26:38,423.p.32722,32722,Cam Akers,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-10-17 19:26:38,423.p.32010,32010,Gardner Minshew II,team,trade,423.l.129200.t.12,Yordong,423.l.129200.t.9,The Hebrew Hammer
+2023-10-17 19:26:38,423.p.30161,30161,Joe Mixon,team,trade,423.l.129200.t.12,Yordong,423.l.129200.t.9,The Hebrew Hammer
+2023-10-17 19:26:38,423.p.34100,34100,Sam Howell,team,trade,423.l.129200.t.9,The Hebrew Hammer,423.l.129200.t.12,Yordong
+2023-10-17 17:12:57,423.p.33100,33100,Rico Dowdle,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-10-16 19:37:59,423.p.33100,33100,Rico Dowdle,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-10-16 19:37:59,423.p.31127,31127,Tyler Conklin,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-10-12 00:01:55,423.p.100013,100013,Las Vegas,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-10-11 19:26:55,423.p.33443,33443,Pat Freiermuth,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-10-11 19:26:55,423.p.40074,40074,Luke Musgrave,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-10-11 18:38:22,423.p.31127,31127,Tyler Conklin,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-10-11 18:36:47,423.p.31394,31394,Jeff Wilson Jr.,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-10-11 18:36:47,423.p.27548,27548,Brandin Cooks,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-10-11 17:25:49,423.p.40430,40430,Emari Demercado,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-10-11 16:59:48,423.p.40126,40126,Josh Downs,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-10-11 15:33:30,423.p.33465,33465,Joshua Palmer,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-10-11 15:33:30,423.p.40121,40121,Michael Wilson,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-10-11 07:10:10,423.p.100001,100001,Atlanta,waivers,add,,,423.l.129200.t.12,Yordong
+2023-10-11 07:10:10,423.p.33971,33971,Jahan Dotson,team,drop,423.l.129200.t.12,Yordong,,
+2023-10-11 07:10:10,423.p.32846,32846,K.J. Osborn,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-10-11 07:10:10,423.p.30199,30199,Kareem Hunt,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-10-11 07:10:10,423.p.32010,32010,Gardner Minshew II,waivers,add,,,423.l.129200.t.12,Yordong
+2023-10-11 07:10:10,423.p.100028,100028,Washington,team,drop,423.l.129200.t.12,Yordong,,
+2023-10-11 07:10:10,423.p.100016,100016,Minnesota,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-10-11 07:10:10,423.p.100020,100020,New York,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-10-11 07:10:10,423.p.29288,29288,Tyler Boyd,waivers,add,,,423.l.129200.t.1,F.Y.H.
+2023-10-11 07:10:10,423.p.32727,32727,Van Jefferson,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-10-11 04:01:40,423.p.33514,33514,Chuba Hubbard,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-10-10 15:29:50,423.p.29238,29238,Ezekiel Elliott,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-10-10 11:39:04,423.p.100017,100017,New England,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-10-09 03:55:02,423.p.100027,100027,Tampa Bay,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-10-09 03:55:02,423.p.40090,40090,Marvin Mims Jr.,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-10-08 19:27:00,423.p.40074,40074,Luke Musgrave,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-10-08 15:14:03,423.p.30552,30552,Matt Breida,freeagents,add,,,423.l.129200.t.1,F.Y.H.
+2023-10-08 15:14:03,423.p.30227,30227,Samaje Perine,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-10-08 14:20:40,423.p.33445,33445,Tutu Atwell,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-10-08 13:16:58,423.p.100017,100017,New England,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-10-08 13:16:58,423.p.30115,30115,Mitchell Trubisky,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-10-08 05:24:49,423.p.30115,30115,Mitchell Trubisky,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-10-08 05:24:49,423.p.33415,33415,Rashod Bateman,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-10-07 17:20:49,423.p.40084,40084,Rashee Rice,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-10-07 17:20:49,423.p.33967,33967,Jameson Williams,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-10-07 07:09:45,423.p.100004,100004,Cincinnati,waivers,add,,,423.l.129200.t.5,Johnny Utah
+2023-10-07 07:09:45,423.p.40138,40138,Aidan O'Connell,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-10-06 00:43:03,423.p.33998,33998,Wan'Dale Robinson,freeagents,add,,,423.l.129200.t.3,Fuck Yas all
+2023-10-06 00:43:03,423.p.28389,28389,Jameis Winston,team,drop,423.l.129200.t.3,Fuck Yas all,,
+2023-10-04 20:44:30,423.p.33781,33781,Riley Patterson,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-10-04 20:44:30,423.p.34344,34344,Cameron Dicker,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-10-04 20:43:56,423.p.100020,100020,New York,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-10-04 20:43:56,423.p.100004,100004,Cincinnati,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-10-04 20:43:12,423.p.30213,30213,Jonnu Smith,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-10-04 20:43:12,423.p.33443,33443,Pat Freiermuth,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-10-04 17:40:34,423.p.26804,26804,Latavius Murray,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-10-04 17:40:34,423.p.30552,30552,Matt Breida,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-10-04 15:54:46,423.p.33967,33967,Jameson Williams,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-10-04 15:54:46,423.p.100017,100017,New England,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-10-04 12:50:57,423.p.33514,33514,Chuba Hubbard,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-10-04 07:10:20,423.p.40121,40121,Michael Wilson,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-10-04 07:10:20,423.p.40696,40696,Jaleel McLaughlin,waivers,add,,,423.l.129200.t.11,WARREN MOON
+2023-10-04 07:10:20,423.p.100008,100008,Detroit,waivers,add,,,423.l.129200.t.2,Big Ditkas
+2023-10-04 07:10:20,423.p.100030,100030,Jacksonville,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-10-04 07:10:20,423.p.33390,33390,Zach Wilson,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-10-04 07:10:20,423.p.33465,33465,Joshua Palmer,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-10-04 07:10:20,423.p.100028,100028,Washington,waivers,add,,,423.l.129200.t.12,Yordong
+2023-10-04 07:10:20,423.p.100005,100005,Cleveland,team,drop,423.l.129200.t.12,Yordong,,
+2023-10-04 00:01:55,423.p.32782,32782,Joshua Kelley,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-10-01 16:29:31,423.p.27648,27648,Logan Thomas,freeagents,add,,,423.l.129200.t.8,Spark that Spliff
+2023-10-01 16:29:31,423.p.30230,30230,Josh Reynolds,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-10-01 15:21:34,423.p.31945,31945,Justice Hill,freeagents,add,,,423.l.129200.t.3,Fuck Yas all
+2023-10-01 15:21:34,423.p.24822,24822,Andy Dalton,team,drop,423.l.129200.t.3,Fuck Yas all,,
+2023-10-01 13:58:22,423.p.40138,40138,Aidan O'Connell,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-10-01 13:58:22,423.p.9547,9547,Brian Hoyer,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-10-01 13:39:01,423.p.9547,9547,Brian Hoyer,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-10-01 13:39:01,423.p.31144,31144,Marquez Valdes-Scantling,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-10-01 13:06:16,423.p.100030,100030,Jacksonville,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-10-01 13:06:16,423.p.33973,33973,Treylon Burks,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-09-29 16:54:39,423.p.40090,40090,Marvin Mims Jr.,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-09-29 16:54:39,423.p.40074,40074,Luke Musgrave,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-09-29 00:14:52,423.p.100007,100007,Denver,freeagents,add,,,423.l.129200.t.3,Fuck Yas all
+2023-09-29 00:14:52,423.p.100027,100027,Tampa Bay,team,drop,423.l.129200.t.3,Fuck Yas all,,
+2023-09-29 00:13:48,423.p.28389,28389,Jameis Winston,freeagents,add,,,423.l.129200.t.3,Fuck Yas all
+2023-09-29 00:13:48,423.p.30120,30120,Mike Williams,team,drop,423.l.129200.t.3,Fuck Yas all,,
+2023-09-28 18:58:01,423.p.40641,40641,Keaton Mitchell,freeagents,add,,,423.l.129200.t.11,WARREN MOON
+2023-09-28 18:58:01,423.p.33113,33113,Juwan Johnson,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-09-27 18:22:54,423.p.40074,40074,Luke Musgrave,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-09-27 18:22:54,423.p.40240,40240,Deuce Vaughn,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-09-27 16:53:36,423.p.31945,31945,Justice Hill,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-09-27 13:21:17,423.p.34088,34088,Romeo Doubs,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-09-27 13:21:17,423.p.32010,32010,Gardner Minshew II,team,drop,423.l.129200.t.12,Yordong,,
+2023-09-27 07:10:20,423.p.100004,100004,Cincinnati,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-09-27 07:10:20,423.p.100030,100030,Jacksonville,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-09-27 07:10:20,423.p.29238,29238,Ezekiel Elliott,waivers,add,,,423.l.129200.t.7,Romo-Erotica
+2023-09-27 07:10:20,423.p.34062,34062,Cade Otton,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-09-27 07:10:20,423.p.40129,40129,Jake Moody,waivers,add,,,423.l.129200.t.12,Yordong
+2023-09-27 07:10:20,423.p.31137,31137,Daniel Carlson,team,drop,423.l.129200.t.12,Yordong,,
+2023-09-27 07:10:20,423.p.33465,33465,Joshua Palmer,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-09-27 07:10:20,423.p.30175,30175,JuJu Smith-Schuster,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-09-27 07:10:20,423.p.40118,40118,De'Von Achane,waivers,add,,,423.l.129200.t.2,Big Ditkas
+2023-09-27 07:10:20,423.p.100020,100020,New York,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-09-27 07:10:20,423.p.33408,33408,Kadarius Toney,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-09-27 07:10:20,423.p.30150,30150,Zay Jones,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-09-25 13:56:35,423.p.34062,34062,Cade Otton,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-09-25 13:56:35,423.p.40108,40108,Kendre Miller,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-09-24 14:09:56,423.p.34009,34009,Skyy Moore,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-09-23 12:36:31,423.p.30230,30230,Josh Reynolds,freeagents,add,,,423.l.129200.t.8,Spark that Spliff
+2023-09-22 17:20:59,423.p.32010,32010,Gardner Minshew II,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-09-22 17:20:59,423.p.29238,29238,Ezekiel Elliott,team,drop,423.l.129200.t.12,Yordong,,
+2023-09-22 14:43:36,423.p.40108,40108,Kendre Miller,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-09-22 14:43:36,423.p.40074,40074,Luke Musgrave,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-09-22 07:09:45,423.p.100005,100005,Cleveland,waivers,add,,,423.l.129200.t.12,Yordong
+2023-09-22 07:09:45,423.p.33390,33390,Zach Wilson,team,drop,423.l.129200.t.12,Yordong,,
+2023-09-22 01:08:58,423.p.24822,24822,Andy Dalton,freeagents,add,,,423.l.129200.t.3,Fuck Yas all
+2023-09-21 18:35:05,423.p.27277,27277,Adam Thielen,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-09-21 18:21:21,423.p.100009,100009,Green Bay,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-09-21 18:21:21,423.p.100007,100007,Denver,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-09-21 15:00:36,423.p.34063,34063,Dameon Pierce,team,trade,423.l.129200.t.11,WARREN MOON,423.l.129200.t.12,Yordong
+2023-09-21 15:00:36,423.p.32696,32696,Jordan Love,team,trade,423.l.129200.t.12,Yordong,423.l.129200.t.11,WARREN MOON
+2023-09-21 00:06:12,423.p.26658,26658,Zach Ertz,freeagents,add,,,423.l.129200.t.1,F.Y.H.
+2023-09-21 00:06:12,423.p.34099,34099,Chigoziem Okonkwo,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-09-21 00:05:45,423.p.27624,27624,Jerick McKinnon,freeagents,add,,,423.l.129200.t.1,F.Y.H.
+2023-09-21 00:05:45,423.p.34125,34125,Ty Chandler,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-09-20 13:46:43,423.p.100033,100033,Baltimore,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-09-20 13:46:43,423.p.100019,100019,New York,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-09-20 07:10:24,423.p.30199,30199,Kareem Hunt,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-09-20 07:10:24,423.p.33514,33514,Chuba Hubbard,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-09-20 07:10:24,423.p.100030,100030,Jacksonville,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-09-20 07:10:24,423.p.100011,100011,Indianapolis,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-09-20 07:10:24,423.p.40819,40819,Brandon Aubrey,waivers,add,,,423.l.129200.t.2,Big Ditkas
+2023-09-20 07:10:24,423.p.28378,28378,Jason Myers,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-09-20 07:10:24,423.p.40162,40162,Roschon Johnson,waivers,add,,,423.l.129200.t.5,Johnny Utah
+2023-09-20 07:10:24,423.p.33582,33582,Elijah Mitchell,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-09-20 07:10:24,423.p.34112,34112,Jerome Ford,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-09-20 07:10:24,423.p.31882,31882,Irv Smith,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-09-20 07:10:24,423.p.30552,30552,Matt Breida,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-09-20 07:10:24,423.p.30997,30997,Rashaad Penny,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-09-20 07:10:24,423.p.30248,30248,Joshua Dobbs,waivers,add,,,423.l.129200.t.3,Fuck Yas all
+2023-09-20 07:10:24,423.p.40118,40118,De'Von Achane,team,drop,423.l.129200.t.3,Fuck Yas all,,
+2023-09-19 18:26:50,423.p.31005,31005,Nick Chubb,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-09-19 15:37:46,423.p.100005,100005,Cleveland,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-09-17 16:53:59,423.p.100011,100011,Indianapolis,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-09-17 16:53:59,423.p.100033,100033,Baltimore,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-09-17 15:36:12,423.p.34659,34659,Rashid Shaheed,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-09-17 15:36:12,423.p.32843,32843,Darnell Mooney,team,drop,423.l.129200.t.12,Yordong,,
+2023-09-17 15:33:03,423.p.100023,100023,Pittsburgh,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-09-17 15:33:03,423.p.100001,100001,Atlanta,team,drop,423.l.129200.t.12,Yordong,,
+2023-09-16 16:30:07,423.p.40119,40119,Tyjae Spears,freeagents,add,,,423.l.129200.t.8,Spark that Spliff
+2023-09-16 16:30:07,423.p.31268,31268,Allen Lazard,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-09-16 07:09:54,423.p.31107,31107,Dalton Schultz,waivers,add,,,423.l.129200.t.4,Greek Magic
+2023-09-16 07:09:54,423.p.30995,30995,Hayden Hurst,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-09-16 07:09:54,423.p.30175,30175,JuJu Smith-Schuster,waivers,add,,,423.l.129200.t.6,Poon Monsoon
+2023-09-16 07:09:54,423.p.27624,27624,Jerick McKinnon,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-09-15 03:25:35,423.p.33514,33514,Chuba Hubbard,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-09-15 03:25:35,423.p.33798,33798,Deon Jackson,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-09-14 14:04:06,423.p.32756,32756,Zack Moss,freeagents,add,,,423.l.129200.t.11,WARREN MOON
+2023-09-14 14:04:06,423.p.29288,29288,Tyler Boyd,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-09-13 15:33:08,423.p.100005,100005,Cleveland,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-09-13 14:15:03,423.p.34120,34120,Kyren Williams,freeagents,add,,,423.l.129200.t.11,WARREN MOON
+2023-09-13 14:15:03,423.p.40084,40084,Rashee Rice,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-09-13 13:22:51,423.p.30995,30995,Hayden Hurst,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-09-13 13:22:51,423.p.30157,30157,Gerald Everett,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-09-13 13:05:33,423.p.100019,100019,New York,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-09-13 13:05:33,423.p.30175,30175,JuJu Smith-Schuster,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-09-13 07:10:25,423.p.31424,31424,Gus Edwards,waivers,add,,,423.l.129200.t.8,Spark that Spliff
+2023-09-13 07:10:25,423.p.31051,31051,Michael Gallup,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-09-13 07:10:25,423.p.31945,31945,Justice Hill,waivers,add,,,423.l.129200.t.8,Spark that Spliff
+2023-09-13 07:10:25,423.p.32725,32725,J.K. Dobbins,team,drop,423.l.129200.t.8,Spark that Spliff,,
+2023-09-13 07:10:25,423.p.32231,32231,Jakobi Meyers,waivers,add,,,423.l.129200.t.4,Greek Magic
+2023-09-13 07:10:25,423.p.100020,100020,New York,waivers,add,,,423.l.129200.t.2,Big Ditkas
+2023-09-13 07:10:25,423.p.100028,100028,Washington,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-09-13 07:10:25,423.p.32782,32782,Joshua Kelley,waivers,add,,,423.l.129200.t.11,WARREN MOON
+2023-09-13 07:10:25,423.p.31107,31107,Dalton Schultz,team,drop,423.l.129200.t.11,WARREN MOON,,
+2023-09-13 07:10:25,423.p.33390,33390,Zach Wilson,waivers,add,,,423.l.129200.t.12,Yordong
+2023-09-13 07:10:25,423.p.27277,27277,Adam Thielen,team,drop,423.l.129200.t.12,Yordong,,
+2023-09-13 07:10:25,423.p.34344,34344,Cameron Dicker,waivers,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-09-13 07:10:25,423.p.9526,9526,Graham Gano,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-09-13 07:10:25,423.p.100027,100027,Tampa Bay,waivers,add,,,423.l.129200.t.3,Fuck Yas all
+2023-09-13 07:10:25,423.p.100024,100024,Los Angeles,team,drop,423.l.129200.t.3,Fuck Yas all,,
+2023-09-13 07:10:25,423.p.40168,40168,Puka Nacua,waivers,add,,,423.l.129200.t.7,Romo-Erotica
+2023-09-13 07:10:25,423.p.33550,33550,Noah Gray,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-09-13 01:38:54,423.p.7200,7200,Aaron Rodgers,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-09-10 16:04:10,423.p.33445,33445,Tutu Atwell,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-09-10 14:13:34,423.p.100030,100030,Jacksonville,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-09-10 12:46:56,423.p.32727,32727,Van Jefferson,freeagents,add,,,423.l.129200.t.1,F.Y.H.
+2023-09-10 12:46:56,423.p.34009,34009,Skyy Moore,team,drop,423.l.129200.t.1,F.Y.H.,,
+2023-09-07 22:42:48,423.p.33550,33550,Noah Gray,freeagents,add,,,423.l.129200.t.7,Romo-Erotica
+2023-09-07 22:42:48,423.p.34088,34088,Romeo Doubs,team,drop,423.l.129200.t.7,Romo-Erotica,,
+2023-09-07 18:42:12,423.p.100001,100001,Atlanta,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-09-07 18:42:12,423.p.100011,100011,Indianapolis,team,drop,423.l.129200.t.12,Yordong,,
+2023-09-05 13:10:08,423.p.100026,100026,Seattle,freeagents,add,,,423.l.129200.t.5,Johnny Utah
+2023-09-05 13:10:08,423.p.100020,100020,New York,team,drop,423.l.129200.t.5,Johnny Utah,,
+2023-09-03 19:03:52,423.p.27120,27120,Brandon McManus,freeagents,add,,,423.l.129200.t.4,Greek Magic
+2023-09-03 19:03:52,423.p.31928,31928,Dawson Knox,team,drop,423.l.129200.t.4,Greek Magic,,
+2023-09-03 13:34:12,423.p.100030,100030,Jacksonville,freeagents,add,,,423.l.129200.t.6,Poon Monsoon
+2023-09-03 13:33:51,423.p.34036,34036,Greg Dulcich,team,drop,423.l.129200.t.6,Poon Monsoon,,
+2023-09-03 13:24:58,423.p.100007,100007,Denver,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-09-03 13:24:58,423.p.100003,100003,Chicago,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-09-02 06:20:54,423.p.9526,9526,Graham Gano,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-09-02 06:20:54,423.p.33781,33781,Riley Patterson,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-09-02 06:19:08,423.p.33781,33781,Riley Patterson,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-09-02 06:19:08,423.p.29792,29792,Ka'imi Fairbairn,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-09-02 06:16:21,423.p.33798,33798,Deon Jackson,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-09-02 06:16:21,423.p.31394,31394,Jeff Wilson Jr.,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-08-31 18:39:35,423.p.32843,32843,Darnell Mooney,freeagents,add,,,423.l.129200.t.12,Yordong
+2023-08-31 18:39:35,423.p.40073,40073,Jonathan Mingo,team,drop,423.l.129200.t.12,Yordong,,
+2023-08-27 23:01:08,423.p.40084,40084,Rashee Rice,freeagents,add,,,423.l.129200.t.11,WARREN MOON
+2023-08-27 18:05:34,423.p.28378,28378,Jason Myers,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-08-27 18:05:34,423.p.33967,33967,Jameson Williams,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-08-27 17:57:38,423.p.100028,100028,Washington,freeagents,add,,,423.l.129200.t.2,Big Ditkas
+2023-08-27 17:57:38,423.p.40162,40162,Roschon Johnson,team,drop,423.l.129200.t.2,Big Ditkas,,
+2023-08-27 15:04:00,423.p.100033,100033,Baltimore,freeagents,add,,,423.l.129200.t.9,The Hebrew Hammer
+2023-08-27 15:04:00,423.p.100029,100029,Carolina,team,drop,423.l.129200.t.9,The Hebrew Hammer,,
+2023-08-27 14:38:06,423.p.34085,34085,Jake Ferguson,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-08-27 14:38:06,423.p.26658,26658,Zach Ertz,team,drop,423.l.129200.t.10,The Moose Knucklers,,
+2023-08-27 14:32:12,423.p.33422,33422,Elijah Moore,freeagents,add,,,423.l.129200.t.10,The Moose Knucklers
+2023-08-27 14:32:12,423.p.32231,32231,Jakobi Meyers,team,drop,423.l.129200.t.10,The Moose Knucklers,,
