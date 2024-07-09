@@ -1,0 +1,7 @@
+trader_team_key,trader_nickname,tradee_team_key,tradee_nickname,trader_player_keys_received,trader_player_names_received,tradee_player_keys_received,tradee_player_names_received,trader_picks_received,tradee_picks_received,week_enacted,date
+423.l.129200.t.7,Jesse B,423.l.129200.t.5,Mike Bingham,['423.p.31856'],['Josh Jacobs'],['423.p.29369'],['Dak Prescott'],[],[],9,2023-11-11 14:44:34
+423.l.129200.t.4,chris l,423.l.129200.t.3,Nick,['423.p.40064'],['Sam LaPorta'],['423.p.32231'],['Jakobi Meyers'],[],[],8,2023-11-03 00:53:26
+423.l.129200.t.9,light,423.l.129200.t.2,Joel,"['423.p.31934', '423.p.31019']","['Alexander Mattison', 'Dallas Goedert']","['423.p.33965', '423.p.30213']","['Garrett Wilson', 'Jonnu Smith']",[],[],6,2023-10-25 23:56:41
+423.l.129200.t.2,Joel,423.l.129200.t.7,Jesse B,['423.p.31934'],['Alexander Mattison'],['423.p.31908'],['Terry McLaurin'],[],[],5,2023-10-18 21:44:20
+423.l.129200.t.12,James,423.l.129200.t.9,light,['423.p.34100'],['Sam Howell'],"['423.p.32010', '423.p.30161']","['Gardner Minshew II', 'Joe Mixon']",[],[],5,2023-10-17 19:26:38
+423.l.129200.t.11,ppratt,423.l.129200.t.12,James,['423.p.32696'],['Jordan Love'],['423.p.34063'],['Dameon Pierce'],[],[],2,2023-09-21 15:00:36

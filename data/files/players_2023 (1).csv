@@ -1,0 +1,701 @@
+player_key,player_id,player_name,team,nfl_player_key,position,bye_week,points,league_key
+423.p.32687,32687,CeeDee Lamb,Dallas Cowboys,nfl.p.32687,WR,7,403.20,423.l.129200
+423.p.30977,30977,Josh Allen,Buffalo Bills,nfl.p.30977,QB,13,392.64,423.l.129200
+423.p.30121,30121,Christian McCaffrey,San Francisco 49ers,nfl.p.30121,RB,9,391.30,423.l.129200
+423.p.29399,29399,Tyreek Hill,Miami Dolphins,nfl.p.29399,WR,10,376.40,423.l.129200
+423.p.32723,32723,Jalen Hurts,Philadelphia Eagles,nfl.p.32723,QB,10,356.82,423.l.129200
+423.p.29369,29369,Dak Prescott,Dallas Cowboys,nfl.p.29369,QB,7,342.84,423.l.129200
+423.p.31002,31002,Lamar Jackson,Baltimore Ravens,nfl.p.31002,QB,13,331.22,423.l.129200
+423.p.33500,33500,Amon-Ra St. Brown,Detroit Lions,nfl.p.33500,WR,9,330.90,423.l.129200
+423.p.32696,32696,Jordan Love,Green Bay Packers,nfl.p.32696,QB,6,319.06,423.l.129200
+423.p.40168,40168,Puka Nacua,Los Angeles Rams,nfl.p.40168,WR,10,298.50,423.l.129200
+423.p.34218,34218,Brock Purdy,San Francisco 49ers,nfl.p.34218,QB,9,295.60,423.l.129200
+423.p.33991,33991,Breece Hall,New York Jets,nfl.p.33991,RB,7,290.50,423.l.129200
+423.p.31883,31883,A.J. Brown,Philadelphia Eagles,nfl.p.31883,WR,10,289.60,423.l.129200
+423.p.29235,29235,Jared Goff,Detroit Lions,nfl.p.29235,QB,9,289.10,423.l.129200
+423.p.30994,30994,DJ Moore,Chicago Bears,nfl.p.30994,WR,13,286.50,423.l.129200
+423.p.27535,27535,Mike Evans,Tampa Bay Buccaneers,nfl.p.27535,WR,5,282.50,423.l.129200
+423.p.33413,33413,Travis Etienne Jr.,Jacksonville Jaguars,nfl.p.33413,RB,9,282.40,423.l.129200
+423.p.30123,30123,Patrick Mahomes,Kansas City Chiefs,nfl.p.30123,QB,10,280.22,423.l.129200
+423.p.26699,26699,Keenan Allen,Chicago Bears,nfl.p.26699,WR,13,278.86,423.l.129200
+423.p.40030,40030,C.J. Stroud,Houston Texans,nfl.p.40030,QB,7,276.02,423.l.129200
+423.p.30971,30971,Baker Mayfield,Tampa Bay Buccaneers,nfl.p.30971,QB,5,274.06,423.l.129200
+423.p.28534,28534,Stefon Diggs,Houston Texans,nfl.p.28534,WR,7,273.80,423.l.129200
+423.p.32675,32675,Tua Tagovailoa,Miami Dolphins,nfl.p.32675,QB,10,270.36,423.l.129200
+423.p.34047,34047,Rachaad White,Tampa Bay Buccaneers,nfl.p.34047,RB,5,267.90,423.l.129200
+423.p.28654,28654,Raheem Mostert,Miami Dolphins,nfl.p.28654,RB,10,267.70,423.l.129200
+423.p.30161,30161,Joe Mixon,Houston Texans,nfl.p.30161,RB,7,267.00,423.l.129200
+423.p.27581,27581,Davante Adams,Las Vegas Raiders,nfl.p.27581,WR,13,265.40,423.l.129200
+423.p.33393,33393,Ja'Marr Chase,Cincinnati Bengals,nfl.p.33393,WR,7,262.72,423.l.129200
+423.p.33389,33389,Trevor Lawrence,Jacksonville Jaguars,nfl.p.33389,QB,9,262.54,423.l.129200
+423.p.33477,33477,Nico Collins,Houston Texans,nfl.p.33477,WR,7,260.40,423.l.129200
+423.p.34100,34100,Sam Howell,Seattle Seahawks,nfl.p.34100,QB,5,257.54,423.l.129200
+423.p.25785,25785,Russell Wilson,Pittsburgh Steelers,nfl.p.25785,QB,6,256.90,423.l.129200
+423.p.34120,34120,Kyren Williams,Los Angeles Rams,nfl.p.34120,RB,10,255.00,423.l.129200
+423.p.32704,32704,Michael Pittman Jr.,Indianapolis Colts,nfl.p.32704,WR,11,250.20,423.l.129200
+423.p.32695,32695,Brandon Aiyuk,San Francisco 49ers,nfl.p.32695,WR,9,249.20,423.l.129200
+423.p.29279,29279,Derrick Henry,Baltimore Ravens,nfl.p.29279,RB,13,246.66,423.l.129200
+423.p.40055,40055,Bijan Robinson,Atlanta Falcons,nfl.p.40055,RB,11,246.30,423.l.129200
+423.p.31868,31868,Deebo Samuel Sr.,San Francisco 49ers,nfl.p.31868,WR,9,243.70,423.l.129200
+423.p.9265,9265,Matthew Stafford,Los Angeles Rams,nfl.p.9265,QB,10,243.10,423.l.129200
+423.p.40059,40059,Jahmyr Gibbs,Detroit Lions,nfl.p.40059,RB,9,242.10,423.l.129200
+423.p.27564,27564,Derek Carr,New Orleans Saints,nfl.p.27564,QB,11,241.12,423.l.129200
+423.p.40064,40064,Sam LaPorta,Detroit Lions,nfl.p.40064,TE,9,239.30,423.l.129200
+423.p.100006,100006,Dallas,Dallas Cowboys,nfl.p.100006,DEF,7,234.50,423.l.129200
+423.p.32676,32676,Justin Herbert,Los Angeles Chargers,nfl.p.32676,QB,5,234.16,423.l.129200
+423.p.30180,30180,Alvin Kamara,New Orleans Saints,nfl.p.30180,RB,11,233.00,423.l.129200
+423.p.34019,34019,James Cook,Buffalo Bills,nfl.p.34019,RB,13,232.70,423.l.129200
+423.p.33966,33966,Chris Olave,New Orleans Saints,nfl.p.33966,WR,11,231.30,423.l.129200
+423.p.27277,27277,Adam Thielen,Carolina Panthers,nfl.p.27277,WR,7,231.00,423.l.129200
+423.p.30136,30136,Evan Engram,Jacksonville Jaguars,nfl.p.30136,TE,9,230.30,423.l.129200
+423.p.33399,33399,Justin Fields,Pittsburgh Steelers,nfl.p.33399,QB,6,230.18,423.l.129200
+423.p.30996,30996,Calvin Ridley,Tennessee Titans,nfl.p.30996,WR,7,229.90,423.l.129200
+423.p.33398,33398,DeVonta Smith,Philadelphia Eagles,nfl.p.33398,WR,10,227.60,423.l.129200
+423.p.26662,26662,Geno Smith,Seattle Seahawks,nfl.p.26662,QB,5,227.26,423.l.129200
+423.p.28392,28392,Amari Cooper,Cleveland Browns,nfl.p.28392,WR,5,227.00,423.l.129200
+423.p.100005,100005,Cleveland,Cleveland Browns,nfl.p.100005,DEF,5,225.50,423.l.129200
+423.p.31896,31896,DK Metcalf,Seattle Seahawks,nfl.p.31896,WR,5,225.40,423.l.129200
+423.p.26650,26650,DeAndre Hopkins,Tennessee Titans,nfl.p.26650,WR,7,223.60,423.l.129200
+423.p.100033,100033,Baltimore,Baltimore Ravens,nfl.p.100033,DEF,13,223.50,423.l.129200
+423.p.30972,30972,Saquon Barkley,Philadelphia Eagles,nfl.p.30972,RB,10,223.20,423.l.129200
+423.p.31960,31960,Tony Pollard,Tennessee Titans,nfl.p.31960,RB,7,222.60,423.l.129200
+423.p.40042,40042,Jordan Addison,Minnesota Vikings,nfl.p.40042,WR,13,221.30,423.l.129200
+423.p.26686,26686,Travis Kelce,Kansas City Chiefs,nfl.p.26686,TE,10,219.40,423.l.129200
+423.p.31840,31840,T.J. Hockenson,Minnesota Vikings,nfl.p.31840,TE,13,219.00,423.l.129200
+423.p.32231,32231,Jakobi Meyers,Las Vegas Raiders,nfl.p.32231,WR,13,218.58,423.l.129200
+423.p.40063,40063,Jayden Reed,Green Bay Packers,nfl.p.40063,WR,6,217.20,423.l.129200
+423.p.34207,34207,Isiah Pacheco,Kansas City Chiefs,nfl.p.34207,RB,10,213.90,423.l.129200
+423.p.33965,33965,Garrett Wilson,New York Jets,nfl.p.33965,WR,7,213.20,423.l.129200
+423.p.40084,40084,Rashee Rice,Kansas City Chiefs,nfl.p.40084,WR,10,212.50,423.l.129200
+423.p.34112,34112,Jerome Ford,Cleveland Browns,nfl.p.34112,RB,5,211.20,423.l.129200
+423.p.30197,30197,Chris Godwin,Tampa Bay Buccaneers,nfl.p.30197,WR,5,209.20,423.l.129200
+423.p.31908,31908,Terry McLaurin,Washington Commanders,nfl.p.31908,WR,14,209.20,423.l.129200
+423.p.34007,34007,George Pickens,Pittsburgh Steelers,nfl.p.34007,WR,6,208.80,423.l.129200
+423.p.31905,31905,David Montgomery,Detroit Lions,nfl.p.31905,RB,9,207.20,423.l.129200
+423.p.100015,100015,Miami,Miami Dolphins,nfl.p.100015,DEF,10,206.50,423.l.129200
+423.p.40039,40039,Zay Flowers,Baltimore Ravens,nfl.p.40039,WR,13,206.40,423.l.129200
+423.p.100002,100002,Buffalo,Buffalo Bills,nfl.p.100002,DEF,13,203.50,423.l.129200
+423.p.30259,30259,George Kittle,San Francisco 49ers,nfl.p.30259,TE,9,203.20,423.l.129200
+423.p.100020,100020,New York,New York Jets,nfl.p.100020,DEF,7,203.00,423.l.129200
+423.p.28457,28457,Tyler Lockett,Seattle Seahawks,nfl.p.28457,WR,5,202.40,423.l.129200
+423.p.32692,32692,Justin Jefferson,Minnesota Vikings,nfl.p.32692,WR,13,202.20,423.l.129200
+423.p.30218,30218,James Conner,Arizona Cardinals,nfl.p.30218,RB,14,201.50,423.l.129200
+423.p.30142,30142,David Njoku,Cleveland Browns,nfl.p.30142,TE,5,201.20,423.l.129200
+423.p.30248,30248,Joshua Dobbs,San Francisco 49ers,nfl.p.30248,QB,9,200.66,423.l.129200
+423.p.33996,33996,Kenneth Walker III,Seattle Seahawks,nfl.p.33996,RB,5,199.40,423.l.129200
+423.p.32705,32705,D'Andre Swift,Chicago Bears,nfl.p.32705,RB,13,199.30,423.l.129200
+423.p.33394,33394,Jaylen Waddle,Miami Dolphins,nfl.p.33394,WR,10,198.60,423.l.129200
+423.p.34054,34054,Brian Robinson Jr.,Washington Commanders,nfl.p.34054,RB,14,198.10,423.l.129200
+423.p.100027,100027,Tampa Bay,Tampa Bay Buccaneers,nfl.p.100027,DEF,5,197.50,423.l.129200
+423.p.34447,34447,Jaylen Warren,Pittsburgh Steelers,nfl.p.34447,RB,6,196.40,423.l.129200
+423.p.32010,32010,Gardner Minshew II,Las Vegas Raiders,nfl.p.32010,QB,13,196.20,423.l.129200
+423.p.33412,33412,Najee Harris,Pittsburgh Steelers,nfl.p.33412,RB,6,195.50,423.l.129200
+423.p.100013,100013,Las Vegas,Las Vegas Raiders,nfl.p.100013,DEF,13,195.00,423.l.129200
+423.p.100023,100023,Pittsburgh,Pittsburgh Steelers,nfl.p.100023,DEF,6,191.50,423.l.129200
+423.p.100012,100012,Kansas City,Kansas City Chiefs,nfl.p.100012,DEF,10,191.50,423.l.129200
+423.p.40118,40118,De'Von Achane,Miami Dolphins,nfl.p.40118,RB,10,190.70,423.l.129200
+423.p.31010,31010,Courtland Sutton,Denver Broncos,nfl.p.31010,WR,9,190.20,423.l.129200
+423.p.100025,100025,San Francisco,San Francisco 49ers,nfl.p.100025,DEF,9,189.00,423.l.129200
+423.p.100018,100018,New Orleans,New Orleans Saints,nfl.p.100018,DEF,11,188.00,423.l.129200
+423.p.100011,100011,Indianapolis,Indianapolis Colts,nfl.p.100011,DEF,11,188.00,423.l.129200
+423.p.31424,31424,Gus Edwards,Los Angeles Chargers,nfl.p.31424,RB,5,187.00,423.l.129200
+423.p.30423,30423,Austin Ekeler,Washington Commanders,nfl.p.30423,RB,14,185.40,423.l.129200
+423.p.33514,33514,Chuba Hubbard,Carolina Panthers,nfl.p.33514,RB,7,182.50,423.l.129200
+423.p.34010,34010,Trey McBride,Arizona Cardinals,nfl.p.34010,TE,14,181.50,423.l.129200
+423.p.32713,32713,Cole Kmet,Chicago Bears,nfl.p.32713,TE,13,181.10,423.l.129200
+423.p.31856,31856,Josh Jacobs,Green Bay Packers,nfl.p.31856,RB,6,181.10,423.l.129200
+423.p.33423,33423,Javonte Williams,Denver Broncos,nfl.p.33423,RB,9,179.20,423.l.129200
+423.p.100034,100034,Houston,Houston Texans,nfl.p.100034,DEF,7,178.50,423.l.129200
+423.p.34030,34030,Desmond Ridder,Arizona Cardinals,nfl.p.34030,QB,14,177.14,423.l.129200
+423.p.34085,34085,Jake Ferguson,Dallas Cowboys,nfl.p.34085,TE,7,177.10,423.l.129200
+423.p.40819,40819,Brandon Aubrey,Dallas Cowboys,nfl.p.40819,K,7,176.00,423.l.129200
+423.p.29238,29238,Ezekiel Elliott,Dallas Cowboys,nfl.p.29238,RB,7,174.50,423.l.129200
+423.p.34088,34088,Romeo Doubs,Green Bay Packers,nfl.p.34088,WR,6,174.40,423.l.129200
+423.p.33963,33963,Drake London,Atlanta Falcons,nfl.p.33963,WR,11,174.38,423.l.129200
+423.p.27548,27548,Brandin Cooks,Dallas Cowboys,nfl.p.27548,WR,7,173.20,423.l.129200
+423.p.100016,100016,Minnesota,Minnesota Vikings,nfl.p.100016,DEF,13,170.00,423.l.129200
+423.p.32756,32756,Zack Moss,Cincinnati Bengals,nfl.p.32756,RB,7,169.60,423.l.129200
+423.p.31906,31906,Devin Singletary,New York Giants,nfl.p.31906,RB,13,167.34,423.l.129200
+423.p.100030,100030,Jacksonville,Jacksonville Jaguars,nfl.p.100030,DEF,9,166.50,423.l.129200
+423.p.40097,40097,Tank Dell,Houston Texans,nfl.p.40097,WR,7,165.00,423.l.129200
+423.p.30182,30182,Cooper Kupp,Los Angeles Rams,nfl.p.30182,WR,10,164.40,423.l.129200
+423.p.100019,100019,New York,New York Giants,nfl.p.100019,DEF,13,164.00,423.l.129200
+423.p.100003,100003,Chicago,Chicago Bears,nfl.p.100003,DEF,13,163.00,423.l.129200
+423.p.100026,100026,Seattle,Seattle Seahawks,nfl.p.100026,DEF,5,161.50,423.l.129200
+423.p.32798,32798,Gabe Davis,Jacksonville Jaguars,nfl.p.32798,WR,9,161.40,423.l.129200
+423.p.100024,100024,Los Angeles,Los Angeles Chargers,nfl.p.100024,DEF,5,161.00,423.l.129200
+423.p.26534,26534,Justin Tucker,Baltimore Ravens,nfl.p.26534,K,13,159.00,423.l.129200
+423.p.100009,100009,Green Bay,Green Bay Packers,nfl.p.100009,DEF,6,159.00,423.l.129200
+423.p.30153,30153,Curtis Samuel,Buffalo Bills,nfl.p.30153,WR,13,157.20,423.l.129200
+423.p.40126,40126,Josh Downs,Indianapolis Colts,nfl.p.40126,WR,11,157.10,423.l.129200
+423.p.28378,28378,Jason Myers,Seattle Seahawks,nfl.p.28378,K,5,157.00,423.l.129200
+423.p.32711,32711,Jonathan Taylor,Indianapolis Colts,nfl.p.32711,RB,11,156.40,423.l.129200
+423.p.40029,40029,Bryce Young,Carolina Panthers,nfl.p.40029,QB,7,156.38,423.l.129200
+423.p.28227,28227,Cairo Santos,Chicago Bears,nfl.p.28227,K,13,156.00,423.l.129200
+423.p.34659,34659,Rashid Shaheed,New Orleans Saints,nfl.p.34659,WR,11,155.60,423.l.129200
+423.p.100007,100007,Denver,Denver Broncos,nfl.p.100007,DEF,9,155.50,423.l.129200
+423.p.31977,31977,Matt Gay,Indianapolis Colts,nfl.p.31977,K,11,155.00,423.l.129200
+423.p.100008,100008,Detroit,Detroit Lions,nfl.p.100008,DEF,9,154.50,423.l.129200
+423.p.30266,30266,Jake Elliott,Philadelphia Eagles,nfl.p.30266,K,10,154.00,423.l.129200
+423.p.40119,40119,Tyjae Spears,Tennessee Titans,nfl.p.40119,RB,7,153.80,423.l.129200
+423.p.100004,100004,Cincinnati,Cincinnati Bengals,nfl.p.100004,DEF,7,153.50,423.l.129200
+423.p.31898,31898,Diontae Johnson,Carolina Panthers,nfl.p.31898,WR,7,152.70,423.l.129200
+423.p.30346,30346,Harrison Butker,Kansas City Chiefs,nfl.p.30346,K,10,152.00,423.l.129200
+423.p.100010,100010,Tennessee,Tennessee Titans,nfl.p.100010,DEF,7,151.00,423.l.129200
+423.p.34344,34344,Cameron Dicker,Los Angeles Chargers,nfl.p.34344,K,5,151.00,423.l.129200
+423.p.32003,32003,Darius Slayton,New York Giants,nfl.p.32003,WR,13,151.00,423.l.129200
+423.p.100017,100017,New England,New England Patriots,nfl.p.100017,DEF,11,151.00,423.l.129200
+423.p.31107,31107,Dalton Schultz,Houston Texans,nfl.p.31107,TE,7,150.50,423.l.129200
+423.p.40048,40048,Dalton Kincaid,Buffalo Bills,nfl.p.40048,TE,13,150.30,423.l.129200
+423.p.31017,31017,Christian Kirk,Jacksonville Jaguars,nfl.p.31017,WR,9,150.26,423.l.129200
+423.p.40041,40041,Jaxon Smith-Njigba,Seattle Seahawks,nfl.p.40041,WR,5,149.80,423.l.129200
+423.p.25812,25812,Kirk Cousins,Atlanta Falcons,nfl.p.25812,QB,11,149.74,423.l.129200
+423.p.40296,40296,Blake Grupe,New Orleans Saints,nfl.p.40296,K,11,148.00,423.l.129200
+423.p.100001,100001,Atlanta,Atlanta Falcons,nfl.p.100001,DEF,11,147.50,423.l.129200
+423.p.32671,32671,Joe Burrow,Cincinnati Bengals,nfl.p.32671,QB,7,147.16,423.l.129200
+423.p.26800,26800,Dustin Hopkins,Cleveland Browns,nfl.p.26800,K,5,147.00,423.l.129200
+423.p.31833,31833,Kyler Murray,Arizona Cardinals,nfl.p.31833,QB,14,146.36,423.l.129200
+423.p.27120,27120,Brandon McManus,Jacksonville Jaguars,nfl.p.27120,K,9,146.00,423.l.129200
+423.p.33508,33508,Rhamondre Stevenson,New England Patriots,nfl.p.33508,RB,11,145.70,423.l.129200
+423.p.31199,31199,Jason Sanders,Miami Dolphins,nfl.p.31199,K,10,145.00,423.l.129200
+423.p.29288,29288,Tyler Boyd,Tennessee Titans,nfl.p.29288,WR,7,144.80,423.l.129200
+423.p.32138,32138,Jake Browning,Cincinnati Bengals,nfl.p.32138,QB,7,144.44,423.l.129200
+423.p.30614,30614,Taysom Hill,New Orleans Saints,nfl.p.30614,TE,11,143.52,423.l.129200
+423.p.32685,32685,Jerry Jeudy,Cleveland Browns,nfl.p.32685,WR,5,141.80,423.l.129200
+423.p.100021,100021,Philadelphia,Philadelphia Eagles,nfl.p.100021,DEF,10,141.50,423.l.129200
+423.p.25881,25881,Greg Zuerlein,New York Jets,nfl.p.25881,K,7,141.00,423.l.129200
+423.p.33537,33537,Evan McPherson,Cincinnati Bengals,nfl.p.33537,K,7,140.00,423.l.129200
+423.p.34107,34107,Tyler Allgeier,Atlanta Falcons,nfl.p.34107,RB,11,137.60,423.l.129200
+423.p.32703,32703,Tee Higgins,Cincinnati Bengals,nfl.p.32703,WR,7,137.60,423.l.129200
+423.p.33392,33392,Kyle Pitts,Atlanta Falcons,nfl.p.33392,TE,11,137.30,423.l.129200
+423.p.30426,30426,Younghoe Koo,Atlanta Falcons,nfl.p.30426,K,11,137.00,423.l.129200
+423.p.31019,31019,Dallas Goedert,Philadelphia Eagles,nfl.p.31019,TE,10,136.30,423.l.129200
+423.p.32417,32417,Chase McLaughlin,Tampa Bay Buccaneers,nfl.p.32417,K,5,136.00,423.l.129200
+423.p.31056,31056,Mark Andrews,Baltimore Ravens,nfl.p.31056,TE,13,135.40,423.l.129200
+423.p.30295,30295,Aaron Jones,Minnesota Vikings,nfl.p.30295,RB,13,134.90,423.l.129200
+423.p.31857,31857,Hollywood Brown,Kansas City Chiefs,nfl.p.31857,WR,10,134.70,423.l.129200
+423.p.33998,33998,Wan'Dale Robinson,New York Giants,nfl.p.33998,WR,13,133.20,423.l.129200
+423.p.31934,31934,Alexander Mattison,Las Vegas Raiders,nfl.p.31934,RB,13,133.20,423.l.129200
+423.p.33422,33422,Elijah Moore,Cleveland Browns,nfl.p.33422,WR,5,132.10,423.l.129200
+423.p.28188,28188,Chris Boswell,Pittsburgh Steelers,nfl.p.28188,K,6,132.00,423.l.129200
+423.p.32858,32858,Tyler Bass,Buffalo Bills,nfl.p.32858,K,13,131.00,423.l.129200
+423.p.8432,8432,Nick Folk,Tennessee Titans,nfl.p.8432,K,7,129.00,423.l.129200
+423.p.40129,40129,Jake Moody,San Francisco 49ers,nfl.p.40129,K,9,129.00,423.l.129200
+423.p.30230,30230,Josh Reynolds,Denver Broncos,nfl.p.30230,WR,9,128.80,423.l.129200
+423.p.100014,100014,Los Angeles,Los Angeles Rams,nfl.p.100014,DEF,10,128.50,423.l.129200
+423.p.8565,8565,Matt Prater,Arizona Cardinals,nfl.p.8565,K,14,128.00,423.l.129200
+423.p.32736,32736,Antonio Gibson,New England Patriots,nfl.p.32736,RB,11,127.40,423.l.129200
+423.p.27648,27648,Logan Thomas,San Francisco 49ers,nfl.p.27648,TE,9,126.80,423.l.129200
+423.p.29754,29754,Wil Lutz,Denver Broncos,nfl.p.29754,K,9,126.00,423.l.129200
+423.p.40138,40138,Aidan O'Connell,Las Vegas Raiders,nfl.p.40138,QB,13,125.82,423.l.129200
+423.p.33971,33971,Jahan Dotson,Washington Commanders,nfl.p.33971,WR,14,124.80,423.l.129200
+423.p.30213,30213,Jonnu Smith,Miami Dolphins,nfl.p.30213,TE,10,124.20,423.l.129200
+423.p.31127,31127,Tyler Conklin,New York Jets,nfl.p.31127,TE,7,123.10,423.l.129200
+423.p.30227,30227,Samaje Perine,Denver Broncos,nfl.p.30227,RB,9,121.30,423.l.129200
+423.p.32846,32846,K.J. Osborn,New England Patriots,nfl.p.32846,WR,11,120.00,423.l.129200
+423.p.31137,31137,Daniel Carlson,Las Vegas Raiders,nfl.p.31137,K,13,120.00,423.l.129200
+423.p.40214,40214,Anders Carlson,Green Bay Packers,nfl.p.40214,K,6,120.00,423.l.129200
+423.p.33390,33390,Zach Wilson,Denver Broncos,nfl.p.33390,QB,9,119.94,423.l.129200
+423.p.29269,29269,Hunter Henry,New England Patriots,nfl.p.29269,TE,11,119.90,423.l.129200
+423.p.40201,40201,Dontayvion Wicks,Green Bay Packers,nfl.p.40201,WR,6,119.76,423.l.129200
+423.p.30199,30199,Kareem Hunt,Cleveland Browns,nfl.p.30199,RB,5,118.50,423.l.129200
+423.p.32732,32732,AJ Dillon,Green Bay Packers,nfl.p.32732,RB,6,117.60,423.l.129200
+423.p.31538,31538,Greg Joseph,Green Bay Packers,nfl.p.31538,K,6,117.00,423.l.129200
+423.p.34062,34062,Cade Otton,Tampa Bay Buccaneers,nfl.p.34062,TE,5,116.50,423.l.129200
+423.p.31031,31031,DJ Chark,Los Angeles Chargers,nfl.p.31031,WR,5,115.50,423.l.129200
+423.p.40121,40121,Michael Wilson,Arizona Cardinals,nfl.p.40121,WR,14,114.50,423.l.129200
+423.p.34099,34099,Chigoziem Okonkwo,Tennessee Titans,nfl.p.34099,TE,7,113.40,423.l.129200
+423.p.28592,28592,Darren Waller,New York Giants,nfl.p.28592,TE,13,113.20,423.l.129200
+423.p.34104,34104,Khalil Shakir,Buffalo Bills,nfl.p.34104,WR,13,113.10,423.l.129200
+423.p.29792,29792,Ka'imi Fairbairn,Houston Texans,nfl.p.29792,K,7,113.00,423.l.129200
+423.p.33605,33605,Khalil Herbert,Chicago Bears,nfl.p.33605,RB,13,112.50,423.l.129200
+423.p.33445,33445,Tutu Atwell,Los Angeles Rams,nfl.p.33445,WR,10,112.40,423.l.129200
+423.p.30157,30157,Gerald Everett,Chicago Bears,nfl.p.30157,TE,13,111.10,423.l.129200
+423.p.100029,100029,Carolina,Carolina Panthers,nfl.p.100029,DEF,7,110.50,423.l.129200
+423.p.33975,33975,Kenny Pickett,Philadelphia Eagles,nfl.p.33975,QB,10,110.20,423.l.129200
+423.p.31945,31945,Justice Hill,Baltimore Ravens,nfl.p.31945,RB,13,109.30,423.l.129200
+423.p.29344,29344,Tyler Higbee,Los Angeles Rams,nfl.p.29344,TE,10,108.50,423.l.129200
+423.p.27540,27540,Odell Beckham Jr.,Miami Dolphins,nfl.p.27540,WR,10,107.50,423.l.129200
+423.p.40222,40222,DeMario Douglas,New England Patriots,nfl.p.40222,WR,11,107.20,423.l.129200
+423.p.33465,33465,Joshua Palmer,Los Angeles Chargers,nfl.p.33465,WR,5,106.70,423.l.129200
+423.p.33403,33403,Mac Jones,Jacksonville Jaguars,nfl.p.33403,QB,9,106.40,423.l.129200
+423.p.40075,40075,Zach Charbonnet,Seattle Seahawks,nfl.p.40075,RB,5,106.10,423.l.129200
+423.p.31482,31482,Eddy Pineiro,Carolina Panthers,nfl.p.31482,K,7,106.00,423.l.129200
+423.p.40696,40696,Jaleel McLaughlin,Denver Broncos,nfl.p.40696,RB,9,106.00,423.l.129200
+423.p.33437,33437,Rondale Moore,Atlanta Falcons,nfl.p.33437,WR,11,105.00,423.l.129200
+423.p.100022,100022,Arizona,Arizona Cardinals,nfl.p.100022,DEF,14,104.00,423.l.129200
+423.p.40162,40162,Roschon Johnson,Chicago Bears,nfl.p.40162,RB,13,102.10,423.l.129200
+423.p.40068,40068,Will Levis,Tennessee Titans,nfl.p.40068,QB,7,102.02,423.l.129200
+423.p.30352,30352,Noah Brown,Houston Texans,nfl.p.30352,WR,7,101.60,423.l.129200
+423.p.33989,33989,Christian Watson,Green Bay Packers,nfl.p.33989,WR,6,101.30,423.l.129200
+423.p.34095,34095,Isaiah Likely,Baltimore Ravens,nfl.p.34095,TE,13,101.10,423.l.129200
+423.p.34125,34125,Ty Chandler,Minnesota Vikings,nfl.p.34125,RB,13,101.00,423.l.129200
+423.p.8795,8795,Joe Flacco,Indianapolis Colts,nfl.p.8795,QB,11,100.84,423.l.129200
+423.p.30551,30551,Kendrick Bourne,New England Patriots,nfl.p.30551,WR,11,100.00,423.l.129200
+423.p.100028,100028,Washington,Washington Commanders,nfl.p.100028,DEF,14,99.00,423.l.129200
+423.p.32384,32384,Joey Slye,New England Patriots,nfl.p.32384,K,11,98.00,423.l.129200
+423.p.33113,33113,Juwan Johnson,New Orleans Saints,nfl.p.33113,TE,11,97.80,423.l.129200
+423.p.29631,29631,Kalif Raymond,Detroit Lions,nfl.p.29631,WR,9,97.40,423.l.129200
+423.p.33538,33538,Kenneth Gainwell,Philadelphia Eagles,nfl.p.33538,RB,10,97.38,423.l.129200
+423.p.28408,28408,Nelson Agholor,Baltimore Ravens,nfl.p.28408,WR,13,97.10,423.l.129200
+423.p.40223,40223,Trey Palmer,Tampa Bay Buccaneers,nfl.p.40223,WR,5,95.70,423.l.129200
+423.p.34008,34008,Alec Pierce,Indianapolis Colts,nfl.p.34008,WR,11,95.40,423.l.129200
+423.p.40051,40051,Quentin Johnston,Los Angeles Chargers,nfl.p.40051,WR,5,94.00,423.l.129200
+423.p.40533,40533,Tommy DeVito,New York Giants,nfl.p.40533,QB,13,93.54,423.l.129200
+423.p.33100,33100,Rico Dowdle,Dallas Cowboys,nfl.p.33100,RB,7,91.50,423.l.129200
+423.p.30202,30202,D'Onta Foreman,Cleveland Browns,nfl.p.30202,RB,5,91.20,423.l.129200
+423.p.29281,29281,Michael Thomas,New Orleans Saints,nfl.p.29281,WR,11,89.80,423.l.129200
+423.p.26664,26664,Robert Woods,Houston Texans,nfl.p.26664,WR,7,89.30,423.l.129200
+423.p.33781,33781,Riley Patterson,Jacksonville Jaguars,nfl.p.33781,K,9,89.00,423.l.129200
+423.p.31114,31114,Justin Watson,Kansas City Chiefs,nfl.p.31114,WR,10,89.00,423.l.129200
+423.p.31051,31051,Michael Gallup,Las Vegas Raiders,nfl.p.31051,WR,13,87.80,423.l.129200
+423.p.31885,31885,Miles Sanders,Carolina Panthers,nfl.p.31885,RB,7,87.60,423.l.129200
+423.p.29360,29360,Demarcus Robinson,Los Angeles Rams,nfl.p.29360,WR,10,87.40,423.l.129200
+423.p.24967,24967,Tyrod Taylor,New York Jets,nfl.p.24967,QB,7,87.34,423.l.129200
+423.p.30125,30125,Deshaun Watson,Cleveland Browns,nfl.p.30125,QB,5,86.80,423.l.129200
+423.p.33348,33348,Nick Westbrook-Ikhine,Tennessee Titans,nfl.p.33348,WR,7,85.00,423.l.129200
+423.p.40073,40073,Jonathan Mingo,Carolina Panthers,nfl.p.40073,WR,7,84.80,423.l.129200
+423.p.27624,27624,Jerick McKinnon,Kansas City Chiefs,nfl.p.27624,RB,10,84.36,423.l.129200
+423.p.26804,26804,Latavius Murray,Buffalo Bills,nfl.p.26804,RB,13,82.90,423.l.129200
+423.p.34063,34063,Dameon Pierce,Houston Texans,nfl.p.34063,RB,7,82.70,423.l.129200
+423.p.33967,33967,Jameson Williams,Detroit Lions,nfl.p.33967,WR,9,80.30,423.l.129200
+423.p.31257,31257,Tanner Hudson,Cincinnati Bengals,nfl.p.31257,TE,7,80.20,423.l.129200
+423.p.25718,25718,Ryan Tannehill,Tennessee Titans,nfl.p.25718,QB,7,80.04,423.l.129200
+423.p.32456,32456,Donald Parham Jr.,Los Angeles Chargers,nfl.p.32456,TE,5,79.50,423.l.129200
+423.p.32843,32843,Darnell Mooney,Atlanta Falcons,nfl.p.32843,WR,11,78.90,423.l.129200
+423.p.40102,40102,Tucker Kraft,Green Bay Packers,nfl.p.40102,TE,6,78.50,423.l.129200
+423.p.30150,30150,Zay Jones,Arizona Cardinals,nfl.p.30150,WR,14,78.10,423.l.129200
+423.p.40159,40159,Chad Ryland,New England Patriots,nfl.p.40159,K,11,78.00,423.l.129200
+423.p.33443,33443,Pat Freiermuth,Pittsburgh Steelers,nfl.p.33443,TE,6,76.80,423.l.129200
+423.p.33415,33415,Rashod Bateman,Baltimore Ravens,nfl.p.33415,WR,13,76.50,423.l.129200
+423.p.40074,40074,Luke Musgrave,Green Bay Packers,nfl.p.40074,TE,6,75.20,423.l.129200
+423.p.27369,27369,Brett Maher,Los Angeles Rams,nfl.p.27369,K,10,75.00,423.l.129200
+423.p.34078,34078,Zamir White,Las Vegas Raiders,nfl.p.34078,RB,13,73.90,423.l.129200
+423.p.31852,31852,Noah Fant,Seattle Seahawks,nfl.p.31852,TE,5,73.40,423.l.129200
+423.p.34571,34571,Brandon Johnson,Denver Broncos,nfl.p.34571,WR,9,73.40,423.l.129200
+423.p.40430,40430,Emari Demercado,Arizona Cardinals,nfl.p.40430,RB,14,73.30,423.l.129200
+423.p.33515,33515,Kylen Granson,Indianapolis Colts,nfl.p.33515,TE,11,73.00,423.l.129200
+423.p.40040,40040,Anthony Richardson,Indianapolis Colts,nfl.p.40040,QB,11,72.68,423.l.129200
+423.p.28402,28402,DeVante Parker,New England Patriots,nfl.p.28402,WR,11,72.40,423.l.129200
+423.p.40114,40114,Tre Tucker,Las Vegas Raiders,nfl.p.40114,WR,13,71.80,423.l.129200
+423.p.31093,31093,Durham Smythe,Miami Dolphins,nfl.p.31093,TE,10,71.60,423.l.129200
+423.p.40065,40065,Michael Mayer,Las Vegas Raiders,nfl.p.40065,TE,13,71.40,423.l.129200
+423.p.40090,40090,Marvin Mims Jr.,Denver Broncos,nfl.p.40090,WR,9,70.70,423.l.129200
+423.p.33550,33550,Noah Gray,Kansas City Chiefs,nfl.p.33550,TE,10,70.60,423.l.129200
+423.p.32702,32702,Clyde Edwards-Helaire,Kansas City Chiefs,nfl.p.32702,RB,10,70.10,423.l.129200
+423.p.40641,40641,Keaton Mitchell,Baltimore Ravens,nfl.p.40641,RB,13,69.90,423.l.129200
+423.p.31178,31178,Cedrick Wilson Jr.,New Orleans Saints,nfl.p.31178,WR,11,69.60,423.l.129200
+423.p.34093,34093,Bailey Zappe,New England Patriots,nfl.p.34093,QB,11,69.18,423.l.129200
+423.p.29341,29341,Chris Moore,Arizona Cardinals,nfl.p.29341,WR,14,68.30,423.l.129200
+423.p.31998,31998,Easton Stick,Los Angeles Chargers,nfl.p.31998,QB,5,67.56,423.l.129200
+423.p.31641,31641,Brandon Powell,Minnesota Vikings,nfl.p.31641,WR,13,67.10,423.l.129200
+423.p.34720,34720,Lucas Havrisik,Los Angeles Rams,nfl.p.34720,K,10,67.00,423.l.129200
+423.p.30563,30563,Nick Mullens,Minnesota Vikings,nfl.p.30563,QB,13,66.74,423.l.129200
+423.p.28839,28839,Taylor Heinicke,Atlanta Falcons,nfl.p.28839,QB,11,66.00,423.l.129200
+423.p.31012,31012,Mike Gesicki,Cincinnati Bengals,nfl.p.31012,TE,7,65.40,423.l.129200
+423.p.32523,32523,Greg Dortch,Arizona Cardinals,nfl.p.32523,WR,14,64.50,423.l.129200
+423.p.27590,27590,Jimmy Garoppolo,Los Angeles Rams,nfl.p.27590,QB,10,64.10,423.l.129200
+423.p.32438,32438,Trenton Irwin,Cincinnati Bengals,nfl.p.32438,WR,7,62.60,423.l.129200
+423.p.27589,27589,Allen Robinson II,New York Giants,nfl.p.27589,WR,13,62.00,423.l.129200
+423.p.32782,32782,Joshua Kelley,Los Angeles Chargers,nfl.p.32782,RB,5,61.70,423.l.129200
+423.p.32803,32803,Colby Parkinson,Los Angeles Rams,nfl.p.32803,TE,10,61.70,423.l.129200
+423.p.30175,30175,JuJu Smith-Schuster,New England Patriots,nfl.p.30175,WR,11,61.00,423.l.129200
+423.p.30247,30247,Jamaal Williams,New Orleans Saints,nfl.p.30247,RB,11,60.80,423.l.129200
+423.p.40242,40242,A.T. Perry,New Orleans Saints,nfl.p.40242,WR,11,60.60,423.l.129200
+423.p.32775,32775,Adam Trautman,Denver Broncos,nfl.p.32775,TE,9,60.40,423.l.129200
+423.p.33471,33471,Tommy Tremble,Carolina Panthers,nfl.p.33471,TE,7,60.40,423.l.129200
+423.p.40128,40128,Jalin Hyatt,New York Giants,nfl.p.40128,WR,13,60.30,423.l.129200
+423.p.31268,31268,Allen Lazard,New York Jets,nfl.p.31268,WR,7,60.10,423.l.129200
+423.p.32877,32877,Isaiah Hodgins,New York Giants,nfl.p.32877,WR,13,60.00,423.l.129200
+423.p.34709,34709,KaVontae Turpin,Dallas Cowboys,nfl.p.34709,WR,7,59.70,423.l.129200
+423.p.33495,33495,Michael Carter,Arizona Cardinals,nfl.p.33495,RB,14,58.80,423.l.129200
+423.p.34044,34044,Jalen Tolbert,Dallas Cowboys,nfl.p.34044,WR,7,58.80,423.l.129200
+423.p.40548,40548,Xavier Gipson,New York Jets,nfl.p.40548,WR,7,58.70,423.l.129200
+423.p.31180,31180,Braxton Berrios,Miami Dolphins,nfl.p.31180,WR,10,57.90,423.l.129200
+423.p.31838,31838,Daniel Jones,New York Giants,nfl.p.31838,QB,13,56.96,423.l.129200
+423.p.40452,40452,Jake Bobo,Seattle Seahawks,nfl.p.40452,WR,5,56.90,423.l.129200
+423.p.31144,31144,Marquez Valdes-Scantling,Buffalo Bills,nfl.p.31144,WR,13,56.50,423.l.129200
+423.p.31928,31928,Dawson Knox,Buffalo Bills,nfl.p.31928,TE,13,54.60,423.l.129200
+423.p.34009,34009,Skyy Moore,Kansas City Chiefs,nfl.p.34009,WR,10,53.70,423.l.129200
+423.p.40196,40196,Chase Brown,Cincinnati Bengals,nfl.p.40196,RB,7,53.50,423.l.129200
+423.p.31901,31901,Josh Oliver,Minnesota Vikings,nfl.p.31901,TE,13,53.30,423.l.129200
+423.p.40504,40504,Tyson Bagent,Chicago Bears,nfl.p.40504,QB,13,53.26,423.l.129200
+423.p.33408,33408,Kadarius Toney,Kansas City Chiefs,nfl.p.33408,WR,10,53.00,423.l.129200
+423.p.34094,34094,Calvin Austin III,Pittsburgh Steelers,nfl.p.34094,WR,6,52.70,423.l.129200
+423.p.26658,26658,Zach Ertz,Washington Commanders,nfl.p.26658,TE,14,51.70,423.l.129200
+423.p.32887,32887,Jauan Jennings,San Francisco 49ers,nfl.p.32887,WR,9,51.50,423.l.129200
+423.p.33535,33535,Brevin Jordan,Houston Texans,nfl.p.33535,TE,7,50.90,423.l.129200
+423.p.40211,40211,Andrei Iosivas,Cincinnati Bengals,nfl.p.40211,WR,7,50.60,423.l.129200
+423.p.34068,34068,Daniel Bellinger,New York Giants,nfl.p.34068,TE,13,50.50,423.l.129200
+423.p.31884,31884,Drew Sample,Cincinnati Bengals,nfl.p.31884,TE,7,50.30,423.l.129200
+423.p.30120,30120,Mike Williams,New York Jets,nfl.p.30120,WR,7,50.20,423.l.129200
+423.p.30112,30112,Mo Alie-Cox,Indianapolis Colts,nfl.p.30112,TE,11,49.10,423.l.129200
+423.p.34055,34055,David Bell,Cleveland Browns,nfl.p.34055,WR,5,48.70,423.l.129200
+423.p.30115,30115,Mitchell Trubisky,Buffalo Bills,nfl.p.30115,QB,13,48.68,423.l.129200
+423.p.31981,31981,Hunter Renfrow,Las Vegas Raiders,nfl.p.31981,WR,13,48.50,423.l.129200
+423.p.29315,29315,Austin Hooper,New England Patriots,nfl.p.29315,TE,11,48.40,423.l.129200
+423.p.9526,9526,Graham Gano,New York Giants,nfl.p.9526,K,13,48.00,423.l.129200
+423.p.33582,33582,Elijah Mitchell,San Francisco 49ers,nfl.p.33582,RB,9,47.50,423.l.129200
+423.p.32494,32494,Lil'Jordan Humphrey,Denver Broncos,nfl.p.32494,WR,9,47.20,423.l.129200
+423.p.30552,30552,Matt Breida,New York Giants,nfl.p.30552,RB,13,46.90,423.l.129200
+423.p.32722,32722,Cam Akers,Minnesota Vikings,nfl.p.32722,RB,13,46.70,423.l.129200
+423.p.31969,31969,Foster Moreau,New Orleans Saints,nfl.p.31969,TE,11,46.30,423.l.129200
+423.p.31041,31041,Royce Freeman,Dallas Cowboys,nfl.p.31041,RB,7,46.20,423.l.129200
+423.p.34185,34185,Bo Melton,Green Bay Packers,nfl.p.34185,WR,6,45.90,423.l.129200
+423.p.29703,29703,Alex Erickson,Los Angeles Chargers,nfl.p.29703,WR,5,45.20,423.l.129200
+423.p.34320,34320,Jordan Mason,San Francisco 49ers,nfl.p.34320,RB,9,44.70,423.l.129200
+423.p.40093,40093,Cedric Tillman,Cleveland Browns,nfl.p.40093,WR,5,44.20,423.l.129200
+423.p.31902,31902,Darrell Henderson Jr.,Los Angeles Rams,nfl.p.31902,RB,10,43.50,423.l.129200
+423.p.40108,40108,Kendre Miller,New Orleans Saints,nfl.p.40108,RB,11,43.30,423.l.129200
+423.p.30231,30231,Mack Hollins,Buffalo Bills,nfl.p.30231,WR,13,43.10,423.l.129200
+423.p.33265,33265,Salvon Ahmed,Miami Dolphins,nfl.p.33265,RB,10,42.90,423.l.129200
+423.p.34083,34083,Pierre Strong Jr.,Cleveland Browns,nfl.p.34083,RB,5,42.80,423.l.129200
+423.p.30995,30995,Hayden Hurst,Los Angeles Chargers,nfl.p.30995,TE,5,42.40,423.l.129200
+423.p.31394,31394,Jeff Wilson Jr.,Miami Dolphins,nfl.p.31394,RB,10,41.30,423.l.129200
+423.p.32727,32727,Van Jefferson,Pittsburgh Steelers,nfl.p.32727,WR,6,41.30,423.l.129200
+423.p.28442,28442,Ameer Abdullah,Las Vegas Raiders,nfl.p.28442,RB,13,41.00,423.l.129200
+423.p.30278,30278,Jamal Agnew,Jacksonville Jaguars,nfl.p.30278,WR,9,40.30,423.l.129200
+423.p.31090,31090,Will Dissly,Los Angeles Chargers,nfl.p.31090,TE,5,40.20,423.l.129200
+423.p.30373,30373,Johnny Mundt,Minnesota Vikings,nfl.p.30373,TE,13,40.20,423.l.129200
+423.p.30154,30154,Dalvin Cook,New York Jets,nfl.p.30154,RB,7,40.20,423.l.129200
+423.p.32398,32398,Deonte Harty,Baltimore Ravens,nfl.p.32398,WR,13,40.00,423.l.129200
+423.p.33973,33973,Treylon Burks,Tennessee Titans,nfl.p.33973,WR,7,39.90,423.l.129200
+423.p.34163,34163,Connor Heyward,Pittsburgh Steelers,nfl.p.34163,TE,6,39.70,423.l.129200
+423.p.31104,31104,Chase Edmonds,Tampa Bay Buccaneers,nfl.p.31104,RB,5,39.70,423.l.129200
+423.p.31046,31046,Mason Rudolph,Tennessee Titans,nfl.p.31046,QB,7,39.56,423.l.129200
+423.p.40234,40234,Parker Washington,Jacksonville Jaguars,nfl.p.40234,WR,9,39.20,423.l.129200
+423.p.32040,32040,Scotty Miller,Pittsburgh Steelers,nfl.p.32040,WR,6,39.10,423.l.129200
+423.p.32225,32225,Andrew Beck,Houston Texans,nfl.p.32225,"RB,TE",7,38.80,423.l.129200
+423.p.40180,40180,Will Mallory,Indianapolis Colts,nfl.p.40180,TE,11,38.70,423.l.129200
+423.p.26753,26753,Kyle Juszczyk,San Francisco 49ers,nfl.p.26753,RB,9,38.50,423.l.129200
+423.p.32123,32123,Olamide Zaccheaus,Washington Commanders,nfl.p.32123,WR,14,38.40,423.l.129200
+423.p.40231,40231,Chris Rodriguez Jr.,Washington Commanders,nfl.p.40231,RB,14,37.90,423.l.129200
+423.p.32785,32785,Harrison Bryant,Las Vegas Raiders,nfl.p.32785,TE,13,37.90,423.l.129200
+423.p.30627,30627,Pharaoh Brown,Seattle Seahawks,nfl.p.30627,TE,5,37.80,423.l.129200
+423.p.31769,31769,KhaDarel Hodge,Atlanta Falcons,nfl.p.31769,WR,11,37.20,423.l.129200
+423.p.26652,26652,Cordarrelle Patterson,Pittsburgh Steelers,nfl.p.26652,RB,6,36.90,423.l.129200
+423.p.24793,24793,Julio Jones,Philadelphia Eagles,nfl.p.24793,WR,10,36.40,423.l.129200
+423.p.40226,40226,Elijah Higgins,Arizona Cardinals,nfl.p.40226,TE,14,36.30,423.l.129200
+423.p.40141,40141,Tyler Scott,Chicago Bears,nfl.p.40141,WR,13,35.90,423.l.129200
+423.p.28493,28493,Jamison Crowder,Washington Commanders,nfl.p.28493,WR,14,35.90,423.l.129200
+423.p.40133,40133,Derius Davis,Los Angeles Chargers,nfl.p.40133,WR,5,35.70,423.l.129200
+423.p.34148,34148,Drew Ogletree,Indianapolis Colts,nfl.p.34148,TE,11,35.70,423.l.129200
+423.p.32870,32870,Quez Watkins,Pittsburgh Steelers,nfl.p.32870,WR,6,35.20,423.l.129200
+423.p.33470,33470,Dyami Brown,Washington Commanders,nfl.p.33470,WR,14,34.96,423.l.129200
+423.p.34520,34520,Deven Thompkins,Tampa Bay Buccaneers,nfl.p.34520,WR,5,34.90,423.l.129200
+423.p.32608,32608,D'Ernest Johnson,Jacksonville Jaguars,nfl.p.32608,RB,9,34.80,423.l.129200
+423.p.33512,33512,John Bates,Washington Commanders,nfl.p.33512,TE,14,34.10,423.l.129200
+423.p.24070,24070,Jimmy Graham,New Orleans Saints,nfl.p.24070,TE,11,33.90,423.l.129200
+423.p.40445,40445,Malik Heath,Green Bay Packers,nfl.p.40445,WR,6,33.50,423.l.129200
+423.p.31882,31882,Irv Smith,Kansas City Chiefs,nfl.p.31882,TE,10,33.50,423.l.129200
+423.p.33447,33447,Terrace Marshall Jr.,Carolina Panthers,nfl.p.33447,WR,7,32.90,423.l.129200
+423.p.34637,34637,Stone Smartt,Los Angeles Chargers,nfl.p.34637,TE,5,32.50,423.l.129200
+423.p.33545,33545,Ihmir Smith-Marsette,Carolina Panthers,nfl.p.33545,WR,7,32.50,423.l.129200
+423.p.32018,32018,Ty Johnson,Buffalo Bills,nfl.p.32018,RB,13,32.40,423.l.129200
+423.p.33999,33999,John Metchie III,Houston Texans,nfl.p.33999,WR,7,32.20,423.l.129200
+423.p.33114,33114,Tony Jones,Arizona Cardinals,nfl.p.33114,RB,14,32.20,423.l.129200
+423.p.34119,34119,Kyle Philips,Tennessee Titans,nfl.p.34119,WR,7,31.10,423.l.129200
+423.p.34057,34057,Jeremy Ruckert,New York Jets,nfl.p.34057,TE,7,31.10,423.l.129200
+423.p.40279,40279,Ronnie Bell,San Francisco 49ers,nfl.p.40279,WR,9,30.80,423.l.129200
+423.p.31891,31891,Parris Campbell,Philadelphia Eagles,nfl.p.31891,WR,10,30.40,423.l.129200
+423.p.33235,33235,Patrick Taylor Jr.,San Francisco 49ers,nfl.p.33235,RB,9,30.00,423.l.129200
+423.p.32763,32763,Darrynton Evans,Buffalo Bills,nfl.p.32763,RB,13,30.00,423.l.129200
+423.p.32596,32596,Craig Reynolds,Detroit Lions,nfl.p.32596,RB,9,29.60,423.l.129200
+423.p.31874,31874,Drew Lock,New York Giants,nfl.p.31874,QB,13,29.12,423.l.129200
+423.p.25871,25871,Randy Bullock,New York Giants,nfl.p.25871,K,13,29.00,423.l.129200
+423.p.32691,32691,Jalen Reagor,New England Patriots,nfl.p.32691,WR,11,28.50,423.l.129200
+423.p.33533,33533,Luke Farrell,Jacksonville Jaguars,nfl.p.33533,TE,9,28.50,423.l.129200
+423.p.31157,31157,Ray-Ray McCloud,Atlanta Falcons,nfl.p.31157,WR,11,28.50,423.l.129200
+423.p.32857,32857,Donovan Peoples-Jones,Detroit Lions,nfl.p.32857,WR,9,28.50,423.l.129200
+423.p.31068,31068,Jordan Akins,Cleveland Browns,nfl.p.31068,TE,5,28.20,423.l.129200
+423.p.33774,33774,Brock Wright,Detroit Lions,nfl.p.33774,TE,9,28.10,423.l.129200
+423.p.31496,31496,Byron Pringle,Washington Commanders,nfl.p.31496,WR,14,28.10,423.l.129200
+423.p.33381,33381,Matt Ammendola,Houston Texans,nfl.p.33381,K,7,28.00,423.l.129200
+423.p.34005,34005,Tyquan Thornton,New England Patriots,nfl.p.34005,WR,11,27.20,423.l.129200
+423.p.30955,30955,River Cracraft,Miami Dolphins,nfl.p.30955,WR,10,27.10,423.l.129200
+423.p.28638,28638,Trevor Siemian,New York Jets,nfl.p.28638,QB,7,26.96,423.l.129200
+423.p.31965,31965,Jarrett Stidham,Denver Broncos,nfl.p.31965,QB,9,26.64,423.l.129200
+423.p.40061,40061,Luke Schoonmaker,Dallas Cowboys,nfl.p.40061,TE,7,26.50,423.l.129200
+423.p.29236,29236,Carson Wentz,Kansas City Chiefs,nfl.p.29236,QB,10,26.12,423.l.129200
+423.p.28531,28531,MyCole Pruitt,Pittsburgh Steelers,nfl.p.28531,TE,6,26.00,423.l.129200
+423.p.31888,31888,Mecole Hardman,Kansas City Chiefs,nfl.p.31888,WR,10,25.70,423.l.129200
+423.p.32993,32993,Tyler Huntley,Cleveland Browns,nfl.p.32993,QB,5,25.62,423.l.129200
+423.p.31320,31320,Trent Sherfield Sr.,Minnesota Vikings,nfl.p.31320,WR,13,25.60,423.l.129200
+423.p.40164,40164,Davis Allen,Los Angeles Rams,nfl.p.40164,TE,10,25.50,423.l.129200
+423.p.32201,32201,Jalen Guyton,Las Vegas Raiders,nfl.p.32201,WR,13,24.90,423.l.129200
+423.p.32344,32344,Alec Ingold,Miami Dolphins,nfl.p.32344,RB,10,24.90,423.l.129200
+423.p.32921,32921,Stephen Sullivan,Carolina Panthers,nfl.p.32921,TE,7,24.50,423.l.129200
+423.p.40182,40182,Josh Whyle,Tennessee Titans,nfl.p.40182,TE,7,24.40,423.l.129200
+423.p.31366,31366,Michael Badgley,Detroit Lions,nfl.p.31366,K,9,24.00,423.l.129200
+423.p.24822,24822,Andy Dalton,Carolina Panthers,nfl.p.24822,QB,7,23.64,423.l.129200
+423.p.34654,34654,Lucas Krull,Denver Broncos,nfl.p.34654,TE,9,23.50,423.l.129200
+423.p.30973,30973,Sam Darnold,Minnesota Vikings,nfl.p.30973,QB,13,23.38,423.l.129200
+423.p.31005,31005,Nick Chubb,Cleveland Browns,nfl.p.31005,RB,5,23.10,423.l.129200
+423.p.34105,34105,Cole Turner,Washington Commanders,nfl.p.34105,TE,14,23.00,423.l.129200
+423.p.29325,29325,Jacoby Brissett,New England Patriots,nfl.p.29325,QB,11,22.86,423.l.129200
+423.p.40095,40095,Tank Bigsby,Jacksonville Jaguars,nfl.p.40095,RB,9,22.80,423.l.129200
+423.p.29785,29785,Robbie Chosen,Miami Dolphins,nfl.p.29785,WR,10,22.60,423.l.129200
+423.p.32750,32750,Lynn Bowden Jr.,New Orleans Saints,nfl.p.32750,WR,11,22.50,423.l.129200
+423.p.30777,30777,Robert Tonyan,Minnesota Vikings,nfl.p.30777,TE,13,22.20,423.l.129200
+423.p.40195,40195,Dorian Thompson-Robinson,Cleveland Browns,nfl.p.40195,QB,5,22.10,423.l.129200
+423.p.8447,8447,Mason Crosby,New York Giants,nfl.p.8447,K,13,22.00,423.l.129200
+423.p.40232,40232,Xavier Hutchinson,Houston Texans,nfl.p.40232,WR,7,21.90,423.l.129200
+423.p.34084,34084,Charlie Kolar,Baltimore Ravens,nfl.p.34084,TE,13,21.70,423.l.129200
+423.p.32719,32719,Chase Claypool,Buffalo Bills,nfl.p.32719,WR,13,21.70,423.l.129200
+423.p.33637,33637,Ben Skowronek,Houston Texans,nfl.p.33637,WR,7,21.50,423.l.129200
+423.p.32712,32712,Laviska Shenault Jr.,Seattle Seahawks,nfl.p.32712,WR,5,21.50,423.l.129200
+423.p.30217,30217,C.J. Beathard,Jacksonville Jaguars,nfl.p.30217,QB,9,21.46,423.l.129200
+423.p.34139,34139,Kevin Harris,New England Patriots,nfl.p.34139,RB,11,21.30,423.l.129200
+423.p.40158,40158,Charlie Jones,Cincinnati Bengals,nfl.p.40158,WR,7,20.70,423.l.129200
+423.p.30339,30339,David Moore,Carolina Panthers,nfl.p.30339,WR,7,20.40,423.l.129200
+423.p.33476,33476,Trey Sermon,Indianapolis Colts,nfl.p.33476,RB,11,20.30,423.l.129200
+423.p.29274,29274,Sterling Shepard,Tampa Bay Buccaneers,nfl.p.29274,WR,5,20.30,423.l.129200
+423.p.34310,34310,Ronnie Rivers,Los Angeles Rams,nfl.p.34310,RB,10,20.10,423.l.129200
+423.p.30538,30538,P.J. Walker,Seattle Seahawks,nfl.p.30538,QB,5,19.96,423.l.129200
+423.p.28545,28545,C.J. Uzomah,Philadelphia Eagles,nfl.p.28545,TE,10,19.80,423.l.129200
+423.p.28403,28403,Melvin Gordon III,Baltimore Ravens,nfl.p.28403,RB,13,19.70,423.l.129200
+423.p.28634,28634,Geoff Swaim,Arizona Cardinals,nfl.p.28634,TE,14,19.40,423.l.129200
+423.p.31210,31210,Richie James,Kansas City Chiefs,nfl.p.31210,WR,10,19.40,423.l.129200
+423.p.33649,33649,Tim Jones,Jacksonville Jaguars,nfl.p.33649,WR,9,19.30,423.l.129200
+423.p.34079,34079,Isaiah Spiller,Los Angeles Chargers,nfl.p.34079,RB,5,19.00,423.l.129200
+423.p.31919,31919,Damien Harris,Buffalo Bills,nfl.p.31919,RB,13,19.00,423.l.129200
+423.p.34261,34261,Tyler Goodson,Indianapolis Colts,nfl.p.34261,RB,11,18.10,423.l.129200
+423.p.33455,33455,Davis Mills,Houston Texans,nfl.p.33455,QB,7,17.82,423.l.129200
+423.p.34617,34617,Raheem Blackshear,Carolina Panthers,nfl.p.34617,RB,7,17.10,423.l.129200
+423.p.24851,24851,Randall Cobb,New York Jets,nfl.p.24851,WR,7,16.90,423.l.129200
+423.p.30285,30285,Isaiah McKenzie,New York Giants,nfl.p.30285,WR,13,16.60,423.l.129200
+423.p.40545,40545,Jason Brownlee,New York Jets,nfl.p.40545,WR,7,16.60,423.l.129200
+423.p.40165,40165,Israel Abanikanda,New York Jets,nfl.p.40165,RB,7,16.30,423.l.129200
+423.p.30592,30592,Patrick Ricard,Baltimore Ravens,nfl.p.30592,RB,13,16.20,423.l.129200
+423.p.34214,34214,Samori Toure,Green Bay Packers,nfl.p.34214,WR,6,15.80,423.l.129200
+423.p.31171,31171,Boston Scott,Los Angeles Rams,nfl.p.31171,RB,10,15.80,423.l.129200
+423.p.40240,40240,Deuce Vaughn,Dallas Cowboys,nfl.p.40240,RB,7,15.00,423.l.129200
+423.p.32014,32014,Trayveon Williams,Cincinnati Bengals,nfl.p.32014,RB,7,14.90,423.l.129200
+423.p.40707,40707,Emanuel Wilson,Green Bay Packers,nfl.p.40707,RB,6,14.80,423.l.129200
+423.p.31517,31517,Keith Kirkwood,Baltimore Ravens,nfl.p.31517,WR,13,14.70,423.l.129200
+423.p.32283,32283,D.J. Montgomery,Indianapolis Colts,nfl.p.32283,WR,11,14.60,423.l.129200
+423.p.33171,33171,Mitchell Wilcox,New England Patriots,nfl.p.33171,TE,11,14.60,423.l.129200
+423.p.40078,40078,Brenton Strange,Jacksonville Jaguars,nfl.p.40078,TE,9,14.50,423.l.129200
+423.p.32764,32764,Josiah Deguara,Jacksonville Jaguars,nfl.p.32764,TE,9,14.50,423.l.129200
+423.p.26701,26701,Marquise Goodwin,Cleveland Browns,nfl.p.26701,WR,5,14.00,423.l.129200
+423.p.34157,34157,Keaontay Ingram,Kansas City Chiefs,nfl.p.34157,RB,10,14.00,423.l.129200
+423.p.32790,32790,La'Mical Perine,Pittsburgh Steelers,nfl.p.32790,RB,6,14.00,423.l.129200
+423.p.29441,29441,Jeff Driskel,Washington Commanders,nfl.p.29441,QB,14,13.94,423.l.129200
+423.p.33329,33329,Lawrence Cager,New York Giants,nfl.p.33329,TE,13,13.60,423.l.129200
+423.p.31228,31228,Mike Boone,Carolina Panthers,nfl.p.31228,RB,7,13.30,423.l.129200
+423.p.40094,40094,Darnell Washington,Pittsburgh Steelers,nfl.p.40094,TE,6,13.10,423.l.129200
+423.p.40198,40198,Eric Gray,New York Giants,nfl.p.40198,RB,13,13.00,423.l.129200
+423.p.7777,7777,Marcedes Lewis,Chicago Bears,nfl.p.7777,TE,13,12.90,423.l.129200
+423.p.32806,32806,Brycen Hopkins,Los Angeles Rams,nfl.p.32806,TE,10,12.80,423.l.129200
+423.p.40780,40780,Hunter Luepke,Dallas Cowboys,nfl.p.40780,RB,7,12.70,423.l.129200
+423.p.40257,40257,Jalen Brooks,Dallas Cowboys,nfl.p.40257,WR,7,12.40,423.l.129200
+423.p.40335,40335,Ben Sims,Green Bay Packers,nfl.p.40335,TE,6,12.10,423.l.129200
+423.p.28389,28389,Jameis Winston,Cleveland Browns,nfl.p.28389,QB,5,11.96,423.l.129200
+423.p.28390,28390,Marcus Mariota,Washington Commanders,nfl.p.28390,QB,14,11.76,423.l.129200
+423.p.32725,32725,J.K. Dobbins,Los Angeles Chargers,nfl.p.32725,RB,5,11.70,423.l.129200
+423.p.33584,33584,Gary Brightwell,New York Giants,nfl.p.33584,RB,13,11.60,423.l.129200
+423.p.28505,28505,Blake Bell,Kansas City Chiefs,nfl.p.28505,TE,10,11.60,423.l.129200
+423.p.31207,31207,Nick Bawden,New York Jets,nfl.p.31207,RB,7,11.50,423.l.129200
+423.p.34440,34440,Justyn Ross,Kansas City Chiefs,nfl.p.34440,WR,10,11.30,423.l.129200
+423.p.31177,31177,Equanimeous St. Brown,New Orleans Saints,nfl.p.31177,WR,11,11.20,423.l.129200
+423.p.34027,34027,Velus Jones Jr.,Chicago Bears,nfl.p.34027,WR,13,11.10,423.l.129200
+423.p.26389,26389,Brandon Bolden,Las Vegas Raiders,nfl.p.26389,RB,13,11.10,423.l.129200
+423.p.31431,31431,Tim Boyle,Houston Texans,nfl.p.31431,QB,7,10.90,423.l.129200
+423.p.40193,40193,Payne Durham,Tampa Bay Buccaneers,nfl.p.40193,TE,5,10.80,423.l.129200
+423.p.40625,40625,Chris Brooks,Miami Dolphins,nfl.p.40625,RB,10,10.60,423.l.129200
+423.p.33819,33819,Quintin Morris,Buffalo Bills,nfl.p.33819,TE,13,10.60,423.l.129200
+423.p.31071,31071,Ian Thomas,Carolina Panthers,nfl.p.31071,TE,7,10.60,423.l.129200
+423.p.30860,30860,Dare Ogunbowale,Houston Texans,nfl.p.30860,RB,7,10.30,423.l.129200
+423.p.29951,29951,C.J. Ham,Minnesota Vikings,nfl.p.29951,RB,13,10.20,423.l.129200
+423.p.40671,40671,Rakim Jarrett,Tampa Bay Buccaneers,nfl.p.40671,WR,5,10.00,423.l.129200
+423.p.28464,28464,Chris Conley,San Francisco 49ers,nfl.p.28464,WR,9,9.90,423.l.129200
+423.p.28482,28482,Ty Montgomery II,New England Patriots,nfl.p.28482,"WR,RB",11,9.90,423.l.129200
+423.p.26483,26483,Case Keenum,Houston Texans,nfl.p.26483,QB,7,9.74,423.l.129200
+423.p.28947,28947,DeAndre Carter,Chicago Bears,nfl.p.28947,WR,13,9.70,423.l.129200
+423.p.32342,32342,Keelan Doss,Los Angeles Chargers,nfl.p.32342,WR,5,9.30,423.l.129200
+423.p.32831,32831,Tyler Johnson,Los Angeles Rams,nfl.p.32831,WR,10,8.80,423.l.129200
+423.p.40629,40629,Julian Hill,Miami Dolphins,nfl.p.40629,TE,10,8.80,423.l.129200
+423.p.33891,33891,Jack Stoll,New York Giants,nfl.p.33891,TE,13,8.80,423.l.129200
+423.p.34378,34378,Britain Covey,Philadelphia Eagles,nfl.p.34378,WR,10,8.20,423.l.129200
+423.p.32814,32814,DeeJay Dallas,Arizona Cardinals,nfl.p.32814,RB,14,8.20,423.l.129200
+423.p.33519,33519,Tylan Wallace,Baltimore Ravens,nfl.p.33519,WR,13,8.10,423.l.129200
+423.p.34154,34154,Grant Calcaterra,Philadelphia Eagles,nfl.p.34154,TE,10,7.90,423.l.129200
+423.p.33567,33567,Simi Fehoko,Los Angeles Chargers,nfl.p.33567,WR,5,7.90,423.l.129200
+423.p.34607,34607,Peyton Hendershot,Dallas Cowboys,nfl.p.34607,TE,7,7.80,423.l.129200
+423.p.28115,28115,Damien Williams,Arizona Cardinals,nfl.p.28115,RB,14,7.50,423.l.129200
+423.p.40188,40188,Clayton Tune,Arizona Cardinals,nfl.p.40188,QB,14,7.48,423.l.129200
+423.p.32762,32762,Devin Duvernay,Jacksonville Jaguars,nfl.p.32762,WR,9,7.30,423.l.129200
+423.p.34174,34174,Ko Kieft,Tampa Bay Buccaneers,nfl.p.34174,TE,5,7.20,423.l.129200
+423.p.40374,40374,Elijah Cooks,Jacksonville Jaguars,nfl.p.40374,WR,9,6.80,423.l.129200
+423.p.28556,28556,Michael Burton,Denver Broncos,nfl.p.28556,RB,9,6.70,423.l.129200
+423.p.25876,25876,Marvin Jones Jr.,Detroit Lions,nfl.p.25876,WR,9,6.50,423.l.129200
+423.p.32746,32746,Ke'Shawn Vaughn,Tampa Bay Buccaneers,nfl.p.32746,RB,5,6.40,423.l.129200
+423.p.28141,28141,Keith Smith,Atlanta Falcons,nfl.p.28141,RB,11,6.30,423.l.129200
+423.p.40702,40702,Nate Adkins,Denver Broncos,nfl.p.40702,TE,9,6.20,423.l.129200
+423.p.32860,32860,Charlie Woerner,Atlanta Falcons,nfl.p.32860,TE,11,6.20,423.l.129200
+423.p.34147,34147,Jalen Nailor,Minnesota Vikings,nfl.p.34147,WR,13,5.90,423.l.129200
+423.p.30502,30502,Zach Pascal,Arizona Cardinals,nfl.p.30502,WR,14,5.90,423.l.129200
+423.p.24797,24797,Blaine Gabbert,Kansas City Chiefs,nfl.p.24797,QB,10,5.90,423.l.129200
+423.p.32140,32140,Khari Blasingame,Chicago Bears,nfl.p.32140,RB,13,5.80,423.l.129200
+423.p.32187,32187,Steven Sims,Houston Texans,nfl.p.32187,WR,7,5.60,423.l.129200
+423.p.34036,34036,Greg Dulcich,Denver Broncos,nfl.p.34036,TE,9,5.50,423.l.129200
+423.p.33620,33620,Mike Strachan,Carolina Panthers,nfl.p.33620,WR,7,5.50,423.l.129200
+423.p.34126,34126,Teagan Quitoriano,Houston Texans,nfl.p.34126,TE,7,5.30,423.l.129200
+423.p.40742,40742,Sean Tucker,Tampa Bay Buccaneers,nfl.p.40742,RB,5,5.20,423.l.129200
+423.p.9547,9547,Brian Hoyer,Las Vegas Raiders,nfl.p.9547,QB,13,4.94,423.l.129200
+423.p.33253,33253,Trishton Jackson,Minnesota Vikings,nfl.p.33253,WR,13,4.90,423.l.129200
+423.p.33745,33745,Austin Trammell,Jacksonville Jaguars,nfl.p.33745,WR,9,4.90,423.l.129200
+423.p.30997,30997,Rashaad Penny,Carolina Panthers,nfl.p.30997,RB,7,4.80,423.l.129200
+423.p.33705,33705,Kenny Yeboah,New York Jets,nfl.p.33705,TE,7,4.80,423.l.129200
+423.p.34133,34133,James Mitchell,Detroit Lions,nfl.p.34133,TE,9,4.80,423.l.129200
+423.p.32221,32221,Brett Rypien,Chicago Bears,nfl.p.32221,QB,13,4.78,423.l.129200
+423.p.31925,31925,Miles Boykin,New York Giants,nfl.p.31925,WR,13,4.70,423.l.129200
+423.p.30305,30305,Alex Armah,Washington Commanders,nfl.p.30305,RB,14,4.30,423.l.129200
+423.p.34665,34665,Jashaun Corbin,New York Giants,nfl.p.34665,RB,13,4.30,423.l.129200
+423.p.30287,30287,Eric Saubert,San Francisco 49ers,nfl.p.30287,TE,9,4.20,423.l.129200
+423.p.30117,30117,Leonard Fournette,Buffalo Bills,nfl.p.30117,RB,13,4.00,423.l.129200
+423.p.32002,32002,Austin Seibert,New York Jets,nfl.p.32002,K,7,4.00,423.l.129200
+423.p.33798,33798,Deon Jackson,Indianapolis Colts,nfl.p.33798,RB,11,4.00,423.l.129200
+423.p.40358,40358,Elijah Dotson,Los Angeles Chargers,nfl.p.40358,RB,5,3.90,423.l.129200
+423.p.40224,40224,Kayshon Boutte,New England Patriots,nfl.p.40224,WR,11,3.90,423.l.129200
+423.p.28365,28365,Chris Manhertz,New York Giants,nfl.p.28365,TE,13,3.60,423.l.129200
+423.p.28026,28026,Willie Snead IV,San Francisco 49ers,nfl.p.28026,WR,9,3.40,423.l.129200
+423.p.32488,32488,Malik Taylor,New York Jets,nfl.p.32488,WR,7,3.30,423.l.129200
+423.p.30788,30788,Cooper Rush,Dallas Cowboys,nfl.p.30788,QB,7,3.26,423.l.129200
+423.p.33621,33621,Jake Funk,Detroit Lions,nfl.p.33621,RB,9,3.20,423.l.129200
+423.p.34183,34183,Nick Muse,Minnesota Vikings,nfl.p.34183,TE,13,3.20,423.l.129200
+423.p.31953,31953,Trevon Wesco,Tennessee Titans,nfl.p.31953,TE,7,3.10,423.l.129200
+423.p.32794,32794,Anthony McFarland Jr.,Pittsburgh Steelers,nfl.p.32794,RB,6,3.10,423.l.129200
+423.p.34357,34357,Zonovan Knight,Detroit Lions,nfl.p.34357,RB,9,3.10,423.l.129200
+423.p.29307,29307,Kenyan Drake,Baltimore Ravens,nfl.p.29307,RB,13,3.10,423.l.129200
+423.p.34042,34042,Malik Willis,Tennessee Titans,nfl.p.34042,QB,7,3.06,423.l.129200
+423.p.32612,32612,Gunner Olszewski,New York Giants,nfl.p.32612,WR,13,3.00,423.l.129200
+423.p.29257,29257,Laquon Treadwell,Baltimore Ravens,nfl.p.29257,WR,13,2.60,423.l.129200
+423.p.32630,32630,Derrick Gore,Washington Commanders,nfl.p.32630,RB,14,2.60,423.l.129200
+423.p.33901,33901,Adam Prentice,New Orleans Saints,nfl.p.33901,RB,11,2.40,423.l.129200
+423.p.32390,32390,Devine Ozigbo,Detroit Lions,nfl.p.32390,RB,9,2.30,423.l.129200
+423.p.31826,31826,Jacob Johnson,Las Vegas Raiders,nfl.p.31826,RB,13,2.20,423.l.129200
+423.p.31329,31329,Ross Dwelley,Atlanta Falcons,nfl.p.31329,TE,11,2.20,423.l.129200
+423.p.34169,34169,John FitzPatrick,Atlanta Falcons,nfl.p.34169,TE,11,2.20,423.l.129200
+423.p.34081,34081,Erik Ezukanma,Miami Dolphins,nfl.p.34081,WR,10,2.20,423.l.129200
+423.p.40185,40185,Jaren Hall,Minnesota Vikings,nfl.p.40185,QB,13,2.12,423.l.129200
+423.p.33590,33590,Chris Evans,Cincinnati Bengals,nfl.p.33590,RB,7,2.10,423.l.129200
+423.p.34049,34049,Tyrion Davis-Price,Philadelphia Eagles,nfl.p.34049,RB,10,2.10,423.l.129200
+423.p.32835,32835,Collin Johnson,Chicago Bears,nfl.p.32835,WR,13,2.10,423.l.129200
+423.p.31141,31141,Mike White,Miami Dolphins,nfl.p.31141,QB,10,2.06,423.l.129200
+423.p.32367,32367,Cody Thompson,Tampa Bay Buccaneers,nfl.p.32367,WR,5,2.00,423.l.129200
+423.p.40243,40243,Zach Evans,Los Angeles Rams,nfl.p.40243,RB,10,1.90,423.l.129200
+423.p.34625,34625,Tucker Fisk,Atlanta Falcons,nfl.p.34625,TE,11,1.90,423.l.129200
+423.p.40169,40169,Evan Hull,Indianapolis Colts,nfl.p.40169,RB,11,1.70,423.l.129200
+423.p.31441,31441,Kevin Rader,Tennessee Titans,nfl.p.31441,TE,7,1.60,423.l.129200
+423.p.33351,33351,Mason Kinsey,Tennessee Titans,nfl.p.33351,WR,7,1.60,423.l.129200
+423.p.34543,34543,Cole Fotheringham,Las Vegas Raiders,nfl.p.34543,TE,13,1.60,423.l.129200
+423.p.32576,32576,Jesper Horsted,New Orleans Saints,nfl.p.32576,TE,11,1.40,423.l.129200
+423.p.33357,33357,Reggie Gilliam,Buffalo Bills,nfl.p.33357,RB,13,1.30,423.l.129200
+423.p.33507,33507,Kene Nwangwu,Minnesota Vikings,nfl.p.33507,RB,13,1.30,423.l.129200
+423.p.40263,40263,Colton Dowell,Tennessee Titans,nfl.p.40263,WR,7,1.30,423.l.129200
+423.p.29328,29328,Nick Vannett,Tennessee Titans,nfl.p.29328,TE,7,1.30,423.l.129200
+423.p.40173,40173,Sean Clifford,Green Bay Packers,nfl.p.40173,QB,6,1.28,423.l.129200
+423.p.34473,34473,Kwamie Lassiter II,Cincinnati Bengals,nfl.p.34473,WR,7,1.20,423.l.129200
+423.p.40281,40281,Antoine Green,Detroit Lions,nfl.p.40281,WR,9,1.20,423.l.129200
+423.p.33151,33151,Giovanni Ricci,Cleveland Browns,nfl.p.33151,TE,5,1.20,423.l.129200
+423.p.33088,33088,Jonathan Ward,Pittsburgh Steelers,nfl.p.33088,RB,6,1.10,423.l.129200
+423.p.31283,31283,David Wells,Tampa Bay Buccaneers,nfl.p.31283,TE,5,1.00,423.l.129200
+423.p.33138,33138,James Robinson,New Orleans Saints,nfl.p.33138,RB,11,1.00,423.l.129200
+423.p.27692,27692,AJ McCarron,Cincinnati Bengals,nfl.p.27692,QB,7,0.76,423.l.129200
+423.p.33444,33444,Dee Eskridge,Seattle Seahawks,nfl.p.33444,WR,5,0.50,423.l.129200
+423.p.40300,40300,Cephus Johnson III,Tampa Bay Buccaneers,nfl.p.40300,WR,5,0.00,423.l.129200
+423.p.40326,40326,Kearis Jackson,Tennessee Titans,nfl.p.40326,WR,7,0.00,423.l.129200
+423.p.40324,40324,Monte Pottebaum,Pittsburgh Steelers,nfl.p.40324,RB,6,0.00,423.l.129200
+423.p.40298,40298,Robert Burns,Atlanta Falcons,nfl.p.40298,RB,11,0.00,423.l.129200
+423.p.40299,40299,Adrian Martinez,Detroit Lions,nfl.p.40299,QB,9,0.00,423.l.129200
+423.p.40331,40331,Jordan Byrd,Pittsburgh Steelers,nfl.p.40331,WR,6,0.00,423.l.129200
+423.p.40322,40322,Thayer Thomas,Minnesota Vikings,nfl.p.40322,WR,13,0.00,423.l.129200
+423.p.40334,40334,Charles McClelland,Tennessee Titans,nfl.p.40334,RB,7,0.00,423.l.129200
+423.p.40338,40338,Shaquan Davis,Philadelphia Eagles,nfl.p.40338,WR,10,0.00,423.l.129200
+423.p.40348,40348,Terrell Bynum,Los Angeles Chargers,nfl.p.40348,WR,5,0.00,423.l.129200
+423.p.40321,40321,B.T. Potter,Pittsburgh Steelers,nfl.p.40321,K,6,0.00,423.l.129200
+423.p.40344,40344,Sy Barnett,New Orleans Saints,nfl.p.40344,WR,11,0.00,423.l.129200
+423.p.40313,40313,Mitchell Tinsley,Washington Commanders,nfl.p.40313,WR,14,0.00,423.l.129200
+423.p.40346,40346,Joel Wilson,Green Bay Packers,nfl.p.40346,TE,6,0.00,423.l.129200
+423.p.40311,40311,Kazmeir Allen,Washington Commanders,nfl.p.40311,WR,14,0.00,423.l.129200
+423.p.40308,40308,Malik Knowles,Minnesota Vikings,nfl.p.40308,WR,13,0.00,423.l.129200
+423.p.40307,40307,Jack Podlesny,Minnesota Vikings,nfl.p.40307,K,13,0.00,423.l.129200
+423.p.40352,40352,Michael Ezeike,Los Angeles Chargers,nfl.p.40352,TE,5,0.00,423.l.129200
+423.p.40345,40345,SaRodorick Thompson Jr.,Seattle Seahawks,nfl.p.40345,RB,5,0.00,423.l.129200
+423.p.32669,32669,Jacques Patrick,New York Jets,nfl.p.32669,RB,7,0.00,423.l.129200
+423.p.40290,40290,Malik Cunningham,Baltimore Ravens,nfl.p.40290,QB,13,0.00,423.l.129200
+423.p.30350,30350,Isaiah Ford,Miami Dolphins,nfl.p.30350,WR,10,0.00,423.l.129200
+423.p.30118,30118,Corey Davis,New York Jets,nfl.p.30118,WR,7,0.00,423.l.129200
+423.p.30122,30122,John Ross,Philadelphia Eagles,nfl.p.30122,WR,10,0.00,423.l.129200
+423.p.30132,30132,O.J. Howard,Houston Texans,nfl.p.30132,TE,7,0.00,423.l.129200
+423.p.40101,40101,Cameron Latu,San Francisco 49ers,nfl.p.40101,TE,9,0.00,423.l.129200
+423.p.40096,40096,Hendon Hooker,Detroit Lions,nfl.p.40096,QB,9,0.00,423.l.129200
+423.p.30256,30256,Marlon Mack,Arizona Cardinals,nfl.p.30256,RB,14,0.00,423.l.129200
+423.p.30269,30269,Brian Hill,Cleveland Browns,nfl.p.30269,RB,5,0.00,423.l.129200
+423.p.30275,30275,Jeremy McNichols,Washington Commanders,nfl.p.30275,RB,14,0.00,423.l.129200
+423.p.30337,30337,Zane Gonzalez,San Francisco 49ers,nfl.p.30337,K,9,0.00,423.l.129200
+423.p.30364,30364,Mason Schreck,Houston Texans,nfl.p.30364,TE,7,0.00,423.l.129200
+423.p.29666,29666,J.P. Holtz,New Orleans Saints,nfl.p.29666,TE,11,0.00,423.l.129200
+423.p.30396,30396,Keelan Cole Sr.,Las Vegas Raiders,nfl.p.30396,WR,13,0.00,423.l.129200
+423.p.30494,30494,Ricky Seals-Jones,Washington Commanders,nfl.p.30494,TE,14,0.00,423.l.129200
+423.p.30511,30511,Tim Patrick,Denver Broncos,nfl.p.30511,WR,9,0.00,423.l.129200
+423.p.30513,30513,C.J. Board,Tennessee Titans,nfl.p.30513,WR,7,0.00,423.l.129200
+423.p.30523,30523,Darrell Daniels,Detroit Lions,nfl.p.30523,TE,9,0.00,423.l.129200
+423.p.30550,30550,Victor Bolden,Denver Broncos,nfl.p.30550,WR,9,0.00,423.l.129200
+423.p.40017,40017,Alex Quevedo,New Orleans Saints,nfl.p.40017,K,11,0.00,423.l.129200
+423.p.40016,40016,Nathan Rourke,New York Giants,nfl.p.40016,QB,13,0.00,423.l.129200
+423.p.40015,40015,Parker White,Green Bay Packers,nfl.p.40015,K,6,0.00,423.l.129200
+423.p.40003,40003,Clint Ratkovich,Atlanta Falcons,nfl.p.40003,RB,11,0.00,423.l.129200
+423.p.29978,29978,Jaydon Mickens,Indianapolis Colts,nfl.p.29978,WR,11,0.00,423.l.129200
+423.p.29650,29650,J.D. McKissic,Washington Commanders,nfl.p.29650,RB,14,0.00,423.l.129200
+423.p.40289,40289,Tanner Morgan,Minnesota Vikings,nfl.p.40289,QB,13,0.00,423.l.129200
+423.p.28658,28658,Eric Tomlinson,Indianapolis Colts,nfl.p.28658,TE,11,0.00,423.l.129200
+423.p.40288,40288,Jared Wayne,Houston Texans,nfl.p.40288,WR,7,0.00,423.l.129200
+423.p.40285,40285,DeWayne McBride,Minnesota Vikings,nfl.p.40285,RB,13,0.00,423.l.129200
+423.p.28548,28548,Jesse James,Las Vegas Raiders,nfl.p.28548,TE,13,0.00,423.l.129200
+423.p.40272,40272,Max Duggan,Los Angeles Chargers,nfl.p.40272,QB,5,0.00,423.l.129200
+423.p.40267,40267,Kenny McIntosh,Seattle Seahawks,nfl.p.40267,RB,5,0.00,423.l.129200
+423.p.40261,40261,Brayden Willis,San Francisco 49ers,nfl.p.40261,TE,9,0.00,423.l.129200
+423.p.40260,40260,Lew Nichols,Philadelphia Eagles,nfl.p.40260,RB,10,0.00,423.l.129200
+423.p.40255,40255,Zack Kuntz,New York Jets,nfl.p.40255,TE,7,0.00,423.l.129200
+423.p.40254,40254,Derek Parish,Jacksonville Jaguars,nfl.p.40254,"RB,TE",9,0.00,423.l.129200
+423.p.40251,40251,Grant DuBose,Green Bay Packers,nfl.p.40251,WR,6,0.00,423.l.129200
+423.p.28730,28730,Damiere Byrd,Washington Commanders,nfl.p.28730,WR,14,0.00,423.l.129200
+423.p.29470,29470,Dwayne Washington,Denver Broncos,nfl.p.29470,RB,9,0.00,423.l.129200
+423.p.29070,29070,Adam Humphries,Washington Commanders,nfl.p.29070,WR,14,0.00,423.l.129200
+423.p.40220,40220,Tanner McKee,Philadelphia Eagles,nfl.p.40220,QB,10,0.00,423.l.129200
+423.p.29351,29351,Pharoh Cooper,Arizona Cardinals,nfl.p.29351,WR,14,0.00,423.l.129200
+423.p.40167,40167,Justin Shorter,Buffalo Bills,nfl.p.40167,WR,13,0.00,423.l.129200
+423.p.29420,29420,Jakeem Grant Sr.,Cleveland Browns,nfl.p.29420,WR,5,0.00,423.l.129200
+423.p.29421,29421,Nate Sudfeld,Detroit Lions,nfl.p.29421,QB,9,0.00,423.l.129200
+423.p.29435,29435,Brandon Allen,San Francisco 49ers,nfl.p.29435,QB,9,0.00,423.l.129200
+423.p.40153,40153,Stetson Bennett,Los Angeles Rams,nfl.p.40153,QB,10,0.00,423.l.129200
+423.p.40144,40144,Jake Haener,New Orleans Saints,nfl.p.40144,QB,11,0.00,423.l.129200
+423.p.29440,29440,Mike Thomas,Cincinnati Bengals,nfl.p.29440,WR,7,0.00,423.l.129200
+423.p.40354,40354,Pokey Wilson,Los Angeles Chargers,nfl.p.40354,WR,5,0.00,423.l.129200
+423.p.40450,40450,Holton Ahlers,Seattle Seahawks,nfl.p.40450,QB,5,0.00,423.l.129200
+423.p.40361,40361,Tyler Hoosman,Los Angeles Chargers,nfl.p.40361,RB,5,0.00,423.l.129200
+423.p.40712,40712,Tre'Shaun Harrison,Tennessee Titans,nfl.p.40712,WR,7,0.00,423.l.129200
+423.p.40680,40680,Tanner Taula,Tampa Bay Buccaneers,nfl.p.40680,TE,5,0.00,423.l.129200
+423.p.40689,40689,Isaiah Bowser,Buffalo Bills,nfl.p.40689,RB,13,0.00,423.l.129200
+423.p.40695,40695,Dallas Daniels,Denver Broncos,nfl.p.40695,WR,9,0.00,423.l.129200
+423.p.40703,40703,Taylor Grimes,Denver Broncos,nfl.p.40703,WR,9,0.00,423.l.129200
+423.p.40705,40705,Kris Leach,Denver Broncos,nfl.p.40705,TE,9,0.00,423.l.129200
+423.p.40710,40710,Jacob Copeland,Pittsburgh Steelers,nfl.p.40710,WR,6,0.00,423.l.129200
+423.p.40713,40713,Trey Wolff,Tennessee Titans,nfl.p.40713,K,7,0.00,423.l.129200
+423.p.40676,40676,Ryan Miller,Tampa Bay Buccaneers,nfl.p.40676,WR,5,0.00,423.l.129200
+423.p.40721,40721,Xazavian Valladay,New York Jets,nfl.p.40721,RB,7,0.00,423.l.129200
+423.p.40728,40728,Jesse Matthews,Houston Texans,nfl.p.40728,WR,7,0.00,423.l.129200
+423.p.40733,40733,John Samuel Shenker,Las Vegas Raiders,nfl.p.40733,TE,13,0.00,423.l.129200
+423.p.40734,40734,Alfonzo Graham,Pittsburgh Steelers,nfl.p.40734,RB,6,0.00,423.l.129200
+423.p.40737,40737,Dylan Drummond,Atlanta Falcons,nfl.p.40737,WR,11,0.00,423.l.129200
+423.p.40740,40740,Gavin Holmes,Tennessee Titans,nfl.p.40740,WR,7,0.00,423.l.129200
+423.p.40748,40748,Ellis Merriweather,Green Bay Packers,nfl.p.40748,RB,6,0.00,423.l.129200
+423.p.40679,40679,Ronnie Brown,Tampa Bay Buccaneers,nfl.p.40679,RB,5,0.00,423.l.129200
+423.p.40673,40673,Kade Warner,Tampa Bay Buccaneers,nfl.p.40673,WR,5,0.00,423.l.129200
+423.p.40757,40757,Austin Aune,Atlanta Falcons,nfl.p.40757,QB,11,0.00,423.l.129200
+423.p.40637,40637,Johnny Lumpkin,Denver Broncos,nfl.p.40637,TE,9,0.00,423.l.129200
+423.p.40619,40619,Daewood Davis,Carolina Panthers,nfl.p.40619,WR,7,0.00,423.l.129200
+423.p.40620,40620,Chris Coleman,Miami Dolphins,nfl.p.40620,WR,10,0.00,423.l.129200
+423.p.40622,40622,James Blackman,Miami Dolphins,nfl.p.40622,QB,10,0.00,423.l.129200

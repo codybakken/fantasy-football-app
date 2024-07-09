@@ -4,7 +4,6 @@ from ui import float_to_ordinal as fto
 
 
 
-
 st.title("Keeper List")
 
 #side bar element for navigation
@@ -14,10 +13,7 @@ with st.sidebar:
 owner = get_results.filter_df(get_results.owner_df,'manager_name',select_owner).values.tolist()
 grade = owner[0][7]
 st.markdown(f"# {select_owner}'s Keeper List")
-
 keeper_df = get_results.owner_keepers(get_results.keeper_eval,select_owner)
-
-
 st.markdown('### Eligible Keepers')
 for k in keeper_df.values.tolist():
     round_value = fto(k[6])

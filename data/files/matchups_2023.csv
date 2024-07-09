@@ -1,0 +1,197 @@
+week,is_playoffs,is_consolation,team_1_key,team_1_nickname,team_1_points,team_1_projected_points,is_bye,team_2_key,team_2_nickname,team_2_points,team_2_projected_points
+1,False,False,423.l.129200.t.2,Joel,127.48,141.64,False,423.l.129200.t.9,light,108.52,133.99
+2,False,False,423.l.129200.t.2,Joel,135.04,133.16,False,423.l.129200.t.1,Cody Bakken,154.26,108.51
+3,False,False,423.l.129200.t.2,Joel,137.22,137.47,False,423.l.129200.t.10,Brian,153.84,116.22
+4,False,False,423.l.129200.t.2,Joel,191.08,133.7,False,423.l.129200.t.5,Mike Bingham,163.52,133.82
+5,False,False,423.l.129200.t.2,Joel,163.66,134.0,False,423.l.129200.t.8,tyler,107.38,126.82
+6,False,False,423.l.129200.t.2,Joel,135.2,127.95,False,423.l.129200.t.6,Nick T,141.32,127.03
+7,False,False,423.l.129200.t.2,Joel,144.64,119.44,False,423.l.129200.t.11,ppratt,139.96,136.01
+8,False,False,423.l.129200.t.2,Joel,158.64,128.82,False,423.l.129200.t.4,chris l,169.68,145.57
+9,False,False,423.l.129200.t.2,Joel,132.9,121.7,False,423.l.129200.t.12,James,96.78,106.18
+10,False,False,423.l.129200.t.2,Joel,159.02,124.04,False,423.l.129200.t.3,Nick,135.72,127.77
+11,False,False,423.l.129200.t.2,Joel,111.26,134.93,False,423.l.129200.t.7,Jesse B,126.76,138.04
+12,False,False,423.l.129200.t.2,Joel,151.46,132.17,False,423.l.129200.t.9,light,136.60,120.98
+13,False,False,423.l.129200.t.2,Joel,160.26,132.15,False,423.l.129200.t.1,Cody Bakken,119.76,97.47
+14,False,False,423.l.129200.t.2,Joel,130.14,140.19,False,423.l.129200.t.10,Brian,137.60,121.67
+15,True,False,423.l.129200.t.2,Joel,132.64,138.35,False,423.l.129200.t.11,ppratt,126.96,138.75
+16,True,False,423.l.129200.t.2,Joel,187.16,147.78,False,423.l.129200.t.8,tyler,153.50,142.22
+17,True,False,423.l.129200.t.2,Joel,155.56,147.33,False,423.l.129200.t.7,Jesse B,99.66,130.50
+1,False,False,423.l.129200.t.7,Jesse B,97.68,125.21,False,423.l.129200.t.10,Brian,126.92,129.42
+2,False,False,423.l.129200.t.7,Jesse B,180.26,135.85,False,423.l.129200.t.5,Mike Bingham,151.80,135.86
+3,False,False,423.l.129200.t.7,Jesse B,150.84,142.98,False,423.l.129200.t.8,tyler,135.38,145.46
+4,False,False,423.l.129200.t.7,Jesse B,119.4,137.84,False,423.l.129200.t.6,Nick T,130.72,129.50
+5,False,False,423.l.129200.t.7,Jesse B,155.62,135.77,False,423.l.129200.t.11,ppratt,103.22,137.80
+6,False,False,423.l.129200.t.7,Jesse B,106.72,137.69,False,423.l.129200.t.4,chris l,156.24,145.00
+7,False,False,423.l.129200.t.7,Jesse B,192.52,126.91,False,423.l.129200.t.12,James,141.74,111.84
+8,False,False,423.l.129200.t.7,Jesse B,126.42,135.53,False,423.l.129200.t.3,Nick,176.20,133.48
+9,False,False,423.l.129200.t.7,Jesse B,180.06,132.64,False,423.l.129200.t.1,Cody Bakken,130.98,118.21
+10,False,False,423.l.129200.t.7,Jesse B,108.7,123.08,False,423.l.129200.t.9,light,112.98,122.86
+11,False,False,423.l.129200.t.7,Jesse B,126.76,138.04,False,423.l.129200.t.2,Joel,111.26,134.93
+12,False,False,423.l.129200.t.7,Jesse B,150.12,132.61,False,423.l.129200.t.10,Brian,98.64,132.51
+13,False,False,423.l.129200.t.7,Jesse B,113.86,125.92,False,423.l.129200.t.5,Mike Bingham,152.98,127.29
+14,False,False,423.l.129200.t.7,Jesse B,126.94,129.92,False,423.l.129200.t.8,tyler,153.12,146.00
+15,True,False,423.l.129200.t.7,Jesse B,136.04,126.27,False,423.l.129200.t.5,Mike Bingham,110.10,135.98
+16,True,False,423.l.129200.t.7,Jesse B,120.76,123.07,False,423.l.129200.t.4,chris l,91.22,140.13
+17,True,False,423.l.129200.t.7,Jesse B,99.66,130.5,False,423.l.129200.t.2,Joel,155.56,147.33
+1,False,False,423.l.129200.t.4,chris l,130.26,128.14,False,423.l.129200.t.6,Nick T,122.94,131.96
+2,False,False,423.l.129200.t.4,chris l,118.94,136.49,False,423.l.129200.t.11,ppratt,125.68,127.89
+3,False,False,423.l.129200.t.4,chris l,176.52,138.54,False,423.l.129200.t.1,Cody Bakken,106.52,109.70
+4,False,False,423.l.129200.t.4,chris l,152.96,133.87,False,423.l.129200.t.12,James,136.54,124.83
+5,False,False,423.l.129200.t.4,chris l,234.48,127.44,False,423.l.129200.t.3,Nick,129.42,127.90
+6,False,False,423.l.129200.t.4,chris l,156.24,145.0,False,423.l.129200.t.7,Jesse B,106.72,137.69
+7,False,False,423.l.129200.t.4,chris l,161.68,135.75,False,423.l.129200.t.9,light,139.06,111.80
+8,False,False,423.l.129200.t.4,chris l,169.68,145.57,False,423.l.129200.t.2,Joel,158.64,128.82
+9,False,False,423.l.129200.t.4,chris l,139.56,130.6,False,423.l.129200.t.10,Brian,129.54,121.64
+10,False,False,423.l.129200.t.4,chris l,169.86,139.44,False,423.l.129200.t.5,Mike Bingham,147.34,127.27
+11,False,False,423.l.129200.t.4,chris l,166.86,143.92,False,423.l.129200.t.8,tyler,138.20,143.80
+12,False,False,423.l.129200.t.4,chris l,171.92,145.5,False,423.l.129200.t.6,Nick T,116.14,122.66
+13,False,False,423.l.129200.t.4,chris l,204.24,148.28,False,423.l.129200.t.11,ppratt,115.10,126.51
+14,False,False,423.l.129200.t.4,chris l,139.78,152.94,False,423.l.129200.t.1,Cody Bakken,102.52,96.29
+16,True,False,423.l.129200.t.4,chris l,91.22,140.13,False,423.l.129200.t.7,Jesse B,120.76,123.07
+17,True,False,423.l.129200.t.4,chris l,157.06,148.36,False,423.l.129200.t.8,tyler,142.34,142.72
+1,False,False,423.l.129200.t.8,tyler,180.38,139.93,False,423.l.129200.t.12,James,108.98,129.59
+2,False,False,423.l.129200.t.8,tyler,167.12,143.62,False,423.l.129200.t.3,Nick,123.50,129.74
+3,False,False,423.l.129200.t.8,tyler,135.38,145.46,False,423.l.129200.t.7,Jesse B,150.84,142.98
+4,False,False,423.l.129200.t.8,tyler,174.68,143.59,False,423.l.129200.t.9,light,91.08,125.55
+5,False,False,423.l.129200.t.8,tyler,107.38,126.82,False,423.l.129200.t.2,Joel,163.66,134.00
+6,False,False,423.l.129200.t.8,tyler,141.64,140.5,False,423.l.129200.t.10,Brian,157.64,133.56
+7,False,False,423.l.129200.t.8,tyler,131.14,136.27,False,423.l.129200.t.5,Mike Bingham,111.62,114.67
+8,False,False,423.l.129200.t.8,tyler,175.42,145.17,False,423.l.129200.t.1,Cody Bakken,139.10,120.28
+9,False,False,423.l.129200.t.8,tyler,142.84,138.34,False,423.l.129200.t.6,Nick T,131.84,123.99
+10,False,False,423.l.129200.t.8,tyler,137.28,144.32,False,423.l.129200.t.11,ppratt,132.32,117.63
+11,False,False,423.l.129200.t.8,tyler,138.2,143.8,False,423.l.129200.t.4,chris l,166.86,143.92
+12,False,False,423.l.129200.t.8,tyler,155.28,143.1,False,423.l.129200.t.12,James,133.78,119.88
+13,False,False,423.l.129200.t.8,tyler,134.1,126.66,False,423.l.129200.t.3,Nick,168.28,115.52
+14,False,False,423.l.129200.t.8,tyler,153.12,146.0,False,423.l.129200.t.7,Jesse B,126.94,129.92
+16,True,False,423.l.129200.t.8,tyler,153.5,142.22,False,423.l.129200.t.2,Joel,187.16,147.78
+17,True,False,423.l.129200.t.8,tyler,142.34,142.72,False,423.l.129200.t.4,chris l,157.06,148.36
+1,False,False,423.l.129200.t.11,ppratt,126.14,128.05,False,423.l.129200.t.1,Cody Bakken,97.84,124.54
+2,False,False,423.l.129200.t.11,ppratt,125.68,127.89,False,423.l.129200.t.4,chris l,118.94,136.49
+3,False,False,423.l.129200.t.11,ppratt,121.02,133.31,False,423.l.129200.t.12,James,128.86,120.82
+4,False,False,423.l.129200.t.11,ppratt,159.26,137.69,False,423.l.129200.t.3,Nick,123.62,128.63
+5,False,False,423.l.129200.t.11,ppratt,103.22,137.8,False,423.l.129200.t.7,Jesse B,155.62,135.77
+6,False,False,423.l.129200.t.11,ppratt,157.52,139.18,False,423.l.129200.t.9,light,128.74,123.35
+7,False,False,423.l.129200.t.11,ppratt,139.96,136.01,False,423.l.129200.t.2,Joel,144.64,119.44
+8,False,False,423.l.129200.t.11,ppratt,109.86,137.06,False,423.l.129200.t.10,Brian,123.78,135.19
+9,False,False,423.l.129200.t.11,ppratt,79.92,117.13,False,423.l.129200.t.5,Mike Bingham,90.78,118.23
+10,False,False,423.l.129200.t.11,ppratt,132.32,117.63,False,423.l.129200.t.8,tyler,137.28,144.32
+11,False,False,423.l.129200.t.11,ppratt,143.34,123.11,False,423.l.129200.t.6,Nick T,74.54,117.66
+12,False,False,423.l.129200.t.11,ppratt,192.46,139.07,False,423.l.129200.t.1,Cody Bakken,82.60,116.57
+13,False,False,423.l.129200.t.11,ppratt,115.1,126.51,False,423.l.129200.t.4,chris l,204.24,148.28
+14,False,False,423.l.129200.t.11,ppratt,154.46,134.14,False,423.l.129200.t.12,James,109.88,110.36
+15,True,False,423.l.129200.t.11,ppratt,126.96,138.75,False,423.l.129200.t.2,Joel,132.64,138.35
+16,True,False,423.l.129200.t.11,ppratt,129.1,137.19,False,423.l.129200.t.5,Mike Bingham,114.82,126.88
+1,False,False,423.l.129200.t.5,Mike Bingham,107.64,143.52,False,423.l.129200.t.3,Nick,103.90,123.36
+2,False,False,423.l.129200.t.5,Mike Bingham,151.8,135.86,False,423.l.129200.t.7,Jesse B,180.26,135.85
+3,False,False,423.l.129200.t.5,Mike Bingham,140.52,141.89,False,423.l.129200.t.9,light,135.86,126.34
+4,False,False,423.l.129200.t.5,Mike Bingham,163.52,133.82,False,423.l.129200.t.2,Joel,191.08,133.70
+5,False,False,423.l.129200.t.5,Mike Bingham,190.98,137.45,False,423.l.129200.t.10,Brian,150.86,124.49
+6,False,False,423.l.129200.t.5,Mike Bingham,109.82,144.55,False,423.l.129200.t.1,Cody Bakken,111.04,124.26
+7,False,False,423.l.129200.t.5,Mike Bingham,111.62,114.67,False,423.l.129200.t.8,tyler,131.14,136.27
+8,False,False,423.l.129200.t.5,Mike Bingham,131.16,135.63,False,423.l.129200.t.6,Nick T,132.22,128.93
+9,False,False,423.l.129200.t.5,Mike Bingham,90.78,118.23,False,423.l.129200.t.11,ppratt,79.92,117.13
+10,False,False,423.l.129200.t.5,Mike Bingham,147.34,127.27,False,423.l.129200.t.4,chris l,169.86,139.44
+11,False,False,423.l.129200.t.5,Mike Bingham,128.02,134.88,False,423.l.129200.t.12,James,169.90,126.81
+12,False,False,423.l.129200.t.5,Mike Bingham,154.32,139.78,False,423.l.129200.t.3,Nick,133.46,128.02
+13,False,False,423.l.129200.t.5,Mike Bingham,152.98,127.29,False,423.l.129200.t.7,Jesse B,113.86,125.92
+14,False,False,423.l.129200.t.5,Mike Bingham,114.86,139.98,False,423.l.129200.t.9,light,85.20,122.06
+15,True,False,423.l.129200.t.5,Mike Bingham,110.1,135.98,False,423.l.129200.t.7,Jesse B,136.04,126.27
+16,True,False,423.l.129200.t.5,Mike Bingham,114.82,126.88,False,423.l.129200.t.11,ppratt,129.10,137.19
+1,False,False,423.l.129200.t.12,James,108.98,129.59,False,423.l.129200.t.8,tyler,180.38,139.93
+2,False,False,423.l.129200.t.12,James,177.52,122.53,False,423.l.129200.t.6,Nick T,134.08,132.18
+3,False,False,423.l.129200.t.12,James,128.86,120.82,False,423.l.129200.t.11,ppratt,121.02,133.31
+4,False,False,423.l.129200.t.12,James,136.54,124.83,False,423.l.129200.t.4,chris l,152.96,133.87
+5,False,False,423.l.129200.t.12,James,76.16,126.17,False,423.l.129200.t.1,Cody Bakken,82.16,99.26
+6,False,False,423.l.129200.t.12,James,99.28,119.89,False,423.l.129200.t.3,Nick,83.94,125.53
+7,False,False,423.l.129200.t.12,James,141.74,111.84,False,423.l.129200.t.7,Jesse B,192.52,126.91
+8,False,False,423.l.129200.t.12,James,132.36,125.3,False,423.l.129200.t.9,light,151.20,129.00
+9,False,False,423.l.129200.t.12,James,96.78,106.18,False,423.l.129200.t.2,Joel,132.90,121.70
+10,False,False,423.l.129200.t.12,James,170.1,103.45,False,423.l.129200.t.10,Brian,95.32,124.41
+11,False,False,423.l.129200.t.12,James,169.9,126.81,False,423.l.129200.t.5,Mike Bingham,128.02,134.88
+12,False,False,423.l.129200.t.12,James,133.78,119.88,False,423.l.129200.t.8,tyler,155.28,143.10
+13,False,False,423.l.129200.t.12,James,100.68,106.24,False,423.l.129200.t.6,Nick T,130.38,114.84
+14,False,False,423.l.129200.t.12,James,109.88,110.36,False,423.l.129200.t.11,ppratt,154.46,134.14
+15,True,True,423.l.129200.t.12,James,98.42,107.36,False,423.l.129200.t.1,Cody Bakken,94.18,95.07
+16,True,True,423.l.129200.t.12,James,137.7,116.82,False,423.l.129200.t.9,light,125.28,120.78
+17,True,True,423.l.129200.t.12,James,133.4,124.58,False,423.l.129200.t.10,Brian,113.02,122.44
+1,False,False,423.l.129200.t.10,Brian,126.92,129.42,False,423.l.129200.t.7,Jesse B,97.68,125.21
+2,False,False,423.l.129200.t.10,Brian,101.74,128.97,False,423.l.129200.t.9,light,124.52,129.58
+3,False,False,423.l.129200.t.10,Brian,153.84,116.22,False,423.l.129200.t.2,Joel,137.22,137.47
+4,False,False,423.l.129200.t.10,Brian,88.98,114.93,False,423.l.129200.t.1,Cody Bakken,52.02,106.26
+5,False,False,423.l.129200.t.10,Brian,150.86,124.49,False,423.l.129200.t.5,Mike Bingham,190.98,137.45
+6,False,False,423.l.129200.t.10,Brian,157.64,133.56,False,423.l.129200.t.8,tyler,141.64,140.50
+7,False,False,423.l.129200.t.10,Brian,79.3,129.67,False,423.l.129200.t.6,Nick T,118.96,121.41
+8,False,False,423.l.129200.t.10,Brian,123.78,135.19,False,423.l.129200.t.11,ppratt,109.86,137.06
+9,False,False,423.l.129200.t.10,Brian,129.54,121.64,False,423.l.129200.t.4,chris l,139.56,130.60
+10,False,False,423.l.129200.t.10,Brian,95.32,124.41,False,423.l.129200.t.12,James,170.10,103.45
+11,False,False,423.l.129200.t.10,Brian,84.54,128.14,False,423.l.129200.t.3,Nick,144.94,121.49
+12,False,False,423.l.129200.t.10,Brian,98.64,132.51,False,423.l.129200.t.7,Jesse B,150.12,132.61
+13,False,False,423.l.129200.t.10,Brian,139.46,120.58,False,423.l.129200.t.9,light,156.10,112.39
+14,False,False,423.l.129200.t.10,Brian,137.6,121.67,False,423.l.129200.t.2,Joel,130.14,140.19
+15,True,True,423.l.129200.t.10,Brian,166.84,123.3,False,423.l.129200.t.3,Nick,119.98,124.95
+16,True,True,423.l.129200.t.10,Brian,150.54,126.96,False,423.l.129200.t.6,Nick T,145.32,120.77
+17,True,True,423.l.129200.t.10,Brian,113.02,122.44,False,423.l.129200.t.12,James,133.40,124.58
+1,False,False,423.l.129200.t.9,light,108.52,133.99,False,423.l.129200.t.2,Joel,127.48,141.64
+2,False,False,423.l.129200.t.9,light,124.52,129.58,False,423.l.129200.t.10,Brian,101.74,128.97
+3,False,False,423.l.129200.t.9,light,135.86,126.34,False,423.l.129200.t.5,Mike Bingham,140.52,141.89
+4,False,False,423.l.129200.t.9,light,91.08,125.55,False,423.l.129200.t.8,tyler,174.68,143.59
+5,False,False,423.l.129200.t.9,light,121.9,118.53,False,423.l.129200.t.6,Nick T,110.42,109.52
+6,False,False,423.l.129200.t.9,light,128.74,123.35,False,423.l.129200.t.11,ppratt,157.52,139.18
+7,False,False,423.l.129200.t.9,light,139.06,111.8,False,423.l.129200.t.4,chris l,161.68,135.75
+8,False,False,423.l.129200.t.9,light,151.2,129.0,False,423.l.129200.t.12,James,132.36,125.30
+9,False,False,423.l.129200.t.9,light,115.0,125.84,False,423.l.129200.t.3,Nick,99.14,109.17
+10,False,False,423.l.129200.t.9,light,112.98,122.86,False,423.l.129200.t.7,Jesse B,108.70,123.08
+11,False,False,423.l.129200.t.9,light,160.82,125.01,False,423.l.129200.t.1,Cody Bakken,104.62,122.00
+12,False,False,423.l.129200.t.9,light,136.6,120.98,False,423.l.129200.t.2,Joel,151.46,132.17
+13,False,False,423.l.129200.t.9,light,156.1,112.39,False,423.l.129200.t.10,Brian,139.46,120.58
+14,False,False,423.l.129200.t.9,light,85.2,122.06,False,423.l.129200.t.5,Mike Bingham,114.86,139.98
+16,True,True,423.l.129200.t.9,light,125.28,120.78,False,423.l.129200.t.12,James,137.70,116.82
+17,True,True,423.l.129200.t.9,light,148.52,106.0,False,423.l.129200.t.6,Nick T,87.22,121.31
+1,False,False,423.l.129200.t.6,Nick T,122.94,131.96,False,423.l.129200.t.4,chris l,130.26,128.14
+2,False,False,423.l.129200.t.6,Nick T,134.08,132.18,False,423.l.129200.t.12,James,177.52,122.53
+3,False,False,423.l.129200.t.6,Nick T,178.9,123.83,False,423.l.129200.t.3,Nick,124.52,122.75
+4,False,False,423.l.129200.t.6,Nick T,130.72,129.5,False,423.l.129200.t.7,Jesse B,119.40,137.84
+5,False,False,423.l.129200.t.6,Nick T,110.42,109.52,False,423.l.129200.t.9,light,121.90,118.53
+6,False,False,423.l.129200.t.6,Nick T,141.32,127.03,False,423.l.129200.t.2,Joel,135.20,127.95
+7,False,False,423.l.129200.t.6,Nick T,118.96,121.41,False,423.l.129200.t.10,Brian,79.30,129.67
+8,False,False,423.l.129200.t.6,Nick T,132.22,128.93,False,423.l.129200.t.5,Mike Bingham,131.16,135.63
+9,False,False,423.l.129200.t.6,Nick T,131.84,123.99,False,423.l.129200.t.8,tyler,142.84,138.34
+10,False,False,423.l.129200.t.6,Nick T,122.46,116.8,False,423.l.129200.t.1,Cody Bakken,127.46,127.82
+11,False,False,423.l.129200.t.6,Nick T,74.54,117.66,False,423.l.129200.t.11,ppratt,143.34,123.11
+12,False,False,423.l.129200.t.6,Nick T,116.14,122.66,False,423.l.129200.t.4,chris l,171.92,145.50
+13,False,False,423.l.129200.t.6,Nick T,130.38,114.84,False,423.l.129200.t.12,James,100.68,106.24
+14,False,False,423.l.129200.t.6,Nick T,125.54,126.48,False,423.l.129200.t.3,Nick,135.58,119.08
+16,True,True,423.l.129200.t.6,Nick T,145.32,120.77,False,423.l.129200.t.10,Brian,150.54,126.96
+17,True,True,423.l.129200.t.6,Nick T,87.22,121.31,False,423.l.129200.t.9,light,148.52,106.00
+1,False,False,423.l.129200.t.3,Nick,103.9,123.36,False,423.l.129200.t.5,Mike Bingham,107.64,143.52
+2,False,False,423.l.129200.t.3,Nick,123.5,129.74,False,423.l.129200.t.8,tyler,167.12,143.62
+3,False,False,423.l.129200.t.3,Nick,124.52,122.75,False,423.l.129200.t.6,Nick T,178.90,123.83
+4,False,False,423.l.129200.t.3,Nick,123.62,128.63,False,423.l.129200.t.11,ppratt,159.26,137.69
+5,False,False,423.l.129200.t.3,Nick,129.42,127.9,False,423.l.129200.t.4,chris l,234.48,127.44
+6,False,False,423.l.129200.t.3,Nick,83.94,125.53,False,423.l.129200.t.12,James,99.28,119.89
+7,False,False,423.l.129200.t.3,Nick,110.18,99.79,False,423.l.129200.t.1,Cody Bakken,130.74,123.15
+8,False,False,423.l.129200.t.3,Nick,176.2,133.48,False,423.l.129200.t.7,Jesse B,126.42,135.53
+9,False,False,423.l.129200.t.3,Nick,99.14,109.17,False,423.l.129200.t.9,light,115.00,125.84
+10,False,False,423.l.129200.t.3,Nick,135.72,127.77,False,423.l.129200.t.2,Joel,159.02,124.04
+11,False,False,423.l.129200.t.3,Nick,144.94,121.49,False,423.l.129200.t.10,Brian,84.54,128.14
+12,False,False,423.l.129200.t.3,Nick,133.46,128.02,False,423.l.129200.t.5,Mike Bingham,154.32,139.78
+13,False,False,423.l.129200.t.3,Nick,168.28,115.52,False,423.l.129200.t.8,tyler,134.10,126.66
+14,False,False,423.l.129200.t.3,Nick,135.58,119.08,False,423.l.129200.t.6,Nick T,125.54,126.48
+15,True,True,423.l.129200.t.3,Nick,119.98,124.95,False,423.l.129200.t.10,Brian,166.84,123.30
+16,True,True,423.l.129200.t.3,Nick,149.7,122.36,False,423.l.129200.t.1,Cody Bakken,136.88,102.32
+1,False,False,423.l.129200.t.1,Cody Bakken,97.84,124.54,False,423.l.129200.t.11,ppratt,126.14,128.05
+2,False,False,423.l.129200.t.1,Cody Bakken,154.26,108.51,False,423.l.129200.t.2,Joel,135.04,133.16
+3,False,False,423.l.129200.t.1,Cody Bakken,106.52,109.7,False,423.l.129200.t.4,chris l,176.52,138.54
+4,False,False,423.l.129200.t.1,Cody Bakken,52.02,106.26,False,423.l.129200.t.10,Brian,88.98,114.93
+5,False,False,423.l.129200.t.1,Cody Bakken,82.16,99.26,False,423.l.129200.t.12,James,76.16,126.17
+6,False,False,423.l.129200.t.1,Cody Bakken,111.04,124.26,False,423.l.129200.t.5,Mike Bingham,109.82,144.55
+7,False,False,423.l.129200.t.1,Cody Bakken,130.74,123.15,False,423.l.129200.t.3,Nick,110.18,99.79
+8,False,False,423.l.129200.t.1,Cody Bakken,139.1,120.28,False,423.l.129200.t.8,tyler,175.42,145.17
+9,False,False,423.l.129200.t.1,Cody Bakken,130.98,118.21,False,423.l.129200.t.7,Jesse B,180.06,132.64
+10,False,False,423.l.129200.t.1,Cody Bakken,127.46,127.82,False,423.l.129200.t.6,Nick T,122.46,116.80
+11,False,False,423.l.129200.t.1,Cody Bakken,104.62,122.0,False,423.l.129200.t.9,light,160.82,125.01
+12,False,False,423.l.129200.t.1,Cody Bakken,82.6,116.57,False,423.l.129200.t.11,ppratt,192.46,139.07
+13,False,False,423.l.129200.t.1,Cody Bakken,119.76,97.47,False,423.l.129200.t.2,Joel,160.26,132.15
+14,False,False,423.l.129200.t.1,Cody Bakken,102.52,96.29,False,423.l.129200.t.4,chris l,139.78,152.94
+15,True,True,423.l.129200.t.1,Cody Bakken,94.18,95.07,False,423.l.129200.t.12,James,98.42,107.36
+16,True,True,423.l.129200.t.1,Cody Bakken,136.88,102.32,False,423.l.129200.t.3,Nick,149.70,122.36
