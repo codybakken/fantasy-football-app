@@ -2,9 +2,13 @@ import streamlit as st
 import get_results
 from ui import float_to_ordinal as fto
 
-
-
-st.title("Keeper List")
+st.markdown('# Sounds by the Sea')
+st.markdown('### Tenative Draft Day: August 24, 2024')
+st.markdown('### Buy-In Details')
+st.markdown("""
+            * 100 total buy-in
+            * $90 for the pot
+            * $10 for the weekly point winner""")
 
 #side bar element for navigation
 with st.sidebar:
@@ -12,7 +16,7 @@ with st.sidebar:
 
 owner = get_results.filter_df(get_results.owner_df,'manager_name',select_owner).values.tolist()
 grade = owner[0][7]
-st.markdown(f"# {select_owner}'s Keeper List")
+st.markdown(f"## {select_owner}'s Keeper List")
 keeper_df = get_results.owner_keepers(get_results.keeper_eval,select_owner)
 st.markdown('### Eligible Keepers')
 for k in keeper_df.values.tolist():
